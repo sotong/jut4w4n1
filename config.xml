@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<config>
+  <repeat>true</repeat>
+  <volume>50</volume>
+  <logo.file>https://jut4w4n1.googlecode.com/svn/trunk/Logo.png</logo.file>
+  <logo.over>1</logo.over>
+  <logo.out>0.5</logo.out>
+  <logo.hide>false</logo.hide>
+  <logo.position>top-left</logo.position>
+  <logo.link>http://jut4w4n-streaming.blogspot.com</logo.link>
+  <controlbar>bottom</controlbar>
+  <plugins>timeslidertooltipplugin-3</plugins>
+  <dock>true</dock>
+  <skin>https://jut4w4n1.googlecode.com/svn/trunk/skin.swf</skin>
+  <screencolor>#000000</screencolor>
+</config>
