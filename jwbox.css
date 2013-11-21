@@ -1,0 +1,38 @@
+#jwbox_background{
+	display: none;
+	position: fixed;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	z-index:1001;
+	zoom: 1;
+	-moz-opacity: 0.8;
+	opacity:0.80;
+	filter: alpha(opacity = 80);
+	overflow: auto;
+}
+#jwboxContactClose{
+       font-size:20px;
+       line-height:14px;
+       right:0px;
+       bottom:0px;
+       position:absolute;
+       color:#ff0000;
+       font-weight:700;
+       display:block;
+}
+.jwbox_hidden {
+	display: none;
+	position: fixed;
+	padding: 16px 16px 25px 16px;
+	border: 2px solid white;
+        background-color: white;
+	z-index:1002;
+	overflow: hidden;
+	background-image:url(https://jut4w4n1.googlecode.com/svn/trunk/lightbox-close.png);
+	background-position:bottom right;
+	background-repeat:no-repeat;
+}
+.jwbox_content{position:relative;}
