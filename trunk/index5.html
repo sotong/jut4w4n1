@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript" src="jwplayer/jwplayer.js"></script>
+    <script type="text/javascript">jwplayer.key = "J0+IRhB3+LyO0fw2I+2qT2Df8HVdPabwmJVeDWFFoplmVxFF5uw6ZlnPNXo=";</script>
+</head>
+<body>
+<video height="270" width="480" id="test">
+    <source src="uploads/big_buck_bunny.mp4" type="video/mp4">
+</video>
+<script type="text/javascript">
+    jwplayer("test").setup({
+        file:"uploads/big_buck_bunny.mp4",
+        aboutlink:"http://teamdgt.org",
+        //abouttext:"Team DGT (look in index5.html to change)",
+        modes:[
+            { type:'html5' }
+        ]
+    });
+</script>
+</body>
+</html>
