@@ -1,0 +1,2995 @@
+﻿1
+00:00:00,666 --> 00:00:03,366
+Lembah Hudson, New York
+-- 1781 --
+
+2
+00:00:36,667 --> 00:00:38,420
+Crane !
+
+3
+00:01:22,520 --> 00:01:24,120
+Kita kehabisan waktu !
+
+4
+00:01:24,155 --> 00:01:25,388
+Ichabod, Tidak.
+
+5
+00:01:25,423 --> 00:01:27,023
+Tidak, Tidak, Tidak.
+Tetap bersamaku.
+
+6
+00:03:26,310 --> 00:03:30,213
+<i>♪ Please allow me to introduce myself ♪</i>
+
+7
+00:03:30,248 --> 00:03:33,183
+<i>♪ I'm a man of wealth and taste ♪</i>
+
+8
+00:03:34,719 --> 00:03:38,054
+<i>♪ I've been around for a long, long year ♪</i>
+
+9
+00:03:38,089 --> 00:03:42,859
+<i>♪ Stole many a man's soul and faith ♪</i>
+
+10
+00:03:42,894 --> 00:03:44,661
+<i>♪ I was around ♪</i>
+
+11
+00:00:04,686 --> 00:00:34,686
+<font color="#800080">Translated by</font><font color="#ff8000"> erickjiwono</font> a.k.a <font color="#0080c0">er1ck9</font>
+<font color="#ff00ff">http://erickjiwono.blogspot.com</font>
+
+12
+00:00:40,111 --> 00:01:00,111
+<font color="#ffff00">IDFL SubsCrew</font>
+<font color="#800080">http://IDFL.us</font>
+
+13
+00:01:00,136 --> 00:01:10,136
+<font color="#ffff00">Visit me at Subscene</font>
+<font color="#80ff00">http://subscene.com/u/702663</font>
+
+14
+00:03:44,695 --> 00:03:46,930
+<i>♪ When Jesus Christ ♪</i>
+
+15
+00:03:46,964 --> 00:03:51,735
+<i>♪ Had his moment of doubt and pain ♪</i>
+
+16
+00:03:51,769 --> 00:03:54,738
+<i>♪ Made damn sure that Pilate ♪</i>
+
+17
+00:03:54,772 --> 00:03:56,206
+<i>♪ Washed his hands ♪</i>
+
+18
+00:03:56,240 --> 00:03:58,141
+<i>♪ And sealed his fate... ♪</i>
+
+19
+00:03:58,176 --> 00:04:00,076
+Kenapa dengan raut mukamu itu ?
+
+20
+00:04:00,111 --> 00:04:02,345
+Raut muka-ku ini ekspresif.
+
+21
+00:04:02,380 --> 00:04:03,680
+Umur adalah hadiah dari kebijaksaan.
+
+22
+00:04:09,020 --> 00:04:10,987
+Oh, Apa yang kau dapat ?
+
+23
+00:04:11,022 --> 00:04:14,758
+Pembunuhan yang belum
+terpecahkan di Dobbs Ferry.
+
+24
+00:04:14,792 --> 00:04:17,527
+Mungkin, kita bisa membantu
+mencari beberapa petunjuk.
+
+25
+00:04:18,963 --> 00:04:20,664
+Tapi, kau tak perlu khawatir...
+
+26
+00:04:20,698 --> 00:04:22,365
+...Kau-kan, sudah mau pindah.
+
+27
+00:04:22,400 --> 00:04:24,901
+Kau tahu, beberapa orang,
+saat mereka membaca koran,...
+
+28
+00:04:24,936 --> 00:04:25,902
+...mereka sambil bersantai.
+
+29
+00:04:25,937 --> 00:04:27,037
+Tidak dikejar waktu.
+
+30
+00:04:27,071 --> 00:04:29,439
+Waktuku punya jadwal tersendiri.
+
+31
+00:04:29,474 --> 00:04:31,875
+Dan kau seorang pencuri kentang goreng.
+
+32
+00:04:31,909 --> 00:04:32,876
+Mau kopi, Sheriff ?
+
+33
+00:04:32,910 --> 00:04:34,678
+Oh, Terima kasih banyak.
+
+34
+00:04:35,112 --> 00:04:37,079
+Kau tak apa, Abbie ?
+
+35
+00:04:37,348 --> 00:04:39,015
+Aku baik-baik saja, Maddie.
+Terima kasih.
+
+36
+00:04:39,050 --> 00:04:42,018
+Tidakkah kau merasa aneh, dengan semua
+kasus yang belum terpecahkan...
+
+37
+00:04:42,053 --> 00:04:43,253
+...di sekitar sini ?
+
+38
+00:04:43,287 --> 00:04:44,855
+Maksudmu, Dari antara semua orang.
+
+39
+00:04:44,889 --> 00:04:46,189
+Hentikan.
+
+40
+00:04:46,224 --> 00:04:47,390
+Aku tahu yang kau lakukan.
+
+41
+00:04:47,425 --> 00:04:50,861
+Kau terlalu banyak minum kopi.
+
+42
+00:04:50,895 --> 00:04:52,596
+Kau terlihat aneh.
+
+43
+00:04:52,630 --> 00:04:54,764
+Hanya bilang, Apa kau tak
+merindukan semua kegembiraan ini ?
+
+44
+00:04:54,799 --> 00:04:56,933
+Quantico merekrut 240 orang per tahun.
+
+45
+00:04:56,968 --> 00:05:00,670
+Itu satu-satunya program rekrutan FBI.
+
+46
+00:05:00,705 --> 00:05:02,873
+Aku tak bilang, kalau kau masuk kategori...
+
+47
+00:05:02,907 --> 00:05:04,975
+Tetapi, Kau melarikan diri.
+
+48
+00:05:08,513 --> 00:05:10,080
+Hei, Makan sup pie-mu, orang tua.
+
+49
+00:05:10,114 --> 00:05:11,715
+Waktu sudah habis.
+
+50
+00:05:11,749 --> 00:05:12,916
+Aku yang traktir.
+
+51
+00:05:19,490 --> 00:05:20,657
+Bapa Pendeta.
+
+52
+00:05:20,991 --> 00:05:22,959
+Sheriff .
+
+53
+00:05:25,263 --> 00:05:26,930
+<i>Charlie 101 ke Komandan.</i>
+
+54
+00:05:26,964 --> 00:05:28,732
+Silakan, Charlie 101.
+
+55
+00:05:28,766 --> 00:05:31,501
+<i>Aku dapat info dari Fox Creek Stables.</i>
+
+56
+00:05:31,536 --> 00:05:32,769
+<i>Beberapa kuda mengalami
+ketakutan karena sesuatu.</i>
+
+57
+00:05:32,804 --> 00:05:34,438
+<i>Mungkin, karena anjing hutan lagi.</i>
+
+58
+00:05:34,472 --> 00:05:35,539
+Baiklah.
+
+59
+00:05:35,573 --> 00:05:37,340
+Kami segera ke sana, Ganti !
+
+60
+00:05:39,177 --> 00:05:42,779
+Dan inilah alasan aku masuk
+ke dalam kepolisian.
+
+61
+00:05:42,814 --> 00:05:44,281
+Tapi, Kau akan merindukannya.
+
+62
+00:05:44,315 --> 00:05:45,615
+Pegang itu.
+
+63
+00:06:16,948 --> 00:06:19,676
+Kau masuk ke rumah.
+Cari Jimmy.
+
+64
+00:06:20,718 --> 00:06:22,252
+Berhati-hatilah.
+
+65
+00:06:22,286 --> 00:06:23,587
+Baiklah.
+
+66
+00:06:30,728 --> 00:06:32,396
+Tn. Oglevie ?
+
+67
+00:06:32,430 --> 00:06:35,132
+Ini Letnan Mills.
+
+68
+00:06:58,790 --> 00:07:01,425
+Ooh. Shh, Shh, Shh,
+Tenanglah. Tenanglah.
+
+69
+00:07:01,459 --> 00:07:02,693
+<i>Tenang..
+Tenang..</i>
+
+70
+00:07:02,727 --> 00:07:03,927
+<i>Tenang..
+Tenang..</i>
+
+71
+00:07:12,203 --> 00:07:14,671
+Tenang..
+Tenang..
+
+72
+00:07:29,320 --> 00:07:31,288
+Ada senjata di tanah.
+
+73
+00:07:31,722 --> 00:07:33,857
+Ulangi, Abbie ?
+Aku tak dengar.
+
+74
+00:07:33,891 --> 00:07:35,392
+Ada yang salah.
+
+75
+00:07:35,426 --> 00:07:37,561
+Ada senjata di tanah.
+
+76
+00:07:39,430 --> 00:07:40,897
+Tunggu di sana.
+
+77
+00:07:48,406 --> 00:07:49,873
+Astaga--
+
+78
+00:07:49,907 --> 00:07:52,643
+Corbin, Kutemukan Oglevie.
+
+79
+00:07:52,677 --> 00:07:54,378
+Seseorang memenggal kepalanya.
+
+80
+00:07:56,481 --> 00:07:58,882
+Ini Sheriff. Tunjukkanlah dirimu !
+
+81
+00:08:06,257 --> 00:08:07,924
+Astaga !
+
+82
+00:08:27,578 --> 00:08:28,812
+Oh !
+
+83
+00:08:58,910 --> 00:09:00,477
+Corbin.
+
+84
+00:09:01,512 --> 00:09:02,713
+Ada petugas yang terluka !
+
+85
+00:09:02,747 --> 00:09:04,414
+Astaga !
+
+86
+00:09:04,449 --> 00:09:05,616
+Ada petugas yang terluka !
+
+87
+00:09:05,650 --> 00:09:06,984
+Fox Creek Stables !
+
+88
+00:09:08,553 --> 00:09:12,089
+Kuulangi, Fox Creek Stables,
+Ada petugas yang terluka !
+
+89
+00:09:22,300 --> 00:09:24,668
+<i>Berbaliklah !
+Tangan di kepala !</i>
+
+90
+00:09:27,071 --> 00:09:29,039
+Kubilang, berbaliklah,
+Letakkan tanganmu di kepala !
+
+91
+00:09:32,410 --> 00:09:33,410
+Berlututlah !
+
+92
+00:09:52,263 --> 00:09:53,230
+Bukan dia orangnya.
+
+93
+00:09:53,264 --> 00:09:54,665
+Kau yakin ?
+
+94
+00:09:56,034 --> 00:09:58,568
+Kutahu ini tak mudah, Abbie,
+Tapi, Kumohon--
+
+95
+00:09:58,603 --> 00:10:00,203
+Lihatlah lebih dekat.
+
+96
+00:10:00,238 --> 00:10:01,672
+Andy, Aku sangat yakin.
+
+97
+00:10:01,706 --> 00:10:03,573
+Yang kulihat, dia memakai sejenis...
+
+98
+00:10:03,608 --> 00:10:05,175
+...seragam militer jadul, seperti...
+
+99
+00:10:05,209 --> 00:10:06,877
+...seragam berwarna merah.
+
+100
+00:10:06,911 --> 00:10:09,913
+Ada sesuatu di tangannya.
+
+101
+00:10:09,947 --> 00:10:11,882
+Entahlah, Seperti tanda.
+
+102
+00:10:11,916 --> 00:10:14,017
+Apa dia membawa kapak ?
+
+103
+00:10:14,052 --> 00:10:15,452
+Apa ?
+
+104
+00:10:16,454 --> 00:10:18,989
+Tanda di tangannya...
+
+105
+00:10:19,023 --> 00:10:20,657
+Apa itu busur panah ?
+
+106
+00:10:24,796 --> 00:10:26,196
+Bagaimana kau tahu ?
+
+107
+00:10:26,230 --> 00:10:28,231
+Oh, Tidak, Tidak..
+
+108
+00:10:28,266 --> 00:10:29,833
+Tidak, Tidak, Tak mungkin.
+
+109
+00:10:29,867 --> 00:10:31,034
+Hei.
+
+110
+00:10:31,069 --> 00:10:33,170
+Siapa dia ?
+Kapan terakhir kali kau melihatnya ?
+
+111
+00:10:34,772 --> 00:10:37,507
+Saat aku memenggal kepalanya.
+
+112
+00:10:38,910 --> 00:10:40,878
+Kau siapa ?
+
+113
+00:10:45,660 --> 00:10:47,394
+Apa kau hakim yang ditunjuk ?
+
+114
+00:10:47,429 --> 00:10:49,196
+Apa ini Pengadilan AL Inggris ?
+
+115
+00:10:49,230 --> 00:10:51,064
+Apa yang kau lakukan ?
+
+116
+00:10:51,099 --> 00:10:53,600
+Ini mesin Polygraph.
+
+117
+00:10:53,635 --> 00:10:54,802
+Aku bertanya,...
+
+118
+00:10:54,836 --> 00:10:57,671
+...benda ini tahu jika
+kau berbohong atau jujur.
+
+119
+00:10:57,705 --> 00:10:59,473
+Mesin ini bisa tahu ?
+
+120
+00:10:59,507 --> 00:11:01,375
+Tempat macam apa ini ?
+
+121
+00:11:01,409 --> 00:11:03,749
+Atas apa, Kalian menahanku ?
+
+122
+00:11:03,784 --> 00:11:05,793
+Dan apa itu ?
+
+123
+00:11:05,828 --> 00:11:07,948
+Kau ditahan sebagai tersangka
+dengan tuduhan pembunuhan...
+
+124
+00:11:07,982 --> 00:11:10,451
+...Sheriff Agustus Corbin .
+
+125
+00:11:10,485 --> 00:11:12,586
+Aku tak ada hubungannya
+dengan kematiannya.
+
+126
+00:11:12,620 --> 00:11:14,721
+Tidakkah kau paham ? /
+Tuan--
+
+127
+00:11:14,756 --> 00:11:17,724
+Aku tak bisa memaksamu menjalankan
+tes ini, Tapi kalau kau berhasil lulus...
+
+128
+00:11:17,759 --> 00:11:20,327
+...kau bisa bebas dari sini.
+
+129
+00:11:20,361 --> 00:11:22,396
+Lanjutkan. /
+Terima kasih.
+
+130
+00:11:22,430 --> 00:11:24,714
+Katakan nama dan asalmu...
+
+131
+00:11:24,749 --> 00:11:27,101
+Namaku Ichabod Crane.
+
+132
+00:11:27,135 --> 00:11:29,736
+<i>Aku seorang Profesor yang mengajar
+sejarah di Universitas Merton...</i>
+
+133
+00:11:29,771 --> 00:11:32,773
+...Oxford, ketika aku bergabung
+dengan Resimen Royal Queen...
+
+134
+00:11:32,807 --> 00:11:35,909
+...dan dikirim ke koloni-koloni
+Amerika, untuk menghadapi para pejuang.
+
+135
+00:11:35,944 --> 00:11:38,612
+<i>Tak butuh waktu lama
+untuk menyadarinya...</i>
+
+136
+00:11:38,646 --> 00:11:39,913
+...dan aku membelot.
+
+137
+00:11:39,948 --> 00:11:42,750
+Maksudmu, Kau mata-mata.
+
+138
+00:11:42,784 --> 00:11:44,284
+Maksudku, Sistem Tirani...
+
+139
+00:11:44,319 --> 00:11:45,853
+...berlawanan dengan hati nuraniku...
+
+140
+00:11:45,887 --> 00:11:47,554
+...dan tak bisa kubiarkan diriku...
+
+141
+00:11:47,589 --> 00:11:49,089
+...mengabdi untuk sesuatu
+yang memberatkanku.
+
+142
+00:11:49,124 --> 00:11:50,524
+Jadi, Ya...
+
+143
+00:11:50,558 --> 00:11:51,859
+Aku menjadi mata-mata,
+di bawah perintah...
+
+144
+00:11:51,893 --> 00:11:53,393
+Jenderal Washington.
+
+145
+00:11:53,428 --> 00:11:55,629
+Jenderal George Washington ?
+
+146
+00:11:55,663 --> 00:11:57,464
+Kau mengenalnya ?
+
+147
+00:11:58,666 --> 00:12:00,601
+Ceritakan padaku soal
+"Horseman" (Penunggang Kuda).
+
+148
+00:12:00,635 --> 00:12:03,637
+Kau mengaku memenggal kepalanya ?
+Ya atau Tidak ?
+
+149
+00:12:03,672 --> 00:12:06,006
+Tidak.
+
+150
+00:12:06,040 --> 00:12:07,040
+Pertama, Aku menembaknya.
+
+151
+00:12:07,075 --> 00:12:08,408
+Tetapi dia masih bisa berdiri.
+
+152
+00:12:08,443 --> 00:12:10,644
+Memenggalnya adalah
+tindakan logis berikutnya.
+
+153
+00:12:11,346 --> 00:12:12,646
+Lalu apa yang terjadi ?
+
+154
+00:12:12,680 --> 00:12:15,416
+Aku lalu di bawa ke Triase.
+
+155
+00:12:21,156 --> 00:12:22,389
+Tidak, Tidak, Tidak, Tidak.
+
+156
+00:12:22,424 --> 00:12:23,724
+Tidak.
+
+157
+00:12:23,758 --> 00:12:25,392
+Katrina ada di sana.
+
+158
+00:12:25,427 --> 00:12:26,393
+Katrina ?
+
+159
+00:12:26,428 --> 00:12:28,262
+Istriku.
+
+160
+00:12:28,296 --> 00:12:30,798
+Dia perawat sipil di Resimen ke 37.
+
+161
+00:12:30,832 --> 00:12:32,866
+Aku dalam kondisi sekarat.
+
+162
+00:12:32,901 --> 00:12:33,901
+Ichabod, Tetap bersamaku.
+
+163
+00:12:33,935 --> 00:12:35,836
+Tetap bersamaku.
+
+164
+00:12:36,838 --> 00:12:38,906
+Aku kehilangan kesadaran.
+
+165
+00:12:38,940 --> 00:12:41,775
+Selanjutnya yang kutahu,
+Aku terbangun dalam sebuah gua.
+
+166
+00:12:43,845 --> 00:12:45,813
+Jadi kau tak tahu, apa yang terjadi...
+
+167
+00:12:45,847 --> 00:12:48,649
+...antara sekarang dan saat itu,
+Tak ada penjelasan rasional...
+
+168
+00:12:48,683 --> 00:12:50,651
+...seperti mengapa harus
+mempercayai kalau ada...
+
+169
+00:12:50,685 --> 00:12:53,454
+...penunggang kuda tanpa kepala
+yang berkeliaran di Sleepy Hollow.
+
+170
+00:12:53,488 --> 00:12:55,189
+<i>Bagaimana kau bisa berakhir di sini ?</i>
+
+171
+00:12:55,223 --> 00:12:57,591
+<i>Aku bisa memberitahumu,
+Kalau aku tahu di mana aku ini.</i>
+
+172
+00:12:57,626 --> 00:13:00,094
+Sekarang, Aku punya pertanyaan..
+Banyak pertanyaan...
+
+173
+00:13:00,128 --> 00:13:02,129
+...tapi pertama aku
+akan mengikatmu...
+
+174
+00:13:02,163 --> 00:13:03,497
+...ke kursi ini !
+
+175
+00:13:03,531 --> 00:13:05,766
+Sekarang, Di mana aku ini ?
+
+176
+00:13:05,800 --> 00:13:07,534
+Pertanyaannya bukan 'Di mana'...
+
+177
+00:13:07,569 --> 00:13:08,869
+...tetapi 'Kapan'.
+
+178
+00:13:08,903 --> 00:13:10,371
+Kabar baiknya adalah,
+Kau memenangkan peperangan.
+
+179
+00:13:10,405 --> 00:13:13,007
+Kabar buruknya adalah...
+
+180
+00:13:13,041 --> 00:13:16,276
+Itu 250 tahun yang lalu.
+
+181
+00:13:18,948 --> 00:13:21,715
+Selamat datang di abad
+ke-21, Tn. Crane.
+
+182
+00:13:27,555 --> 00:13:30,224
+<i>Tak ada kebohongan.</i>
+
+183
+00:13:30,258 --> 00:13:32,226
+Dia mungkin sengaja melakukan
+'pertahanan' dari mesin itu...
+
+184
+00:13:32,260 --> 00:13:33,894
+Bawa dia ke St. Gregory's.
+
+185
+00:13:33,928 --> 00:13:35,796
+Aku ingin melakukan pemeriksaan psikologi. /
+Oke.
+
+186
+00:13:35,830 --> 00:13:37,564
+Kubawa dia sekarang.
+
+187
+00:13:37,599 --> 00:13:40,167
+Kita bawa dia ke St. Greogry's
+dengan menggunakan 2 mobil.
+
+188
+00:13:41,937 --> 00:13:44,038
+Pak ?
+
+189
+00:13:44,072 --> 00:13:45,606
+Kapten ?
+
+190
+00:13:45,640 --> 00:13:47,074
+Aku Letnan Abbie Mills.
+
+191
+00:13:47,108 --> 00:13:49,109
+Aku rekan kerja Sheriff Corbin.
+
+192
+00:13:49,144 --> 00:13:50,511
+Ya, Tentu saja.
+
+193
+00:13:50,545 --> 00:13:52,112
+Aku turut berduka cita.
+
+194
+00:13:52,147 --> 00:13:53,814
+Terima kasih, Pak, Tapi
+kalau boleh kuminta,...
+
+195
+00:13:53,848 --> 00:13:56,150
+...sebelum anda mengirimnya ke unit psikologi,...
+
+196
+00:13:56,184 --> 00:13:58,319
+...bisakah aku menginterogasinya
+sendiri terlebih dahulu ?
+
+197
+00:13:58,353 --> 00:14:00,087
+Tentu saja tidak. /
+Dia menggambarkan...
+
+198
+00:14:00,121 --> 00:14:02,089
+...tampilan pria yang kulihat dengan jelas.
+
+199
+00:14:02,123 --> 00:14:03,624
+Dia menggambarkan pria tanpa kepala.
+
+200
+00:14:03,658 --> 00:14:05,092
+Kau ingin menguatkan itu, Letnan ?
+
+201
+00:14:06,761 --> 00:14:08,696
+Tidak, Pak.
+
+202
+00:14:08,730 --> 00:14:10,597
+Namun dengan mengumpulkan potongan-potongan...
+
+203
+00:14:10,632 --> 00:14:12,666
+...yang kuingat...
+
+204
+00:14:12,701 --> 00:14:14,468
+...beberapa hal-hal rinci pun muncul.
+
+205
+00:14:14,502 --> 00:14:15,769
+Dan apa itu ?
+
+206
+00:14:15,804 --> 00:14:19,006
+Darah pada luka di leher
+August sangat sedikit...
+
+207
+00:14:19,040 --> 00:14:21,075
+Kuperiksa ke kantor Koroner,
+dan mereka mengkonfirmasi...
+
+208
+00:14:21,109 --> 00:14:22,409
+...kalau lukanya itu seperti dibakar...
+
+209
+00:14:22,444 --> 00:14:25,446
+...yang berarti pisaunya
+dipanaskan hingga 500 Derajat.
+
+210
+00:14:25,480 --> 00:14:26,580
+Mengapa bisa ?
+
+211
+00:14:26,614 --> 00:14:28,148
+Tak ditemukan satupun sumber...
+
+212
+00:14:28,183 --> 00:14:29,516
+...api di sekelilingnya saat itu.
+
+213
+00:14:29,551 --> 00:14:30,951
+Tn. Crane jelas-jelas
+melihat sesuatu yang...
+
+214
+00:14:30,986 --> 00:14:32,786
+...bisa membantu kita memahami
+apa yang kita lewatkan.
+
+215
+00:14:32,821 --> 00:14:33,988
+Atau, Dia bisa menjadi seorang pembunuh.
+
+216
+00:14:34,022 --> 00:14:35,456
+Kita berdua tahu, Mesin
+polygraph bisa dipermainkan.
+
+217
+00:14:35,490 --> 00:14:37,591
+Pak, Aku paham-- /
+Letnan Mills, Maafkan aku...
+
+218
+00:14:37,626 --> 00:14:39,293
+...tapi jawabannya tetap tidak.
+
+219
+00:14:39,327 --> 00:14:41,528
+Pulanglah, Tidurlah.
+
+220
+00:14:42,731 --> 00:14:44,532
+Bisakah setidaknya aku
+yang mengantarnya ?
+
+221
+00:14:44,566 --> 00:14:45,866
+Aku hanya mengajukan pertanyaan...
+
+222
+00:14:45,901 --> 00:14:47,401
+...selama perjalanan ke sana, yaitu 20 menit.
+
+223
+00:14:47,435 --> 00:14:50,170
+Mungkin itu bisa sedikit
+membantu mendapatkan kejelasan.
+
+224
+00:14:50,205 --> 00:14:51,772
+Kumohon ?
+
+225
+00:14:57,612 --> 00:14:59,113
+Tn. Crane ?
+
+226
+00:14:59,147 --> 00:15:01,315
+Aku Letnan Abbie Mills.
+
+227
+00:15:02,417 --> 00:15:04,718
+Letnan perempuan ?
+
+228
+00:15:04,753 --> 00:15:05,819
+Dalam kesatuan apa ?
+
+229
+00:15:05,854 --> 00:15:08,289
+Kau takkan membeda-bedakan, huh ?
+
+230
+00:15:08,323 --> 00:15:10,624
+Emansipasi, Kurasa ?
+
+231
+00:15:10,659 --> 00:15:12,293
+Maaf ?
+
+232
+00:15:12,327 --> 00:15:13,727
+Dari perbudakan.
+
+233
+00:15:14,963 --> 00:15:17,731
+Oke, Aku mulai dari sini.
+
+234
+00:15:17,766 --> 00:15:20,601
+Aku letnan perempuan berkulit hitam...
+
+235
+00:15:20,635 --> 00:15:22,503
+...bekerja pada
+Kepolisian Westchester.
+
+236
+00:15:22,537 --> 00:15:24,138
+Kau lihat senjata ini ?
+
+237
+00:15:24,172 --> 00:15:25,940
+Aku berhak menggunakannya...
+
+238
+00:15:25,974 --> 00:15:27,408
+...PADAMU.
+
+239
+00:15:27,442 --> 00:15:30,277
+Kalau kau menyindir, kalau
+aku menyetujui perbudakan...
+
+240
+00:15:30,312 --> 00:15:31,512
+...aku merasa tersinggung.
+
+241
+00:15:31,546 --> 00:15:33,180
+Tunggu, Kau tersinggung ?
+
+242
+00:15:33,214 --> 00:15:34,915
+Kuberitahu, Aku adalah penggagas...
+
+243
+00:15:34,950 --> 00:15:37,017
+...Undang-Undang Anti-Perbudakan
+sebelum adanya Majelis New York.
+
+244
+00:15:37,052 --> 00:15:38,986
+Selamat.
+
+245
+00:15:39,020 --> 00:15:40,654
+Perbudakan telah dihapuskan
+selama 150 tahun.
+
+246
+00:15:40,689 --> 00:15:42,523
+Ini awal baru di Amerika.
+
+247
+00:15:42,557 --> 00:15:44,225
+Oh.
+
+248
+00:15:44,259 --> 00:15:45,960
+Yah, Senang mendengarnya.
+
+249
+00:15:45,994 --> 00:15:48,896
+Di sisi lain, Aku masih terperangkap dalam sini.
+
+250
+00:15:48,930 --> 00:15:50,364
+Bagaimana cara membuka
+kurungan sialan ini ?
+
+251
+00:15:50,398 --> 00:15:51,632
+Kau tak bisa membukanya.
+
+252
+00:15:51,666 --> 00:15:53,300
+Aku bisa.
+
+253
+00:15:55,270 --> 00:15:57,738
+Kau ingin bantuanku.
+
+254
+00:15:57,772 --> 00:16:01,675
+Yang mengisyaratkan kalau
+kau tak punya pilihan lain.
+
+255
+00:16:01,710 --> 00:16:04,145
+Aku tak bisa bilang kalau
+aku mempercayaimu.
+
+256
+00:16:04,179 --> 00:16:07,915
+Tapi aku yang terdekat pada
+sesuatu yang akan kau jumpai.
+
+257
+00:16:07,949 --> 00:16:08,916
+Yah, Tak bisa kubilang...
+
+258
+00:16:08,950 --> 00:16:11,018
+...aku juga mempercayaimu, Ny. Mills.
+
+259
+00:16:11,052 --> 00:16:12,253
+Aku belum bilang apa-apa.
+
+260
+00:16:12,287 --> 00:16:13,520
+Tidak, Kau sudah bilang semuanya.
+
+261
+00:16:13,555 --> 00:16:15,589
+Yang tidak kau katakan
+pada rekan-rekanmu.
+
+262
+00:16:15,624 --> 00:16:17,057
+Dan apa itu ?
+
+263
+00:16:17,092 --> 00:16:19,226
+Kalau pembunuhnya adalah
+penunggang kuda tanpa kepala.
+
+264
+00:16:19,261 --> 00:16:21,262
+Tak mungkin sebuah kebetulan...
+
+265
+00:16:21,296 --> 00:16:23,531
+...kalau dia dan aku berada di
+tempat dan waktu yang bersamaan.
+
+266
+00:16:23,565 --> 00:16:25,065
+Itu tak mungkin.
+
+267
+00:16:25,100 --> 00:16:26,800
+Oh, Benarkah ?
+Itu berita yang bagus.
+
+268
+00:16:26,835 --> 00:16:28,269
+Terima kasih atas klarifikasinya.
+
+269
+00:16:28,303 --> 00:16:30,037
+Kukira, saat ini aku dibangunkan di masa depan...
+
+270
+00:16:30,071 --> 00:16:33,374
+...dan istriku telah meninggal
+selama 250 tahun lamanya.
+
+271
+00:16:33,408 --> 00:16:35,843
+Aku senang kalau semua
+yang kulihat dan kudengar...
+
+272
+00:16:35,877 --> 00:16:37,711
+...dan kusentuh, itu tidak nyata.
+
+273
+00:16:37,746 --> 00:16:41,182
+Karena itu berarti, ini
+benar-benar tidak terjadi.
+
+274
+00:16:41,216 --> 00:16:43,584
+Aku punya perintah membawamu
+ke Rumah Sakit Jiwa.
+
+275
+00:16:43,618 --> 00:16:45,519
+Hebat sekali.
+
+276
+00:16:45,554 --> 00:16:47,455
+Hari ini terus saja dipenuhi kejutan.
+
+277
+00:16:47,489 --> 00:16:50,624
+Apa kita akan berbagi sel, Letnan ?
+
+278
+00:16:50,659 --> 00:16:53,127
+Masuklah, atau aku akan menembakmu.
+
+279
+00:17:01,670 --> 00:17:03,304
+Benar.
+
+280
+00:17:17,352 --> 00:17:19,420
+Sangat mengganggu.
+
+281
+00:17:22,858 --> 00:17:25,159
+Bangunan itu dulunya merupakan
+tempat penyewaan kendaraan dan kuda.
+
+282
+00:17:25,193 --> 00:17:27,962
+Ya ?
+Sekarang itu Starbucks.
+
+283
+00:17:27,996 --> 00:17:30,898
+Tempat membuat kopi.
+
+284
+00:17:32,034 --> 00:17:34,702
+Yang itu juga Starbucks.
+
+285
+00:17:34,736 --> 00:17:35,703
+Yep.
+
+286
+00:17:35,737 --> 00:17:38,005
+Ada berapa banyak ?
+
+287
+00:17:38,039 --> 00:17:40,107
+Per blok ?
+
+288
+00:17:40,142 --> 00:17:41,842
+Apa ada hukum ?
+
+289
+00:17:44,379 --> 00:17:46,914
+250 tahun, huh ?
+
+290
+00:17:46,948 --> 00:17:48,349
+Perang saudara tak membangunkanmu ?
+
+291
+00:17:48,383 --> 00:17:50,618
+Negara tetangga yang
+menuju ke Selatan ?
+
+292
+00:17:50,652 --> 00:17:52,153
+Apa kau bangun untuk pipis ?
+
+293
+00:17:52,187 --> 00:17:54,121
+Aku tak tahu kalau kau,
+Tapi aku pasti bangun untuk pipis...
+
+294
+00:17:54,156 --> 00:17:55,589
+...setiap 75 tahun, 80 tahun...
+
+295
+00:17:55,624 --> 00:17:56,857
+Sudah selesaikah ?
+
+296
+00:17:56,892 --> 00:17:58,192
+Karena sebagian besar ucapanmu...
+
+297
+00:17:58,226 --> 00:18:00,928
+...adalah omong kosong buatku.
+
+298
+00:18:00,962 --> 00:18:02,763
+Seperti menyaksikan
+ayam mematuk...
+
+299
+00:18:02,798 --> 00:18:04,131
+Dan sejak kapan...
+
+300
+00:18:04,166 --> 00:18:06,100
+...wanita diperbolehkan
+memakai celana ?
+
+301
+00:18:06,134 --> 00:18:07,101
+Baiklah.
+
+302
+00:18:07,135 --> 00:18:09,203
+Katamu, Kau terbangun dalam sebuah gua.
+
+303
+00:18:09,237 --> 00:18:11,405
+Kuingin kau menunjukkan padamu.
+
+304
+00:18:11,440 --> 00:18:12,740
+Kau melanggar perintah.
+
+305
+00:18:12,774 --> 00:18:14,008
+Bagian yang penting,...
+
+306
+00:18:14,042 --> 00:18:16,177
+...kalau kau memberitahu siapapun,
+Takkan ada yang percaya padamu.
+
+307
+00:18:25,587 --> 00:18:27,822
+<i>Kita tak punya banyak waktu.</i>
+
+308
+00:18:57,586 --> 00:18:58,686
+Senter ini sama seperti pistol.
+
+309
+00:18:58,720 --> 00:19:00,721
+Arahkan, Tembak.
+
+310
+00:19:04,359 --> 00:19:06,193
+Masuk dari utara...
+
+311
+00:19:06,228 --> 00:19:07,228
+Terlihat...
+
+312
+00:19:07,262 --> 00:19:09,530
+...ada ukiran di dinding-dinding...
+
+313
+00:19:09,564 --> 00:19:10,765
+...lubang dengan tanah lumpur...
+
+314
+00:19:10,799 --> 00:19:12,833
+...yang mengelilinginya,...
+
+315
+00:19:12,868 --> 00:19:15,036
+Sekitar 20 langkah dari pintu masuk...
+
+316
+00:19:15,070 --> 00:19:18,639
+...terlihat seperti toples berisi cairan.
+
+317
+00:19:18,674 --> 00:19:20,741
+Enam diantaranya pecah.
+
+318
+00:19:31,553 --> 00:19:33,421
+<i>Kita tak punya banyak waktu.</i>
+
+319
+00:19:34,456 --> 00:19:36,290
+Astaga.
+
+320
+00:19:36,325 --> 00:19:37,725
+Apa itu ?
+
+321
+00:19:37,759 --> 00:19:39,694
+Kitab Suci.
+
+322
+00:19:39,728 --> 00:19:42,029
+Dikuburkan bersama denganku...
+
+323
+00:19:42,064 --> 00:19:43,898
+...dengan tanda ini.
+
+324
+00:19:43,932 --> 00:19:45,633
+Kitab Wahyu.
+
+325
+00:19:45,667 --> 00:19:47,935
+<i>Dan aku melihat: sesungguhnya, ada seekor kuda putih...</i>
+
+326
+00:19:49,271 --> 00:19:51,706
+<i>...dan orang yang menungganginya
+memegang sebuah busur panah...</i>
+
+327
+00:19:51,740 --> 00:19:54,675
+<i>...dan namanya adalah Kematian.</i>
+
+328
+00:19:54,710 --> 00:19:57,912
+<i>Dan suara bagaikan guntur, berkata...</i>
+
+329
+00:19:57,946 --> 00:20:00,047
+<i>'Datang dan Lihatlah'</i>
+
+330
+00:20:00,082 --> 00:20:02,717
+Ini menceritakan soal Empat
+Penunggang Kuda pada akhir zaman.
+
+331
+00:20:04,252 --> 00:20:05,653
+Yang benar saja.
+
+332
+00:20:07,222 --> 00:20:10,725
+Para penunggang berbaju merah
+menyergap kami di Lembah Hudson...
+
+333
+00:20:12,594 --> 00:20:15,800
+Dan, saat-saat kritis,
+Washington memanggilku...
+
+334
+00:20:16,732 --> 00:20:19,734
+Revolusi, yang dikatakannya,
+bukanlah hanya peperangan...
+
+335
+00:20:19,768 --> 00:20:22,270
+...untuk negara kita saja.
+
+336
+00:20:22,304 --> 00:20:24,672
+Itu akan menentukan nasib setiap pria,...
+
+337
+00:20:24,706 --> 00:20:27,174
+...wanita, dan anak-anak
+di Bumi ini...
+
+338
+00:20:28,443 --> 00:20:30,878
+Dia memberiku misi...
+
+339
+00:20:30,913 --> 00:20:33,814
+...untuk membunuh pria yang menampakkan
+dirinya di tepi laut Hudson
+
+340
+00:20:33,849 --> 00:20:36,117
+Seorang tentara bayaran...
+
+341
+00:20:36,151 --> 00:20:38,252
+...yang dikenali dengan
+tanda di tangannya.
+
+342
+00:20:39,488 --> 00:20:40,755
+Busur panah.
+
+343
+00:20:40,789 --> 00:20:42,490
+Oke.
+
+344
+00:20:42,524 --> 00:20:43,758
+Sekarang, Ini menjadi gila.
+
+345
+00:20:43,792 --> 00:20:45,459
+Yang mana, membuatnya tak nyata.
+
+346
+00:20:45,494 --> 00:20:46,861
+Perjalanan ini sudah berakhir.
+
+347
+00:20:46,895 --> 00:20:47,995
+Ayo pergi.
+
+348
+00:20:49,298 --> 00:20:52,366
+Kitab ini ditinggalkan bersamaku
+untuk sebuah alasan.
+
+349
+00:20:52,401 --> 00:20:53,935
+Hubungan dari semuanya...
+
+350
+00:20:53,969 --> 00:20:56,170
+Kau hanya belum siap menerimanya.
+
+351
+00:20:56,205 --> 00:20:57,772
+Menerima apa ?
+
+352
+00:20:57,806 --> 00:20:59,173
+Bahwa orang yang kukejar,...
+
+353
+00:20:59,207 --> 00:21:00,841
+...orang yang membunuh Corbin,...
+
+354
+00:21:00,876 --> 00:21:03,778
+...adalah salah satu dari
+penunggang kuda pada Akhir Zaman ?
+
+355
+00:21:03,812 --> 00:21:06,247
+Saat kupenggal kepalanya,
+Dia tidak mati,...
+
+356
+00:21:06,281 --> 00:21:08,282
+Karena dia tidak pernah hidup.
+
+357
+00:21:08,317 --> 00:21:10,484
+Dialah sang Kematian, Letnan.
+
+358
+00:21:10,519 --> 00:21:15,423
+Dan entah bagaimana...
+Dia kembali ke Sleepy Hollow...
+
+359
+00:21:15,457 --> 00:21:17,858
+...untuk menuntaskan pekerjaannya.
+
+360
+00:22:24,593 --> 00:22:27,528
+Aku takkan pernah memberitahu
+di mana kepalamu.
+
+361
+00:22:28,764 --> 00:22:30,698
+Aku siap mati.
+
+362
+00:23:02,283 --> 00:23:03,984
+Tunggulah di sini.
+
+363
+00:23:04,019 --> 00:23:05,519
+Oh, Tidak. Aku...
+
+364
+00:23:07,255 --> 00:23:09,023
+Bagaimana kau...
+
+365
+00:23:09,057 --> 00:23:10,128
+Bagaimana...
+
+366
+00:23:10,163 --> 00:23:12,427
+Kapten ? /
+Jangan sekarang, Mills.
+
+367
+00:23:12,461 --> 00:23:14,095
+Aku ingin perimeter, dengan
+jarak 20 kaki dari TKP...
+
+368
+00:23:14,129 --> 00:23:15,430
+...dengan kamera pengawasan.
+
+369
+00:23:29,111 --> 00:23:31,479
+Siapa yang memancung kepala pendeta ?
+
+370
+00:23:31,513 --> 00:23:33,214
+Seharusnya ini jadi kota yang tenang.
+
+371
+00:23:33,249 --> 00:23:34,949
+Ada kebun mawar di setiap blok.
+
+372
+00:23:34,984 --> 00:23:36,618
+Luka di lehernya juga dibakar.
+
+373
+00:23:36,652 --> 00:23:38,786
+Modus yang sama dengan yang di peternakan.
+
+374
+00:23:38,821 --> 00:23:40,688
+Apa yang dia lakukan di sini ?
+
+375
+00:23:40,723 --> 00:23:41,990
+Aku tak membebaskannya.
+
+376
+00:23:42,024 --> 00:23:43,958
+Pak, Itu yang coba kuberitahukan padamu.
+
+377
+00:23:43,993 --> 00:23:45,727
+Crane berada dalam tahanan
+saat ini semua terjadi.
+
+378
+00:23:45,761 --> 00:23:48,196
+Yang berarti, Dia tidak-- /
+Kau tak menjawab pertanyaanku.
+
+379
+00:23:48,230 --> 00:23:50,999
+Mengapa pria itu tak berada
+di St. Gregory's ?
+
+380
+00:23:51,033 --> 00:23:52,534
+Kapten, Kita punya pembunuh
+di sini, dan pria itu...
+
+381
+00:23:52,568 --> 00:23:53,701
+...satu-satunya petunjuk terbaik
+kita untuk menangkap pembunuh ini.
+
+382
+00:23:53,736 --> 00:23:55,103
+Pria itu butuh straitjacket...
+(Pakaian khusus Pasien gangguan jiwa)
+
+383
+00:23:55,137 --> 00:23:57,171
+...dan kau melanggar perintah
+dengan membawanya ke mari.
+
+384
+00:23:57,206 --> 00:23:58,640
+Dia melihat sesuatu,...
+
+385
+00:23:58,674 --> 00:24:00,008
+Sesuatu yang mungkin
+akan membantu kita.
+
+386
+00:24:00,042 --> 00:24:01,809
+Ini bukan keputusanmu.
+
+387
+00:24:01,844 --> 00:24:03,878
+Sekarang, Bawa dia ke sel...
+
+388
+00:24:03,912 --> 00:24:06,147
+...atau kau diskors sampai batas yang tak ditentukan.
+
+389
+00:24:06,181 --> 00:24:08,183
+Titik.
+
+390
+00:24:12,755 --> 00:24:14,956
+Kau mengorbankan dirimu
+untuk pria itu, Abbie.
+
+391
+00:24:14,990 --> 00:24:16,357
+Menjauhlah.
+
+392
+00:24:16,392 --> 00:24:18,393
+Kumohon.
+
+393
+00:24:29,805 --> 00:24:31,039
+Tuan, Ikutlah dengan kami.
+
+394
+00:24:31,073 --> 00:24:32,674
+Kami perlu membawamu... /
+Kawan--
+
+395
+00:24:32,708 --> 00:24:34,409
+Kawan-kawan, Dia bersamaku...
+
+396
+00:24:36,445 --> 00:24:38,813
+Sudah kubilang, Tetap di mobil.
+
+397
+00:24:38,847 --> 00:24:41,249
+Namun, Seperti yang kau
+tahu, Aku ini gila,...
+
+398
+00:24:41,283 --> 00:24:43,518
+...dan itu kebal dengan
+perintah-perintah sederhana.
+
+399
+00:24:43,552 --> 00:24:45,620
+Apa yang kau lakukan ?
+
+400
+00:24:45,654 --> 00:24:47,755
+Burung itu, Dia menuntunku ke sini.
+
+401
+00:24:47,790 --> 00:24:49,891
+Burung menuntunmu ke mari.
+Hebat sekali.
+
+402
+00:24:53,729 --> 00:24:55,063
+Katrina.
+
+403
+00:25:01,237 --> 00:25:03,271
+<i>Dibakar demi sihir.</i>
+
+404
+00:25:03,305 --> 00:25:05,506
+Ada yang harus kau ketahui...
+
+405
+00:25:05,541 --> 00:25:07,876
+Sesuatu yang belum pernah kuberitahu.
+
+406
+00:25:07,910 --> 00:25:10,245
+Crane ?
+
+407
+00:25:10,279 --> 00:25:12,046
+Kau butuh apa lagi untuk
+bisa mempercayaiku ?
+
+408
+00:25:12,081 --> 00:25:14,215
+Kau ingin aku berkata,
+kalau pembunuhnya...
+
+409
+00:25:14,250 --> 00:25:16,284
+...adalah penunggang kuda
+pada Akhir Zaman yang pertama...
+
+410
+00:25:16,318 --> 00:25:18,887
+...dan buktinya hanya sebuah
+kitab suci yang ditemukan dalam gua ?
+
+411
+00:25:18,921 --> 00:25:21,122
+Kau melihat rekanmu dibunuh
+dengan mata kepalamu sendiri.
+
+412
+00:25:21,157 --> 00:25:23,057
+Mengapa kau begitu menyangkalnya ?
+
+413
+00:25:23,092 --> 00:25:24,492
+Karena aku tak punya kewenangan...
+
+414
+00:25:24,527 --> 00:25:26,561
+...menyangkal keraguan sekarang.
+
+415
+00:25:26,595 --> 00:25:29,164
+Aku akan pergi seminggu lagi, dan pria itu...
+
+416
+00:25:29,198 --> 00:25:30,965
+...bisa menghentikan karirku,
+dan kau tak membantu...
+
+417
+00:25:31,000 --> 00:25:32,800
+...jadi ayo pergi. /
+Tidak, Tunggu, Tunggu...
+
+418
+00:25:32,835 --> 00:25:34,068
+Kau akan meninggalkan Sleepy Hollow ?
+
+419
+00:25:35,070 --> 00:25:36,804
+Ya.
+
+420
+00:25:36,839 --> 00:25:39,174
+Tidak. Tidak.
+
+421
+00:25:39,208 --> 00:25:40,775
+Tidak, Takdir kita sudah ditulis.
+
+422
+00:25:40,810 --> 00:25:42,744
+Melarikan diri takkan merubahnya.
+
+423
+00:25:44,747 --> 00:25:47,348
+Aku tak mau bicara denganmu sekarang.
+
+424
+00:25:47,383 --> 00:25:49,651
+Dan bahkan jika yang kulihat
+itu memang benar ada...
+
+425
+00:25:49,685 --> 00:25:50,985
+...aku hanya seorang diri...
+
+426
+00:25:51,020 --> 00:25:52,921
+...memperdebatkan kasus
+yang tak kupahami...
+
+427
+00:25:52,955 --> 00:25:55,757
+...berdasarkan sesuatu
+yang tak bisa kujelaskan.
+
+428
+00:25:55,791 --> 00:25:58,493
+Ayo pergi.
+
+429
+00:25:58,527 --> 00:26:00,261
+Tunggu, Tunggu.
+
+430
+00:26:00,296 --> 00:26:02,197
+Apa maksudmu "Lagi" ?
+
+431
+00:26:03,833 --> 00:26:05,533
+Tak ada.
+
+432
+00:26:05,568 --> 00:26:07,402
+Ada sesuatu yang terjadi padamu, kan ?
+
+433
+00:26:07,436 --> 00:26:08,636
+Sebelum semua ini.
+
+434
+00:26:08,671 --> 00:26:10,305
+Sesuatu yang membuatmu
+meragukan pandanganmu...
+
+435
+00:26:10,339 --> 00:26:11,940
+...selama beberapa saat.
+
+436
+00:26:11,974 --> 00:26:13,708
+Hei, Aku tak butuh di analisa...
+
+437
+00:26:13,742 --> 00:26:15,643
+...atau apa-lah namanya buatmu,...
+
+438
+00:26:15,678 --> 00:26:17,278
+...oleh seorang pria yang berpikir kalau
+dia baru beberapa saat yang lalu...
+
+439
+00:26:17,313 --> 00:26:18,813
+...berjuang bersama George Washington...
+
+440
+00:26:18,848 --> 00:26:20,081
+...dalam Perang Revolusi .
+
+441
+00:26:20,115 --> 00:26:21,983
+Maafkan aku,...
+
+442
+00:26:22,017 --> 00:26:25,679
+...tapi aku butuh lebih dari itu
+dan kita berdua perlu istirahat.
+
+443
+00:26:36,132 --> 00:26:37,699
+Terima kasih.
+
+444
+00:26:37,733 --> 00:26:40,802
+Aku yang memilihkan selmu.
+
+445
+00:26:40,836 --> 00:26:42,737
+Aku sudah berusaha sebaik mungkin.
+
+446
+00:26:42,772 --> 00:26:46,040
+Sebuah tingkatan yang
+terukur, dari sebuah gua.
+
+447
+00:26:46,075 --> 00:26:47,809
+Dengar,...
+
+448
+00:26:47,843 --> 00:26:50,345
+Aku tak tahu bagaimana terlibat dengan ini,...
+
+449
+00:26:50,379 --> 00:26:52,747
+...tapi aku paham, tak peduli
+apapun yang terjadi padamu...
+
+450
+00:26:52,782 --> 00:26:55,850
+...semuanya pasti menakutkan.
+
+451
+00:27:00,423 --> 00:27:03,925
+Mungkin Rumah Sakit Jiwa memang
+tempat yang seharusnya buatku.
+
+452
+00:27:03,959 --> 00:27:05,960
+Baiklah.
+
+453
+00:27:08,564 --> 00:27:10,031
+Kau menanyakan apa yang terjadi padaku.
+
+454
+00:27:12,435 --> 00:27:14,436
+Saat SMA,...
+
+455
+00:27:18,174 --> 00:27:19,908
+Aku dan saudariku, Jenny,...
+
+456
+00:27:19,942 --> 00:27:22,177
+...berjalan pulang, malam hari,...
+
+457
+00:27:22,211 --> 00:27:24,279
+...di dalam hutan.
+
+458
+00:27:24,313 --> 00:27:27,449
+Tiba-tiba, Muncul--
+
+459
+00:27:27,483 --> 00:27:30,318
+Empat pohon berwarna putih.
+
+460
+00:27:31,454 --> 00:27:33,688
+Ada yang tak beres.
+
+461
+00:27:33,723 --> 00:27:36,324
+Dan kemudian,...
+
+462
+00:27:36,359 --> 00:27:38,426
+Muncul sebuah suara.
+
+463
+00:27:40,262 --> 00:27:41,930
+Aku tak bisa melihatnya
+dengan jelas.
+
+464
+00:27:41,964 --> 00:27:44,399
+Tak bisa kukatakan apa itu orang
+ataukah sesuatu yang lain.
+
+465
+00:27:44,433 --> 00:27:47,202
+Dan, uh,...
+
+466
+00:27:47,236 --> 00:27:49,704
+Kami pingsan.
+
+467
+00:27:49,739 --> 00:27:51,740
+Selanjutnya yang kami tahu,...
+
+468
+00:27:51,774 --> 00:27:53,441
+...seseorang menemukan
+kami di sisi jalan...
+
+469
+00:27:53,476 --> 00:27:56,044
+...dan semua orang mengatakan
+kalau kami ini gila.
+
+470
+00:27:56,078 --> 00:27:59,948
+Kurasa, sesaat setelahnya,
+Jenny mulai mempercayai hal itu.
+
+471
+00:27:59,982 --> 00:28:02,283
+Di mana dia sekarang ?
+
+472
+00:28:02,318 --> 00:28:04,586
+Keluar masuk tempat seperti ini.
+
+473
+00:28:06,122 --> 00:28:08,690
+Dia menghadapi para iblis.
+
+474
+00:28:10,793 --> 00:28:12,694
+Tetapi kemudian,...
+
+475
+00:28:12,728 --> 00:28:14,362
+Kau-pun muncul,...
+
+476
+00:28:14,397 --> 00:28:16,798
+...dan semua orang bilang kau gila.
+
+477
+00:28:18,467 --> 00:28:21,536
+Jadi, kurasa aku tahu bagaimana rasanya.
+
+478
+00:28:25,841 --> 00:28:26,908
+Sudah malam.
+
+479
+00:28:26,942 --> 00:28:28,643
+Oke.
+Terima kasih.
+
+480
+00:28:28,678 --> 00:28:31,446
+Sepertinya ini perpisahan, Letnan.
+
+481
+00:28:31,480 --> 00:28:33,448
+Panggil saja Abbie.
+
+482
+00:28:38,020 --> 00:28:40,322
+Aku turut berduka soal rekanmu.
+
+483
+00:29:51,444 --> 00:29:52,918
+<i>Ada 100 penyihir,...</i>
+
+484
+00:29:52,953 --> 00:29:54,362
+<i>...yang dihukum mati di Sleepy Hollow...</i>
+
+485
+00:29:54,397 --> 00:29:57,532
+<i>...di rentang tahun 1712 hingga 1816.</i>
+
+486
+00:29:59,402 --> 00:30:01,703
+<i>Catatan Kota menyebut
+nama dari dua penyihir...</i>
+
+487
+00:30:01,737 --> 00:30:03,338
+<i>...yang berhubungan dengan masyarakat...</i>
+
+488
+00:30:03,372 --> 00:30:06,308
+<i>...dan merubah nama mereka untuk tetap bersembunyi.</i>
+
+489
+00:30:06,342 --> 00:30:09,044
+<i>Kelompok lainnya menuju ke pantai Timur.</i>
+
+490
+00:30:09,078 --> 00:30:11,980
+<i>Dua kelompok itu masing masing
+mewakili yang baik dan yang jahat.</i>
+
+491
+00:30:13,482 --> 00:30:15,484
+<i>Ada ratusan kasus yang belum terpecahkan.</i>
+
+492
+00:30:15,518 --> 00:30:17,252
+<i>Sepertinya diabaikan.</i>
+
+493
+00:30:17,286 --> 00:30:19,321
+<i>Pembunuhan, Orang hilang,...</i>
+
+494
+00:30:19,355 --> 00:30:21,022
+<i>...dan tak hanya di sini.</i>
+
+495
+00:30:21,057 --> 00:30:23,925
+<i>Kasusnya dilacak hingga Boston,
+Washington D.C, Manhattan.</i>
+
+496
+00:30:23,960 --> 00:30:25,460
+<i>Aku tahu, semuanya berhubungan.</i>
+
+497
+00:30:25,495 --> 00:30:27,796
+<i>Aku hanya...
+Aku tak tahu bagaimana.</i>
+
+498
+00:30:27,830 --> 00:30:31,066
+<i>Berkas kasus 632,
+Abigail dan Jennifer Mills,...</i>
+
+499
+00:30:31,100 --> 00:30:33,869
+<i>...kakak-adik yang mengaku
+melihat sosok mirip hantu...</i>
+
+500
+00:30:33,903 --> 00:30:36,605
+<i>...berhubungan dengan 4 pohon berwarna
+putih yang datang entah dari mana.</i>
+
+501
+00:30:37,771 --> 00:30:40,328
+<i>Ini berhubungan dengan kejadian
+di peternakan saat 1882...</i>
+
+502
+00:30:40,363 --> 00:30:41,576
+<i>...yang mengaku melihat hal yang sama...</i>
+
+503
+00:30:41,611 --> 00:30:44,179
+<i>...di tempat yang sama.</i>
+
+504
+00:30:44,213 --> 00:30:45,947
+<i>Dia percaya, kalau pohon
+itu merupakan simbol...</i>
+
+505
+00:30:45,982 --> 00:30:48,750
+<i>...yang mewakili keempat penunggang
+kuda pada Akhir Zaman...</i>
+
+506
+00:30:48,784 --> 00:30:51,720
+<i>...dan setan dikirim ke sini
+untuk membangkitkan mereka.</i>
+
+507
+00:30:51,754 --> 00:30:54,089
+<i>Aku tak tahu harus percaya yang mana.</i>
+
+508
+00:30:54,123 --> 00:30:56,725
+<i>Aku ingin memberitahu apa
+yang kutemukan pada Abbie.</i>
+
+509
+00:30:56,759 --> 00:31:00,061
+<i>Aku hanya tak tahu bagaimana caranya.</i>
+
+510
+00:31:00,096 --> 00:31:02,597
+<i>Aku melihat di sekeliling.
+Tak tahu, harus percaya siapa lagi.</i>
+
+511
+00:31:02,632 --> 00:31:04,699
+<i>Semakin aku mendalami kasus ini,...</i>
+
+512
+00:31:04,734 --> 00:31:07,736
+<i>...aku semakin merasa, sesuatu
+sedang mendekat kepadaku.</i>
+
+513
+00:31:07,770 --> 00:31:09,805
+Apa yang kau lakukan ?
+
+514
+00:31:12,175 --> 00:31:14,376
+Hanya mencari beberapa
+berkas kasus-kasus lama...
+
+515
+00:31:14,410 --> 00:31:16,244
+...yang mungkin bisa membantu.
+
+516
+00:31:16,279 --> 00:31:17,946
+Tak ada apa-apa di sini.
+
+517
+00:31:17,980 --> 00:31:19,981
+Dengar, Aku takkan ulangi ini lagi.
+
+518
+00:31:20,016 --> 00:31:22,317
+Biarkan kami yang melakukan pekerjaan.
+
+519
+00:31:22,351 --> 00:31:24,019
+Beristirahatlah.
+
+520
+00:31:25,430 --> 00:31:27,541
+Terima kasih, Pak.
+
+521
+00:31:58,000 --> 00:32:00,535
+Katrina ?
+
+522
+00:32:00,569 --> 00:32:02,270
+Maafkan aku, Sayang.
+
+523
+00:32:02,304 --> 00:32:06,107
+Ini satu-satunya cara aku menemuimu.
+
+524
+00:32:06,142 --> 00:32:08,576
+Aku sudah berusaha menuntunmu.
+
+525
+00:32:10,112 --> 00:32:12,247
+Batu nisan itu.
+
+526
+00:32:12,281 --> 00:32:15,116
+Mayatku tak pernah berada dalam kuburan itu.
+
+527
+00:32:15,151 --> 00:32:18,052
+Makam ini menyembunyikan
+tengkorak penunggang kuda...
+
+528
+00:32:18,087 --> 00:32:21,122
+...yang dijaga selalu, oleh
+salah satu dari penyihir.
+
+529
+00:32:22,092 --> 00:32:24,059
+<i>Kita tak punya banyak waktu.</i>
+
+530
+00:32:25,127 --> 00:32:26,861
+Lalu...
+
+531
+00:32:26,896 --> 00:32:28,897
+Lalu, Kau adalah penyihir.
+
+532
+00:32:28,931 --> 00:32:31,499
+Kita adalah bagian dari perintah...
+
+533
+00:32:31,534 --> 00:32:34,302
+...yang berjanji melawan kegelapan
+yang bersembunyi di Sleepy Hollow.
+
+534
+00:32:34,336 --> 00:32:36,037
+Saat kau melukai...
+
+535
+00:32:36,072 --> 00:32:38,073
+...si penunggang kuda, garis
+darah kalian saling terikat...
+
+536
+00:32:39,608 --> 00:32:43,078
+Kalian terhubung oleh darah.
+
+537
+00:32:48,618 --> 00:32:51,920
+Satu-satunya cara menghentikannya
+adalah membacakan mantra pada kalian...
+
+538
+00:32:51,954 --> 00:32:53,588
+Lalu kami memakamkan mayat Penunggang kuda itu...
+
+539
+00:32:53,622 --> 00:32:55,757
+...ke dasar sungai.
+
+540
+00:32:59,362 --> 00:33:02,397
+Kami menguburmu dalam gua
+untuk melindungimu...
+
+541
+00:33:02,431 --> 00:33:04,599
+Lalu kau tak membangunkanku.
+
+542
+00:33:04,633 --> 00:33:07,502
+Penunggang Kudalah yang
+dbangunkan, Ichabod...
+
+543
+00:33:07,536 --> 00:33:09,504
+Dan kau juga.
+
+544
+00:33:09,538 --> 00:33:10,905
+Bagaimana ?
+
+545
+00:33:10,940 --> 00:33:11,973
+Siapa ?
+
+546
+00:33:12,007 --> 00:33:14,576
+Oleh iblis yang sama yang
+mengurungku di sini,...
+
+547
+00:33:14,610 --> 00:33:17,078
+...orang khusus yang mengontrol
+si penunggang kuda itu sekarang.
+
+548
+00:33:22,652 --> 00:33:24,452
+Dia menemukan kita.
+Tak ada waktu lagi.
+
+549
+00:33:26,489 --> 00:33:29,257
+Kalau penunggang kuda menemukan kembali
+tengkoraknya, Dia akan kembali utuh lagi.
+
+550
+00:33:30,393 --> 00:33:33,028
+Tiga yang lainnya pun akan mengikutinya,
+dan kemudian itu akan dimulai.
+
+551
+00:33:33,062 --> 00:33:34,295
+Mulai apa ?
+
+552
+00:33:34,330 --> 00:33:35,964
+Kiamat.
+
+553
+00:33:35,998 --> 00:33:39,200
+Kau harus menghentikan penunggang
+kuda itu dalam mendapatkan tengkoraknya.
+
+554
+00:33:39,235 --> 00:33:43,171
+Ingat, Terang adalah kelemahannya.
+Dia tak bisa bertahan di bawah sinar matahari.
+
+555
+00:33:43,205 --> 00:33:45,307
+Cari aku.
+Bebaskan aku !
+
+556
+00:33:45,341 --> 00:33:47,509
+Bagaimana ?
+Aku tak mengerti.
+
+557
+00:33:48,711 --> 00:33:50,679
+Jawabannya ada di Kitab Suci Washington.
+
+558
+00:33:50,713 --> 00:33:53,048
+Kau-lah saksi pertama, Ichabod. /
+Katrina !
+
+559
+00:33:53,082 --> 00:33:55,334
+Bangun ! /
+Katrina, Tunggu !
+
+560
+00:33:55,518 --> 00:33:57,052
+Bangun !
+
+561
+00:33:58,421 --> 00:34:00,488
+<i>Temukan tengkorak itu !</i>
+
+562
+00:34:00,523 --> 00:34:01,990
+Tidak !
+Tidak !
+
+563
+00:34:02,024 --> 00:34:05,026
+Tidak ! Tidak !
+Tidak ! Hentikan !
+
+564
+00:34:05,061 --> 00:34:06,227
+Apa-apaan--
+
+565
+00:34:06,262 --> 00:34:07,729
+Ini akan menenangkanmu !
+
+566
+00:34:07,763 --> 00:34:11,232
+Aku tahu apa maunya.
+Baiklah, Kalau perlu, Biarkan aku--
+
+567
+00:34:11,267 --> 00:34:13,335
+Hentikan !
+Akan kubawa dia kembali ke tahanan.
+
+568
+00:34:13,369 --> 00:34:15,570
+Crane, Bawa barangmu. /
+Petugas, Pria ini tak dalam kondisi sehat...
+
+569
+00:34:15,604 --> 00:34:17,339
+...untuk dipindahkan.
+
+570
+00:34:17,373 --> 00:34:19,307
+Mundur, dan biarkan aku
+yang lakukan pekerjaanku !
+
+571
+00:34:19,342 --> 00:34:20,709
+Ayo pergi !
+
+572
+00:34:24,514 --> 00:34:25,647
+Cepatlah !
+
+573
+00:34:25,682 --> 00:34:27,749
+Mereka akan segera sadar...
+
+574
+00:34:27,784 --> 00:34:29,685
+...kalau perintah pengadilan itu hanyalah...
+
+575
+00:34:29,719 --> 00:34:31,386
+...kertas ujian akademiku.
+
+576
+00:34:32,922 --> 00:34:35,357
+Aku tahu apa yang dikejar
+penunggang kuda itu...
+
+577
+00:34:37,393 --> 00:34:39,394
+Corbin punya lemari
+berisi penuh dengan berkas...
+
+578
+00:34:39,428 --> 00:34:43,198
+...berjumlah ratusan, dan ini.
+
+579
+00:34:44,234 --> 00:34:47,369
+Itu peta dari Lembah Hudson
+yang dipetakan tahun 1776.
+
+580
+00:34:47,404 --> 00:34:49,605
+Tebak siapa yang menandatanganinya.
+
+581
+00:34:51,741 --> 00:34:54,009
+Aku pernah lihat ini sebelumnya.
+
+582
+00:34:55,545 --> 00:34:57,079
+Washington dulunya sering membuat...
+
+583
+00:34:57,113 --> 00:34:59,548
+...sketsa area pertempuran.
+
+584
+00:34:59,582 --> 00:35:02,785
+Corbin menandai beberapa bagian,
+yang mungkin berarti baginya,...
+
+585
+00:35:02,819 --> 00:35:04,453
+...seperti teka-teki yang berusaha dipecahkan.
+
+586
+00:35:05,789 --> 00:35:07,790
+Bagaimana ini bisa ada di tangan Sheriff kalian ?
+
+587
+00:35:10,660 --> 00:35:12,561
+Aku tak tahu.
+Aku selalu pikir itu tak sengaja.
+
+588
+00:35:12,595 --> 00:35:14,897
+Malam di saat dia menangkapku,...
+
+589
+00:35:14,931 --> 00:35:16,965
+Dia tahu apa yang terjadi
+pada aku dan saudariku...
+
+590
+00:35:18,468 --> 00:35:19,968
+Dia percaya itu nyata.
+
+591
+00:35:20,003 --> 00:35:22,037
+Itu memang nyata, Ny. Mills...
+
+592
+00:35:22,072 --> 00:35:25,541
+Sesosok tanpa wajah,
+Empat pohon (warna putih).
+
+593
+00:35:25,575 --> 00:35:28,210
+Aku juga pernah melihatnya.
+
+594
+00:35:47,630 --> 00:35:48,997
+Andy,...
+
+595
+00:35:49,032 --> 00:35:51,233
+Hubungi semua unit...
+
+596
+00:35:51,267 --> 00:35:53,168
+Andy, Aku tahu apa yang
+dia (pembunuh) ini kejar...
+
+597
+00:35:53,203 --> 00:35:55,471
+Kukatakan, saat tiba di gereja.
+
+598
+00:35:55,505 --> 00:35:57,005
+Tunggu, Tunggu.
+Bagaimana kau tahu ?
+
+599
+00:35:57,040 --> 00:35:58,273
+Dengan interogasi ?
+
+600
+00:35:58,308 --> 00:35:59,842
+Akan kujelaskan semuanya.
+Suruh mereka ke sana.
+
+601
+00:35:59,876 --> 00:36:01,176
+Kalau aku harus melalui Irving,...
+
+602
+00:36:01,211 --> 00:36:02,511
+...dia akan meminta bukti yang belum bisa kuberikan,...
+
+603
+00:36:02,545 --> 00:36:04,513
+...dan departemen takkan percaya.
+
+604
+00:36:04,547 --> 00:36:06,749
+Jangan main-main.
+Aku baru saja berpatroli 36 jam.
+
+605
+00:36:06,783 --> 00:36:08,684
+Aku hanya ingin pulang.
+
+606
+00:36:08,718 --> 00:36:10,753
+Dengar, Aku benar soal ini !
+Aku harus menangkap orang ini !
+
+607
+00:36:10,787 --> 00:36:13,188
+Dan kalau kau salah,
+Kita berdua yang menanggungnya.
+
+608
+00:36:13,223 --> 00:36:14,990
+Andy, Percayalah padaku.
+
+609
+00:36:15,025 --> 00:36:16,792
+Kumohon.
+
+610
+00:36:16,826 --> 00:36:18,260
+Baiklah, Aku segera hubungi yang lainnya.
+
+611
+00:36:18,294 --> 00:36:19,528
+Sampai jumpa di sana.
+
+612
+00:36:19,562 --> 00:36:21,030
+Terima kasih.
+
+613
+00:37:06,977 --> 00:37:09,411
+Aku tahu di mana tempatnya !
+
+614
+00:37:41,603 --> 00:37:43,538
+Astaga.
+
+615
+00:37:49,563 --> 00:38:09,563
+<font color="#800080">Translated by</font><font color="#ff8000"> erickjiwono</font> a.k.a <font color="#0080c0">er1ck9</font>
+<font color="#ff00ff">http://erickjiwono.blogspot.com</font>
+
+616
+00:38:09,588 --> 00:38:29,588
+<font color="#ffff00">IDFL SubsCrew</font>
+<font color="#800080">http://IDFL.us</font>
+
+617
+00:38:29,613 --> 00:38:39,613
+<font color="#ffff00">Visit me at Subscene</font>
+<font color="#80ff00">http://subscene.com/u/702663</font>
+
+618
+00:38:43,966 --> 00:38:45,366
+Kau baik-baik saja ?
+
+619
+00:38:45,401 --> 00:38:47,935
+Aku butuh senjata dari bagasimu sekarang.
+
+620
+00:38:47,970 --> 00:38:49,137
+Di mana bantuan ?
+
+621
+00:38:49,171 --> 00:38:50,738
+Aku tak tahu.
+Aku sudah menghubungi mereka.
+
+622
+00:38:50,773 --> 00:38:52,106
+Metro, Para petugas--
+
+623
+00:39:07,022 --> 00:39:09,090
+Andy ?
+
+624
+00:39:09,124 --> 00:39:12,160
+Sudah kubilang menjauhlah darinya.
+
+625
+00:39:12,194 --> 00:39:15,429
+Sudah kubilang, Tapi kau tak mendengarkan. /
+Kumohon.
+
+626
+00:39:23,062 --> 00:39:24,604
+Tak apa. /
+Andy, Kumohon.
+
+627
+00:39:24,718 --> 00:39:27,310
+Aku ingin melindungimu.
+Aku akan melindungimu !
+
+628
+00:39:41,790 --> 00:39:43,091
+Letnan !
+
+629
+00:39:43,125 --> 00:39:46,527
+Abbie, Abbie... /
+Borgol dirimu ke pintu.
+
+630
+00:39:46,562 --> 00:39:49,597
+Kau tak bisa membunuhnya, Abbie.
+Dia-lah Kematian.
+
+631
+00:39:49,631 --> 00:39:50,598
+Lakukan !
+
+632
+00:39:55,537 --> 00:39:59,607
+Turunkan senjatamu !
+Letakkan tanganmu di atas kepa--
+
+633
+00:39:59,642 --> 00:40:01,309
+Apa itu ?
+
+634
+00:40:01,343 --> 00:40:04,112
+Turunkan senjatamu sekarang !
+
+635
+00:40:04,146 --> 00:40:05,279
+Menurutmu, dia bisa mendengar kita ?
+
+636
+00:40:05,314 --> 00:40:08,613
+Maksudku, Dia kan-- /
+Mana aku tahu ?
+
+637
+00:40:14,857 --> 00:40:16,491
+Kubilang turunkan senjatamu !
+
+638
+00:40:24,700 --> 00:40:27,335
+Kau tak bisa membunuhnya !
+
+639
+00:40:27,369 --> 00:40:28,569
+Dia takkan mati, Abbie !
+
+640
+00:40:40,416 --> 00:40:41,983
+Crane !
+Whoa !
+
+641
+00:40:42,017 --> 00:40:43,351
+Whoa.
+Aku yang memanggilmu.
+
+642
+00:40:44,420 --> 00:40:45,853
+Letnan ?
+
+643
+00:40:46,722 --> 00:40:48,222
+Hei !
+Tidak !
+
+644
+00:40:48,257 --> 00:40:49,590
+Dia bersamaku.
+
+645
+00:40:51,460 --> 00:40:53,227
+Aku baik-baik saja.
+
+646
+00:41:19,221 --> 00:41:21,623
+Aku seharusnya memasukkanmu dalam penjara...
+
+647
+00:41:21,657 --> 00:41:24,025
+...kecuali karena aku punya tengkorak
+yang diawetkan dalam toples acar...
+
+648
+00:41:24,059 --> 00:41:26,394
+...dan dua polisi yang mendukung kisahmu.
+
+649
+00:41:26,428 --> 00:41:28,196
+Belum lagi pengakuan dari Brooks,...
+
+650
+00:41:28,230 --> 00:41:29,731
+...yang akan memberikan pembelaan...
+
+651
+00:41:29,765 --> 00:41:33,167
+...tapi hanya jika dia bicara pada
+kalian dan si Capten Amerika.
+
+652
+00:41:33,202 --> 00:41:34,168
+Hmm ?
+
+653
+00:41:34,203 --> 00:41:35,603
+Sekarang, Ada ruangan...
+
+654
+00:41:35,638 --> 00:41:37,739
+...dipenuhi dengan pers yang
+mencari jawaban yang tak kumiliki.
+
+655
+00:41:37,773 --> 00:41:41,276
+Jadi mengapa kau tak membantuku ?
+
+656
+00:41:41,310 --> 00:41:42,343
+Kebenarannya, Pak ?
+
+657
+00:41:42,378 --> 00:41:43,745
+Kami baru memulainya.
+
+658
+00:41:43,779 --> 00:41:46,014
+Apapun ini, akan menjadi lebih buruk.
+
+659
+00:41:47,550 --> 00:41:49,417
+Luar biasa.
+
+660
+00:41:49,451 --> 00:41:51,920
+Aku diberitahu, kalau kau akan dipindah
+tugaskan ke Quantico minggu depan ?
+
+661
+00:41:54,423 --> 00:41:55,556
+Tidak lagi.
+
+662
+00:41:58,160 --> 00:42:02,263
+Kupikir ini tempatku yang seharusnya.
+
+663
+00:42:03,332 --> 00:42:05,400
+Pria itu satu-satunya petunjuk.
+
+664
+00:42:05,434 --> 00:42:06,834
+Dia punya jawaban.
+
+665
+00:42:06,869 --> 00:42:08,970
+Temukanlah sesuatu yang
+bisa membuatku mengerti.
+
+666
+00:42:09,004 --> 00:42:10,338
+Kalian berdua carilah.
+
+667
+00:42:14,343 --> 00:42:17,845
+Ada sesuatu yang harus kau tahu.
+
+668
+00:42:17,880 --> 00:42:19,247
+Dalam mimpiku,...
+
+669
+00:42:19,281 --> 00:42:21,449
+Katrina menyebutku sebagai 'Saksi Pertama'...
+
+670
+00:42:21,484 --> 00:42:23,952
+Kitab Wahyu.
+
+671
+00:42:23,986 --> 00:42:26,588
+Berbicara soal dua saksi,
+yang bersama-sama...
+
+672
+00:42:26,622 --> 00:42:28,923
+...selama 7 tahun masa kesengsaraan...
+
+673
+00:42:28,958 --> 00:42:30,925
+...membela kemanusiaan
+dari siksaan neraka.
+
+674
+00:42:30,960 --> 00:42:33,261
+Pertempuran mereka telah
+dinubuatkan...
+
+675
+00:42:33,295 --> 00:42:36,231
+...untuk memutuskan takdir dunia...
+
+676
+00:42:36,265 --> 00:42:37,765
+...saat hari pengkahiman itu tiba.
+
+677
+00:42:37,800 --> 00:42:40,535
+Menurutmu, kedua saksi itu kita ?
+
+678
+00:42:40,569 --> 00:42:43,404
+Katamu, setelah kejadian
+di hutan, Kau kehilangan arah--
+
+679
+00:42:43,439 --> 00:42:45,974
+Tapi mungkin kau dipanggil untuk sesuatu, Abbie.
+
+680
+00:42:46,008 --> 00:42:49,143
+Untuk menyelesaikan pekerjaan
+yang dimulai oleh Sheriff...
+
+681
+00:42:50,646 --> 00:42:52,814
+Mungkin kita berdua dipanggil untuk itu.
+
+682
+00:42:57,953 --> 00:43:00,655
+Brooks mengatakan perang telah datang.
+
+683
+00:43:02,491 --> 00:43:05,360
+Ayo cari tahu, apalagi yang dia ketahui.
+
+684
+00:43:15,785 --> 00:43:17,585
+-- Kau gagal --
+
+685
+00:43:17,640 --> 00:43:20,441
+Tolong, Beri aku lagi kesempatan.
+
+686
+00:43:25,994 --> 00:43:27,118
+Kumohon.
+
+687
+00:43:41,731 --> 00:43:44,265
+<i>Dan aku mendengar, seperti...</i>
+
+688
+00:43:44,300 --> 00:43:46,167
+<i>...bunyi guntur,...</i>
+
+689
+00:43:46,202 --> 00:43:49,471
+<i>...salah satu dari empat binatang
+mengatakan "Datang dan Lihatlah.".</i>
+
+690
+00:43:51,974 --> 00:43:54,285
+<i>Kemudian lihatlah seekor
+kuda putih pucat,...</i>
+
+691
+00:43:54,320 --> 00:43:57,412
+<i>...dan yang menungganginya
+bernama Kematian...</i>
+
+692
+00:43:57,446 --> 00:43:59,948
+<i>...dan neraka mengikutinya.</i>
+
+693
+00:44:00,182 --> 00:44:03,945
+♪ Please allow me to introduce myself ♪
+
+694
+00:44:03,980 --> 00:44:07,185
+♪ I'm a man of wealth and taste... ♪
+
+695
+00:44:07,210 --> 00:44:12,210
+<font color="#800080">Translated by</font><font color="#ff8000"> erickjiwono</font> a.k.a <font color="#0080c0">er1ck9</font>
+<font color="#ff00ff">http://erickjiwono.blogspot.com</font>
