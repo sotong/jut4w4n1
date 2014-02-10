@@ -2,7 +2,7 @@
 <config>
   <repeat>true</repeat>
   <volume>50</volume>
-  <logo.file>https://jut4w4n1.googlecode.com/svn/trunk/legos1.png</logo.file>
+  <logo.file>https://jut4w4n1.googlecode.com/svn/trunk/logo.png</logo.file>
   <logo.over>1</logo.over>
   <logo.out>0.5</logo.out>
   <logo.hide>false</logo.hide>
