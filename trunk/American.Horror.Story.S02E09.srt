@@ -1,0 +1,2748 @@
+﻿1
+00:00:17,690 --> 00:00:20,340
+<font color="#d2942c">Silahkan, silahkan duduk, Tn. Morgan.</font>
+
+2
+00:00:20,690 --> 00:00:22,330
+<font color="#d2942c">Boleh aku memanggilmu John?</font>
+
+3
+00:00:22,920 --> 00:00:23,960
+<font color="#d2942c">Johnny.</font>
+
+4
+00:00:24,620 --> 00:00:26,940
+<font color="#d2942c">Dan bagaimana kau menemukanku, Johnny?</font>
+
+5
+00:00:27,230 --> 00:00:29,380
+<font color="#d2942c">Aku melihat iklanmu di salah satu m-majalah itu...</font>
+
+6
+00:00:29,520 --> 00:00:31,770
+...yang mereka punya di kotak surat,
+Penny Saver</ i>.<font color="#0i0000"></font>
+
+7
+00:00:31,910 --> 00:00:34,670
+<font color="#d2942c">Kau mungkin melihat iklan berhenti merokok.</font>
+
+8
+00:00:34,790 --> 00:00:37,000
+<font color="#d2942c">"Hasil dijamin atau uangmu kembali"?</font>
+
+9
+00:00:37,110 --> 00:00:38,580
+<font color="#d2942c">Aku tidak merokok.</font>
+
+10
+00:00:38,670 --> 00:00:40,370
+<font color="#d2942c">Kau memang tidak terlihat...</font>
+
+11
+00:00:40,500 --> 00:00:42,260
+<font color="#d2942c">...butuh menurunkan berat badan.</font>
+
+12
+00:00:42,450 --> 00:00:44,460
+<font color="#d2942c">Iklanmu menyebutkan sesuatu tentang...</font>
+
+13
+00:00:44,760 --> 00:00:46,450
+<font color="#d2942c">...membatasi dorongan.</font>
+
+14
+00:00:46,560 --> 00:00:47,610
+<font color="#d2942c">Memang benar.</font>
+
+15
+00:00:47,720 --> 00:00:49,980
+<font color="#d2942c">Aku telah menemukan sugesti hipnotis menjadi...</font>
+
+16
+00:00:50,100 --> 00:00:53,700
+<font color="#d2942c">...salah satu "senjata" yang paling ampuh
+di "gudang senjata" seorang terapis.</font>
+
+17
+00:00:53,800 --> 00:00:56,560
+<font color="#d2942c">Aku ingin berhenti.
+Aku sungguh ingin berhenti.</font>
+
+18
+00:00:56,660 --> 00:01:00,460
+<font color="#d2942c">Jika aku harus melakukan pengobatan,
+pengobatan apapun itu, aku bersedia mencoba.</font>
+
+19
+00:01:00,580 --> 00:01:03,310
+<font color="#d2942c">Ceritakan tentang perilaku
+yang ingin kau dibatasi.</font>
+
+20
+00:01:03,420 --> 00:01:05,910
+<font color="#d2942c">- Mulai dari awalnya.
+- Aku selalu,...</font>
+
+21
+00:01:06,110 --> 00:01:09,170
+<font color="#d2942c">...punya dorongan,
+kau tahu, bahkan sejak kecil.</font>
+
+22
+00:01:09,280 --> 00:01:10,740
+<font color="#d2942c">Pertama kali aku mencobanya,...</font>
+
+23
+00:01:10,860 --> 00:01:12,280
+<font color="#d2942c">...itu menakutkan.</font>
+
+24
+00:01:12,690 --> 00:01:14,150
+<font color="#d2942c">Tapi itu rasanya menakjubkan.</font>
+
+25
+00:01:14,250 --> 00:01:15,990
+<font color="#d2942c">Seluruh tubuhku rasanya hidup.</font>
+
+26
+00:01:16,120 --> 00:01:18,330
+<font color="#d2942c">Ketika keluarga angkatku melihat "bukti"...</font>
+
+27
+00:01:18,830 --> 00:01:19,910
+<font color="#d2942c">...mereka mengusirku dari rumah.</font>
+
+28
+00:01:20,030 --> 00:01:21,320
+<font color="#d2942c">Aku pindah adopsi dari rumah ke rumah...</font>
+
+29
+00:01:21,450 --> 00:01:23,620
+<font color="#d2942c">...sampai aku belajar
+bagaimana cara menyembunyikannya.</font>
+
+30
+00:01:23,750 --> 00:01:26,510
+<font color="#d2942c">Memang memalukan
+begitu banyak orang punya reaksi negatif...</font>
+
+31
+00:01:26,640 --> 00:01:28,420
+<font color="#d2942c">...pada sesuatu yang begitu alami.</font>
+
+32
+00:01:28,690 --> 00:01:30,950
+<font color="#d2942c">Itukah pertama kalinya
+kau <font color="#ff0000">menyentuh dirimu sendiri<font color="#d2942c">?</font></font></font>
+
+33
+00:01:31,090 --> 00:01:32,390
+<font color="#d2942c">Bukan itu.</font>
+
+34
+00:01:32,800 --> 00:01:34,670
+<font color="#d2942c">Aku menguliti kucing.</font>
+
+35
+00:01:35,840 --> 00:01:38,430
+<font color="#d2942c">- Kucingnya memang sudah mati.
+- Jadi...</font>
+
+36
+00:01:38,710 --> 00:01:41,260
+<font color="#d2942c">...kau menemukan hewan mati?</font>
+
+37
+00:01:41,400 --> 00:01:43,380
+<font color="#d2942c">Yeah.
+Beberapa kali.</font>
+
+38
+00:01:43,480 --> 00:01:47,940
+<font color="#d2942c">Kemudian aku belajar
+bahwa membunuh hewan mati itu baik.</font>
+
+39
+00:01:48,060 --> 00:01:49,470
+<font color="#d2942c">Bahkan lebih baik.</font>
+
+40
+00:01:50,260 --> 00:01:52,650
+<font color="#d2942c">Dan dorongan ini mengikutimu...</font>
+
+41
+00:01:52,780 --> 00:01:54,240
+<font color="#d2942c">...sampai kau dewasa?</font>
+
+42
+00:01:54,370 --> 00:01:56,290
+<font color="#d2942c">Tidak, aku tidak menyakiti hewan lagi.</font>
+
+43
+00:01:56,420 --> 00:01:58,920
+<font color="#d2942c">Aku tidak menyakitinya lagi
+sejak aku beranjak remaja.</font>
+
+44
+00:01:59,030 --> 00:02:01,220
+<font color="#d2942c">Tahukah kau bahwa membunuh hewan...</font>
+
+45
+00:02:01,350 --> 00:02:04,190
+<font color="#d2942c">...adalah gejala awal dari psikopat?</font>
+
+46
+00:02:04,330 --> 00:02:05,560
+<font color="#d2942c">Aku belajar itu bahwa di penjara.</font>
+
+47
+00:02:05,660 --> 00:02:07,000
+<font color="#d2942c">Perampokan bersenjata.</font>
+
+48
+00:02:07,120 --> 00:02:08,760
+<font color="#d2942c">Tapi itu membuatku berpikir.</font>
+
+49
+00:02:08,910 --> 00:02:12,190
+<font color="#d2942c">Apa yang membuatku... aku jadi begini?</font>
+
+50
+00:02:12,300 --> 00:02:14,430
+Siapa orang tua kandungku?<font color="#0i0000"></font>
+
+51
+00:02:14,560 --> 00:02:16,880
+<font color="#d2942c">Mereka punya komputer dirumah,
+dan aku tidak punya apa-apa...</font>
+
+52
+00:02:17,020 --> 00:02:19,070
+<font color="#d2942c">- ...selain waktu, jadi...
+- Tn. Morgan, kau tahu,...</font>
+
+53
+00:02:19,200 --> 00:02:21,360
+<font color="#d2942c">...aku-aku mungkin tidak memenuhi syarat
+untuk menolongmu.</font>
+
+54
+00:02:21,490 --> 00:02:23,680
+Tidak, kau harus menolongku, Dokter.<font color="#0i0000"></font>
+
+55
+00:02:23,800 --> 00:02:26,530
+<font color="#d2942c">Aku tidak tahu apa yang harus kulakukan,
+karena pikiran-pikiran ini...</font>
+
+56
+00:02:26,680 --> 00:02:28,040
+<font color="#d2942c">...tidak berhenti.</font>
+
+57
+00:02:28,160 --> 00:02:28,840
+<font color="#d2942c">Jika pikirannya muncul,...</font>
+
+58
+00:02:28,980 --> 00:02:30,840
+<font color="#d2942c">....pikirannya makin sulit diabaikan...</font>
+
+59
+00:02:30,960 --> 00:02:33,180
+<font color="#d2942c">...sejak aku mengetahui siapa diriku.</font>
+
+60
+00:02:33,640 --> 00:02:36,210
+<font color="#d2942c">Dan apa yang pikiran-pikiran itu
+suruh kau perbuat?</font>
+
+61
+00:02:36,330 --> 00:02:38,310
+<font color="#d2942c">Pikiran itu bilang padaku untuk
+menelusuri asal-usulku,...</font>
+
+62
+00:02:38,430 --> 00:02:41,080
+<font color="#d2942c">...jadi aku menyewa rumah
+di mana dulunya ayahku tinggal.</font>
+
+63
+00:02:41,460 --> 00:02:43,960
+<font color="#d2942c">Pikiran itu juga bilang padaku
+untuk menyakiti wanita.</font>
+
+64
+00:02:44,750 --> 00:02:46,690
+<font color="#d2942c">Tapi tidak cuma menyakiti mereka.</font>
+
+65
+00:02:47,440 --> 00:02:48,910
+<font color="#d2942c">Menguliti mereka.</font>
+
+66
+00:02:49,430 --> 00:02:50,820
+<font color="#d2942c">Seperti si kucing.</font>
+
+67
+00:02:52,390 --> 00:02:53,850
+<font color="#ffff00">Berhenti bergerak!</font>
+
+68
+00:02:55,760 --> 00:02:56,710
+<font color="#ffff00">Diam!</font>
+
+69
+00:02:56,830 --> 00:02:59,390
+<font color="#ffff00">Ini pekerjaan yang sulit.</font>
+
+70
+00:02:59,910 --> 00:03:02,570
+<font color="#d2942c">Aku tidak punya keterampilan yang sama
+seperti ayahku.</font>
+
+71
+00:03:02,670 --> 00:03:04,300
+<font color="#d2942c">Aku tidak punya pelatihan medis.</font>
+
+72
+00:03:04,420 --> 00:03:06,080
+<font color="#d2942c">Aku mengacaukannya.</font>
+
+73
+00:03:08,020 --> 00:03:09,500
+<font color="#d2942c">Menurutmu itu sudah sangat terlambat?</font>
+
+74
+00:03:09,620 --> 00:03:11,730
+<font color="#d2942c">Tidak pernah sangat terlambat
+untuk menyerahkan diri. (ke polisi)</font>
+
+75
+00:03:11,860 --> 00:03:13,540
+<font color="#d2942c">Bukan itu,
+terlambat untuk kuliah di sekolah kedokteran.</font>
+
+76
+00:03:13,650 --> 00:03:15,370
+<font color="#d2942c">Aku tidak pernah hidup seperti ayahku.</font>
+
+77
+00:03:15,480 --> 00:03:17,500
+<font color="#d2942c">Itu sebabnya aku ingin berhenti.</font>
+
+78
+00:03:18,620 --> 00:03:19,710
+<font color="#d2942c">Gini,...</font>
+
+79
+00:03:19,830 --> 00:03:22,540
+<font color="#d2942c">...margaku bukan Morgan.</font>
+
+80
+00:03:22,710 --> 00:03:24,580
+<font color="#d2942c">Tapi Thredson.</font>
+
+81
+00:03:25,960 --> 00:03:27,940
+<font color="#d2942c">Aku adalah putra dari Bloody Face.</font>
+
+82
+00:04:35,920 --> 00:04:38,100
+Kau ingin bertemu dengan Nona Winters?
+
+83
+00:04:40,450 --> 00:04:42,470
+Aku bilang apa tentang mengetuk pintu?
+
+84
+00:04:42,590 --> 00:04:44,580
+Itu takkan terjadi lagi, Suster.
+
+85
+00:04:48,670 --> 00:04:50,130
+Silakan duduk.
+
+86
+00:04:50,420 --> 00:04:52,230
+Kau meniru Jude dengan tidak sempurna.
+
+87
+00:04:52,360 --> 00:04:53,610
+Harusnya,...
+
+88
+00:04:53,760 --> 00:04:55,870
+...menurutku kau mungkin akan memecutnya.
+
+89
+00:04:55,980 --> 00:04:58,860
+Sangat lancang
+untuk seorang gadis dalam kondisimu.
+
+90
+00:04:58,940 --> 00:05:00,560
+Kondisi yang bagaimana itu?
+
+91
+00:05:00,850 --> 00:05:03,840
+Kabar baiknya adalah,...
+
+92
+00:05:03,990 --> 00:05:06,380
+...kau tampaknya sudah menaklukkan
+penyimpangan seksualmu.
+
+93
+00:05:06,500 --> 00:05:08,040
+Kabar buruknya adalah...
+
+94
+00:05:08,940 --> 00:05:10,760
+..."si kelinci" mati.
+
+95
+00:05:11,070 --> 00:05:11,780
+Jika aku adalah...
+
+96
+00:05:11,950 --> 00:05:13,840
+...Bibiku, Celeste,
+aku akan menawarkan...
+
+97
+00:05:14,020 --> 00:05:15,860
+...<font color="#ff0000">Drano margarita</font>.
+
+98
+00:05:15,980 --> 00:05:18,360
+- Apaan?
+- Tambahkan setengah cangkir Drano...
+
+99
+00:05:18,500 --> 00:05:20,300
+....setiap dua minggu selama hamil...
+
+100
+00:05:20,430 --> 00:05:21,590
+...dengan margarita.
+
+101
+00:05:21,720 --> 00:05:23,300
+Itulah yang dia berikan
+pada sepupu murahanku Molly...
+
+102
+00:05:23,410 --> 00:05:26,620
+...saat dia bunting oleh Billy Porter.
+
+103
+00:05:27,040 --> 00:05:29,700
+- Aku hamil?
+- Jadi kita tetep mempertahankan...
+
+104
+00:05:29,830 --> 00:05:31,350
+...keseluruhan cerita pemerkosaan?
+
+105
+00:05:31,490 --> 00:05:34,400
+Menariknya kau belum menyebutkan
+Dr. Thredson sekalipun...
+
+106
+00:05:34,530 --> 00:05:37,020
+...sejak kau datang kembali ke sini.
+Kau sekarang mulai berperilaku...
+
+107
+00:05:37,130 --> 00:05:39,290
+...baik pada dia
+karena kau mengandung anaknya?
+
+108
+00:05:42,220 --> 00:05:42,910
+Sebenarnya,...
+
+109
+00:05:43,080 --> 00:05:44,850
+...keseluruhan...
+cerita pemerkosaan pastinya...
+
+110
+00:05:44,990 --> 00:05:46,750
+....halusinasi dari kecelakaan mobil...
+
+111
+00:05:46,880 --> 00:05:49,280
+...saat aku... kepalaku terbentur.
+
+112
+00:05:50,830 --> 00:05:52,580
+Siapapun ayahnya...
+
+113
+00:05:52,750 --> 00:05:54,010
+...ada kehidupan kecil tumbuh...
+
+114
+00:05:54,140 --> 00:05:55,460
+...didalam dirimu.
+
+115
+00:05:55,600 --> 00:05:57,390
+Aku tidak mau mempertahankan bayi ini.
+
+116
+00:05:57,600 --> 00:05:59,430
+Aku tidak mau punya bayi ini dalam diriku.
+
+117
+00:05:59,560 --> 00:06:01,160
+<i>Kau bisa</ i> mempertahankan bayi ini,...</i>
+
+118
+00:06:01,280 --> 00:06:03,250
+<i>...dan kau akan mempertahankan bayi ini.</i>
+
+119
+00:06:05,110 --> 00:06:06,710
+Disini rumah sakit jiwa.
+
+120
+00:06:06,850 --> 00:06:08,560
+Orang-orang kawin seperti kelinci di sini.
+
+121
+00:06:08,690 --> 00:06:10,000
+Kau bukan yang pertama kalinya...
+
+122
+00:06:10,290 --> 00:06:11,360
+...menjadi ibu tanpa menikah.
+
+123
+00:06:11,500 --> 00:06:13,420
+Kebanyakan bayinya, dilahirkan agak...
+
+124
+00:06:13,560 --> 00:06:14,760
+...gila.
+
+125
+00:06:14,900 --> 00:06:17,080
+Jadi... staf kami sangat berpengalaman...
+
+126
+00:06:17,200 --> 00:06:18,840
+...untuk menenangkan bayinya dan...
+
+127
+00:06:18,960 --> 00:06:20,940
+...mempersiapkan bayinya
+untuk dipindahkan ke St. Ursula,...
+
+128
+00:06:21,070 --> 00:06:22,940
+...<font color="#ff0000">Rumah untuk Anak Hilang</font>.
+
+129
+00:06:23,060 --> 00:06:24,730
+Kau lebih buruk dari Jude.
+
+130
+00:06:24,850 --> 00:06:25,790
+Kau sadis.
+
+131
+00:06:25,920 --> 00:06:27,150
+Tenanglah, Mama,...
+
+132
+00:06:27,270 --> 00:06:30,020
+...atau ini akan menjadi sembilan bulan
+yang sangat panjang.
+
+133
+00:06:30,140 --> 00:06:33,260
+Kita tidak ingin memenjarakanmu... ya kan?
+
+134
+00:06:40,340 --> 00:06:41,810
+Boleh aku pergi?
+
+135
+00:06:41,990 --> 00:06:43,240
+Tentu saja.
+
+136
+00:06:57,070 --> 00:06:58,760
+Kau sudah sadar.
+
+137
+00:06:58,980 --> 00:07:00,360
+Aku sangat lega.
+
+138
+00:07:00,490 --> 00:07:02,540
+Uskup.
+
+139
+00:07:05,380 --> 00:07:07,800
+Jangan, jangan, jangan, kau jangan bergerak.
+
+140
+00:07:08,020 --> 00:07:09,690
+Kau sedang sakit, sayangnya.
+
+141
+00:07:10,910 --> 00:07:12,180
+Apa yang telah terjadi?
+
+142
+00:07:12,290 --> 00:07:13,890
+Kau tidak ingat?
+
+143
+00:07:16,460 --> 00:07:17,780
+<i>Kau membunuh seseorang.</ i></i>
+
+144
+00:07:17,940 --> 00:07:20,080
+- Semoga Tuhan mengistirahatkan jiwanya.
+- Aku tidak punya pilihan.
+
+145
+00:07:20,220 --> 00:07:21,610
+Aku membela diri.
+
+146
+00:07:21,740 --> 00:07:24,210
+Dia mencoba membunuhku,
+dan malahan lebih buruk.
+
+147
+00:07:24,330 --> 00:07:26,130
+Kau kebingungan;
+itu sudah jelas.
+
+148
+00:07:26,830 --> 00:07:27,830
+Aku menyalahkan diriku sendiri.
+
+149
+00:07:27,980 --> 00:07:29,350
+Aku seharus menyadarinya lebih cepat.
+
+150
+00:07:29,500 --> 00:07:30,930
+- Apa?
+- Tekanan karena bekerja...
+
+151
+00:07:31,060 --> 00:07:33,740
+- ...di tempat ini terlalu besar bagimu.
+- Tidak!
+
+152
+00:07:33,940 --> 00:07:37,880
+Kau bertambah parno,
+mencari konspirasi.
+
+153
+00:07:38,010 --> 00:07:40,150
+Dan sekarang Frank McCann sudah mati.
+
+154
+00:07:40,730 --> 00:07:41,970
+Apa yang barusan kau katakan?
+
+155
+00:07:42,080 --> 00:07:43,280
+<font color="#d2942c">Silahkan bicara.</font>
+
+156
+00:07:43,850 --> 00:07:46,410
+<font color="#d2942c">Saya melihat biarawati, Suster Jude,...</font>
+
+157
+00:07:46,540 --> 00:07:48,430
+...menyerang Frank McCann.<font color="#0i0000"></font>
+
+158
+00:07:49,060 --> 00:07:50,320
+<font color="#d2942c">Kejadiannya mengerikan.</font>
+
+159
+00:07:50,430 --> 00:07:51,540
+<font color="#d2942c">Lalu apa yang terjadi?</font>
+
+160
+00:07:51,680 --> 00:07:54,270
+<font color="#d2942c">Saya memastikan penghuni yang lain
+diamankan,...</font>
+
+161
+00:07:54,560 --> 00:07:57,300
+<font color="#d2942c">....dan kemudian memperingatkan Dr. Arden
+agar waspada terhadap situasinya.</font>
+
+162
+00:07:57,420 --> 00:08:00,180
+<font color="#d2942c">- Kenapa kau tidak menelepon polisi?
+- Tidak ada waktu.</font>
+
+163
+00:08:00,550 --> 00:08:02,020
+<font color="#d2942c">Itu...</font>
+
+164
+00:08:02,360 --> 00:08:04,810
+<font color="#d2942c">...maaf kata-katanya, gemblung.</font>
+
+165
+00:08:04,930 --> 00:08:06,440
+<font color="#d2942c">Suster Jude mengamuk.</font>
+
+166
+00:08:06,580 --> 00:08:08,170
+<font color="#d2942c">Dia membunuh Frank McCann,...</font>
+
+167
+00:08:08,560 --> 00:08:10,210
+<font color="#d2942c">...menyandera Leigh Emerson,...</font>
+
+168
+00:08:10,340 --> 00:08:12,270
+<font color="#d2942c">...dan mengunci dirinya sendiri
+di kantor lamanya.</font>
+
+169
+00:08:12,420 --> 00:08:15,570
+<font color="#d2942c">Saya memang tidak terkejut.</font>
+
+170
+00:08:15,690 --> 00:08:17,530
+<font color="#d2942c">Dia sudah menunjukkan
+tanda-tanda ketidakstabilan...</font>
+
+171
+00:08:17,660 --> 00:08:18,920
+<font color="#d2942c">...selama beberapa waktu.</font>
+
+172
+00:08:19,280 --> 00:08:21,730
+<font color="#d2942c">Dia tampaknya mengalami delusi...</font>
+
+173
+00:08:21,860 --> 00:08:23,260
+<font color="#d2942c">...terhadap beberapa pasien di sini.</font>
+
+174
+00:08:23,390 --> 00:08:26,120
+<font color="#d2942c">Dia menuduh Dr. Arden seorang Nazi.</font>
+
+175
+00:08:26,250 --> 00:08:29,700
+<font color="#d2942c">Dia mendatangi saya...
+meyakinkan bahwa anak didik mudanya,...</font>
+
+176
+00:08:29,850 --> 00:08:33,040
+<font color="#d2942c">...Suster Mary Eunice,
+dirasuki setan.</font>
+
+177
+00:08:33,170 --> 00:08:35,090
+<font color="#d2942c">Saat saya memberitahukan pada dia
+saya akan melepaskan dia...</font>
+
+178
+00:08:35,210 --> 00:08:36,410
+<font color="#d2942c">....dari jabatannnya di sini,...</font>
+
+179
+00:08:36,550 --> 00:08:37,950
+<font color="#d2942c">...dia menjadi tidak senang.</font>
+
+180
+00:08:38,090 --> 00:08:39,530
+<font color="#d2942c">Dia mengancam saya dengan...</font>
+
+181
+00:08:39,660 --> 00:08:42,130
+<font color="#d2942c">...pisau cukur yang sama yang dia digunakan
+untuk membunuh Frank McCann.</font>
+
+182
+00:08:42,260 --> 00:08:44,970
+<font color="#d2942c">Dia berbau minuman keras dan...
+rokok.</font>
+
+183
+00:08:45,100 --> 00:08:46,380
+<font color="#d2942c">Kami sudah mengeluarkan dari properti. (Briarcliff)</font>
+
+184
+00:08:46,520 --> 00:08:48,780
+<font color="#d2942c">Saya-saya-saya seharusnya menelepon polisi
+lalu-- saya...</font>
+
+185
+00:08:48,930 --> 00:08:51,660
+<font color="#d2942c">Saya tidak pernah menyangka
+momen seperti itu bisa terjadi.</font>
+
+186
+00:08:51,770 --> 00:08:53,020
+<font color="#d2942c">Saya melihat dia melakukannya.</font>
+
+187
+00:08:53,160 --> 00:08:55,200
+<font color="#d2942c">Saya melihat Suster Jude...</font>
+
+188
+00:08:56,110 --> 00:08:58,610
+<font color="#d2942c">...membunuh Frank McCann dengan darah dingin
+lalu mencoba....</font>
+
+189
+00:08:58,740 --> 00:09:00,420
+<font color="#d2942c">- ...melakukan hal yang sama pada saya.
+- Bukankah itu benar...</font>
+
+190
+00:09:00,560 --> 00:09:02,010
+<font color="#d2942c">...bahwa kau sendiri bertanggung jawab...</font>
+
+191
+00:09:02,180 --> 00:09:03,880
+<font color="#d2942c">...atas kematian 18 orang?</font>
+
+192
+00:09:04,010 --> 00:09:07,420
+Pak, negara (pengadilan)...
+menyatakan sayatidak bertanggung jawab,...<font color="#0i0000"></font>
+
+193
+00:09:07,560 --> 00:09:09,370
+<font color="#d2942c">....itulah sebabnya mereka menempatkan saya di sini,
+tapi...</font>
+
+194
+00:09:09,500 --> 00:09:10,810
+<font color="#d2942c">...ya...</font>
+
+195
+00:09:12,250 --> 00:09:16,040
+<font color="#d2942c">...ya, saya memang bertanggung jawab,
+Saya tahu itu sekarang. Saya sudah...</font>
+
+196
+00:09:17,270 --> 00:09:20,600
+<font color="#d2942c">...saya sudah punya waktu untuk merenungkan
+pada kejahatanku...</font>
+
+197
+00:09:20,850 --> 00:09:21,810
+<font color="#d2942c">Yang Mulia.</font>
+
+198
+00:09:21,950 --> 00:09:25,120
+<font color="#d2942c">Natal tahun '62 adalah
+waktu yang sangat buruk bagi saya,...</font>
+
+199
+00:09:25,290 --> 00:09:28,290
+<font color="#d2942c">...dan satu-satunya pelipur lara yang saya punya
+adalah mengetahui bahwa...</font>
+
+200
+00:09:28,780 --> 00:09:31,000
+<font color="#d2942c">...karena apa yang sudah saya perbuat...</font>
+
+201
+00:09:31,560 --> 00:09:33,880
+<font color="#d2942c">...ada 18 orang berada di Surga.</font>
+
+202
+00:09:34,010 --> 00:09:35,480
+<font color="#d2942c">Itu perspektif yang unik,...</font>
+
+203
+00:09:35,590 --> 00:09:37,510
+<font color="#d2942c">- ...Tn. Emerson.
+- Saya tahu, Pak,...</font>
+
+204
+00:09:37,670 --> 00:09:41,400
+<font color="#d2942c">...apapun yang terjadi,
+Saya-saya tidak bisa... membenci Suster Jude...</font>
+
+205
+00:09:41,540 --> 00:09:43,890
+...terhadap apa yang sudah dia perbuat pada saya--
+tapi saya bisa...<font color="#0i0000"></font>
+
+206
+00:09:44,160 --> 00:09:45,580
+<font color="#d2942c">...mencoba untuk memaafkannya,...</font>
+
+207
+00:09:45,740 --> 00:09:47,420
+<font color="#d2942c">...dan saya bisa melanjutkan...</font>
+
+208
+00:09:47,560 --> 00:09:51,160
+<font color="#d2942c">...jalan saya sendiri
+ke penebusan yang sesungguhnya,...</font>
+
+209
+00:09:51,280 --> 00:09:52,660
+<font color="#d2942c">...sehingga saat itu tiba,...</font>
+
+210
+00:09:52,810 --> 00:09:54,650
+<font color="#d2942c">...saat saya masuk ke pintu surga...</font>
+
+211
+00:09:54,990 --> 00:09:56,910
+<font color="#d2942c">...saya bisa minta maaf,...</font>
+
+212
+00:09:57,060 --> 00:09:58,600
+<font color="#d2942c">...secara langsung, pada setiap...</font>
+
+213
+00:09:58,740 --> 00:10:01,690
+<font color="#d2942c">...18 orang yang sudah saya kirim ke sana
+sebelum saya.</font>
+
+214
+00:10:04,790 --> 00:10:07,180
+Hakim pengadilan sudah menentukan
+bahwa kau akan menjalani...
+
+215
+00:10:07,320 --> 00:10:08,550
+...sisa hari-harimu...
+
+216
+00:10:08,720 --> 00:10:10,340
+...di sini, di Briarcliff.
+
+217
+00:10:10,540 --> 00:10:11,790
+Kau akan, tentu saja, dihapus...
+
+218
+00:10:11,910 --> 00:10:13,540
+...dari kedudukan kependetaan.
+
+219
+00:10:14,540 --> 00:10:17,670
+Kau sudah bukan lagi suster
+di Gereja Katolik Kudus.
+
+220
+00:10:17,800 --> 00:10:20,870
+Kau sekali lagi jadi Nona Judy Martin.
+
+221
+00:10:21,080 --> 00:10:22,060
+Pasien.
+
+222
+00:10:22,200 --> 00:10:23,860
+Tidak, kau tidak bisa lakukan ini padaku!
+
+223
+00:10:23,980 --> 00:10:25,670
+- Kau yang melakukan ini pada dirimu sendiri.
+- Kembali ke sini,...
+
+224
+00:10:25,800 --> 00:10:27,040
+...bajingan!
+
+225
+00:10:27,170 --> 00:10:29,250
+Kembali ke sini!
+
+226
+00:10:29,540 --> 00:10:30,720
+Aku dijebak!
+
+227
+00:10:30,840 --> 00:10:33,510
+Tuhan, tolong aku!
+
+228
+00:11:20,700 --> 00:11:23,370
+Rupanya dia punya rahasia batin.
+
+229
+00:11:23,510 --> 00:11:27,010
+Suster, kau... mengagetkanku.
+
+230
+00:11:27,130 --> 00:11:28,880
+Aku cuma mengemasi barang-barang dia...
+
+231
+00:11:28,990 --> 00:11:31,250
+...buat disumbangkan pada orang miskin.
+
+232
+00:11:31,390 --> 00:11:32,550
+Aku juga terkejut sepertimu...
+
+233
+00:11:32,670 --> 00:11:34,050
+...ketika aku pertama kali melihat ini.
+
+234
+00:11:36,830 --> 00:11:40,400
+Aku penasaran siapa yang dia khayalkan
+saat dia memakai ini.
+
+235
+00:11:40,680 --> 00:11:43,370
+Tentu saja, itu bukan urusan kita.
+
+236
+00:11:45,380 --> 00:11:46,960
+Kami punya impian yang sama, kau tahu.
+
+237
+00:11:47,070 --> 00:11:47,980
+Dia sudah cerita padaku.
+
+238
+00:11:48,130 --> 00:11:49,110
+Dia bilang kau...
+
+239
+00:11:49,230 --> 00:11:51,000
+...ingin menjadi Paus.
+
+240
+00:11:52,170 --> 00:11:53,000
+Itu...
+
+241
+00:11:53,110 --> 00:11:54,570
+...hal-hal yang diucapkan dengan keyakinan.
+
+242
+00:11:54,700 --> 00:11:56,710
+Kau tahu apa yang aku bilang pada dia
+saat dia ceritakan impianmu padaku?
+
+243
+00:11:57,160 --> 00:12:03,640
+Aku bilang,
+"Roma adalah tempat yang pantas untuk pria itu."
+
+244
+00:12:03,950 --> 00:12:05,920
+Dia begitu senang saat kau bilang...
+
+245
+00:12:06,070 --> 00:12:07,970
+...kau ingin dia menempuh perjalanan itu denganmu.
+
+246
+00:12:08,090 --> 00:12:10,910
+Seperti seorang gadis yang baru saja
+menerima lamaran pernikahan.
+
+247
+00:12:11,010 --> 00:12:12,280
+Mau gimana lagi tapi aku penasaran,...
+
+248
+00:12:12,410 --> 00:12:14,540
+...jika aku memberikan perhatian lebih banyak
+pada dia,...
+
+249
+00:12:14,640 --> 00:12:16,530
+...bisakah tragedi ini dicegah?
+
+250
+00:12:16,660 --> 00:12:17,960
+Uskup,...
+
+251
+00:12:18,090 --> 00:12:19,970
+...dia sendiri akan berkata,...
+
+252
+00:12:20,920 --> 00:12:22,080
+..."Tidak ada waktu...
+
+253
+00:12:22,220 --> 00:12:23,850
+...untuk meratap....
+
+254
+00:12:24,020 --> 00:12:26,570
+...banyak yang harus dilakukan."
+
+255
+00:12:26,680 --> 00:12:28,610
+Tapi kau harus fokus pada tujuanmu sendiri.
+
+256
+00:12:28,730 --> 00:12:30,860
+Tidak ada tujuan lain selain menyelamatkan jiwa.
+
+257
+00:12:30,990 --> 00:12:32,410
+Dia juga bilang begitu.
+
+258
+00:12:32,530 --> 00:12:33,820
+Tentu saja.
+
+259
+00:12:34,100 --> 00:12:35,410
+Aku tahu aku,...
+
+260
+00:12:35,520 --> 00:12:38,430
+...aku tidak bisa mulai <font color="#ff0000">memakai sepatunya</font>...
+
+261
+00:12:38,690 --> 00:12:40,030
+...Suster Jude yang kita semua kenal...
+
+262
+00:12:40,170 --> 00:12:41,310
+...dan sayangi, tapi...
+
+263
+00:12:41,450 --> 00:12:42,720
+...aku ingin bilang...
+
+264
+00:12:43,070 --> 00:12:44,610
+...aku disini untuk melayanimu.
+
+265
+00:12:44,830 --> 00:12:47,020
+...aku ingin membantumu menyelamatkan jiwa-jiwa,...
+
+266
+00:12:47,310 --> 00:12:50,090
+...sepanjang jalan ke Roma.
+
+267
+00:13:25,030 --> 00:13:27,660
+Lepaskan aku!
+Lepaskan aku! Tidak!
+
+268
+00:13:27,780 --> 00:13:30,260
+Aku menuntut untuk bicara pada seseorang!
+
+269
+00:13:30,360 --> 00:13:32,260
+Sekarang, sekarang, Suster Jude.
+Kau seharusnya tidak bertingkah begitu.
+
+270
+00:13:32,370 --> 00:13:33,590
+Dia bukan Suster lagi.
+
+271
+00:13:33,720 --> 00:13:35,560
+Dia juga bukan "ratu kastil" lagi.
+
+272
+00:13:35,660 --> 00:13:37,300
+Dia cuma seorang pasien yang nakal.
+
+273
+00:13:37,430 --> 00:13:39,030
+Sekarang lakukan apa yang kuperintahkan
+dan minum pil-pil ini.
+
+274
+00:13:39,160 --> 00:13:40,070
+- Tidak!
+- Atau aku akan...
+
+275
+00:13:40,170 --> 00:13:41,610
+- ...dengan senang hati memasukkannya ke tenggorokanmu.
+- Tidak!
+
+276
+00:13:47,170 --> 00:13:48,320
+Kau mencakarku lagi...
+
+277
+00:13:48,540 --> 00:13:50,330
+...dan aku akan memanggil Frank kesini.
+
+278
+00:13:50,840 --> 00:13:51,940
+Tapi aku tidak bisa memangilnya,...
+
+279
+00:13:52,050 --> 00:13:54,330
+...karena bagusnya kau sudah <font color="#ff0000">mencakar</font> Frank.
+
+280
+00:13:54,490 --> 00:13:55,260
+Tidak!
+
+281
+00:13:55,350 --> 00:13:57,500
+Itu bohong! Lepaskan aku!
+Lepaskan aku!
+
+282
+00:13:57,620 --> 00:13:59,220
+Ada apa ribut-ribut?
+
+283
+00:13:59,380 --> 00:14:01,120
+Sudah cukup.
+
+284
+00:14:01,490 --> 00:14:04,500
+Timothy. Kumohon.
+
+285
+00:14:04,640 --> 00:14:06,380
+Kenapa kalian tidak pergi
+dan lakukan tugas lainnya...
+
+286
+00:14:06,520 --> 00:14:07,970
+- ...saat ini?
+- Ya, Uskup.
+
+287
+00:14:08,090 --> 00:14:09,160
+Tentu, Pendeta.
+
+288
+00:14:09,270 --> 00:14:10,490
+Timothy.
+
+289
+00:14:10,590 --> 00:14:11,820
+Aku harap kau mungkin...
+
+290
+00:14:11,930 --> 00:14:13,180
+...ingin pengunjung, tapi aku...
+
+291
+00:14:13,300 --> 00:14:15,800
+...melihat bahwa penyesuaian kerja kami
+tetap berlanjut.
+
+292
+00:14:15,900 --> 00:14:17,760
+Tidak. Tidak.
+
+293
+00:14:18,620 --> 00:14:20,750
+Uskup, kumohon.
+
+294
+00:14:21,070 --> 00:14:22,590
+Jangan pergi.
+
+295
+00:14:22,830 --> 00:14:24,200
+Kau yakin?
+
+296
+00:14:24,630 --> 00:14:26,320
+Sekarang aku sudah lebih baik.
+
+297
+00:14:35,110 --> 00:14:36,550
+Apa yang dia lakukan di sini?
+
+298
+00:14:36,690 --> 00:14:38,210
+Leigh...
+
+299
+00:14:38,340 --> 00:14:40,360
+...punya sesuatu
+yang ingin dikatakan padamu.
+
+300
+00:14:40,480 --> 00:14:41,940
+Dan...
+
+301
+00:14:42,770 --> 00:14:45,400
+Kupikir kau akan lebih sehat...
+
+302
+00:14:45,850 --> 00:14:47,840
+...daripada pil apapun.
+
+303
+00:14:55,370 --> 00:14:56,620
+Leigh?
+
+304
+00:15:06,330 --> 00:15:08,170
+Aku memaafkanmu.
+
+305
+00:15:09,000 --> 00:15:10,310
+Kau memaafkanku?
+
+306
+00:15:10,440 --> 00:15:11,530
+Memang.
+
+307
+00:15:12,330 --> 00:15:14,020
+Kencangkan, Frank.
+
+308
+00:15:14,140 --> 00:15:15,860
+Kencangkan.
+Terus dikencangkan.
+
+309
+00:15:15,970 --> 00:15:17,470
+<font color="#d2942c">Tanyalah Suster Chastity.</font>
+
+310
+00:15:17,590 --> 00:15:18,810
+<font color="#d2942c">Aku akan berurusan dengan Suster Chastity.</font>
+
+311
+00:15:18,940 --> 00:15:21,720
+<font color="#d2942c">Kau mungkin ingin memberinya nama baru untuknya.</font>
+
+312
+00:15:25,280 --> 00:15:26,260
+<font color="#d2942c">Kau tahu,...</font>
+
+313
+00:15:26,400 --> 00:15:28,180
+<font color="#d2942c">...kupikir dengan mengijinkanmu berbaur...</font>
+
+314
+00:15:28,310 --> 00:15:29,970
+<font color="#d2942c">...kedalam masyarakat umum...</font>
+
+315
+00:15:30,100 --> 00:15:32,170
+<font color="#d2942c">...mungkin akan berefek agar kau lebih beradab,...</font>
+
+316
+00:15:32,270 --> 00:15:33,190
+<font color="#d2942c">...tapi sudah jelas...</font>
+
+317
+00:15:33,320 --> 00:15:34,820
+<font color="#d2942c">...aku salah, Mr. Emerson.</font>
+
+318
+00:15:34,910 --> 00:15:36,560
+<font color="#d2942c">Jadi kau akan menghabiskan...</font>
+
+319
+00:15:36,680 --> 00:15:38,160
+<font color="#d2942c">...beberapa hari di sini,...</font>
+
+320
+00:15:38,270 --> 00:15:39,830
+<font color="#d2942c">...merenungkan perilakumu.</font>
+
+321
+00:15:39,960 --> 00:15:42,890
+<font color="#d2942c">Bagaimana aku bisa merenung jika tanganku diikat?</font>
+
+322
+00:15:43,010 --> 00:15:44,030
+<font color="#d2942c">Kau menjijikkan.</font>
+
+323
+00:15:44,170 --> 00:15:46,040
+<font color="#d2942c">Kita semua punya beban kita sendiri.</font>
+
+324
+00:15:46,160 --> 00:15:48,210
+<font color="#d2942c">Ayolah.
+Dimana semangat pengampunanmu?</font>
+
+325
+00:15:48,330 --> 00:15:50,350
+<font color="#d2942c">Aku menyimpannya untuk mereka
+yang sungguh-sungguh bertobat.</font>
+
+326
+00:15:50,460 --> 00:15:52,250
+<font color="#d2942c">Semua makhluk Tuhan mendapatkan pengampunan--</font>
+
+327
+00:15:52,400 --> 00:15:53,870
+<font color="#d2942c">...bukankah itu yang gereja ajarkan padamu?</font>
+
+328
+00:15:53,980 --> 00:15:56,860
+<font color="#d2942c">Aku tidak berkewajiban untuk memaafkanmu.</font>
+
+329
+00:15:56,990 --> 00:15:57,960
+<font color="#d2942c">Aku bukan pendeta,...</font>
+
+330
+00:15:58,090 --> 00:15:59,740
+<font color="#d2942c">...dan kau juga tidak menyesalinya.</font>
+
+331
+00:15:59,870 --> 00:16:02,130
+<font color="#d2942c">Aku tidak butuh pengampunanmu.</font>
+
+332
+00:16:03,670 --> 00:16:05,670
+Dan disitulah letak...
+
+333
+00:16:05,810 --> 00:16:08,570
+...perjalanan menuju penebusan yang sesungguhnya.
+
+334
+00:16:08,690 --> 00:16:10,480
+Aku berharap bagi kalian berdua.
+
+335
+00:16:41,010 --> 00:16:43,670
+- Ini aku.
+- Apa yang kau lakukan di sini?
+
+336
+00:16:45,300 --> 00:16:46,490
+Sial.
+Apa mereka sudah menemukan dia?
+
+337
+00:16:46,610 --> 00:16:47,430
+Belum.
+
+338
+00:16:47,540 --> 00:16:48,620
+Apa kau baik-baik saja?
+Kau tampak mengerikan.
+
+339
+00:16:48,760 --> 00:16:49,990
+Kit...
+
+340
+00:16:51,280 --> 00:16:53,040
+- Kita harus membunuhnya.
+- Apa?
+
+341
+00:16:53,170 --> 00:16:55,070
+Kita seharusnya sudah membunuhnya
+saat kita punya kesempatan.
+
+342
+00:16:55,370 --> 00:16:56,430
+Mereka akan menemukan dia,...
+
+343
+00:16:56,560 --> 00:16:57,740
+...dan kemudian dia akan bebas lagi,...
+
+344
+00:16:57,880 --> 00:16:59,280
+...dan kita tidak bisa membiarkan itu terjadi.
+
+345
+00:16:59,400 --> 00:17:01,540
+Kita takkan membiarkan itu terjadi.
+Lana,...
+
+346
+00:17:01,670 --> 00:17:03,840
+...dia satu-satunya yang berdiri
+antara aku dan hukuman mati.
+
+347
+00:17:03,960 --> 00:17:05,900
+Kita harus membuat dia mengaku.
+
+348
+00:17:06,020 --> 00:17:07,410
+Kau tahu apa itu sodium pentothal?
+
+349
+00:17:07,520 --> 00:17:08,710
+Serum kejujuran.
+
+350
+00:17:10,300 --> 00:17:12,420
+Bahkan jika kita bisa mendapatkan itu,...
+
+351
+00:17:12,630 --> 00:17:15,140
+...pengakuan dia akan dianggap tidak sah
+di pengadilan.
+
+352
+00:17:15,270 --> 00:17:16,490
+Itu takkan bisa berhasil.
+
+353
+00:17:16,610 --> 00:17:17,680
+Aku putus asa.
+
+354
+00:17:17,810 --> 00:17:19,280
+Gini, aku tidak tahu mengapa mereka belum...
+
+355
+00:17:19,390 --> 00:17:20,690
+...menyerahkanku ke polisi.
+
+356
+00:17:20,810 --> 00:17:23,290
+Mungkin karena aku tahu terlalu banyak
+tapi bagaimanapun juga,...
+
+357
+00:17:23,440 --> 00:17:25,430
+...aku harus membuat Thredson mengaku.
+
+358
+00:17:27,220 --> 00:17:29,210
+Aku mungkin tahu bagaimana caranya.
+
+359
+00:18:24,930 --> 00:18:26,770
+Kau tahu kesepakatannya.
+
+360
+00:18:27,070 --> 00:18:28,420
+Kau bersuara,...
+
+361
+00:18:28,550 --> 00:18:30,430
+...aku memukul wajahmu dengan gelas.
+
+362
+00:18:46,680 --> 00:18:49,640
+Kau sekarang ingin membunuhku, Oliver, ya kan?
+
+363
+00:18:56,150 --> 00:18:58,100
+Kertas ini mungkin akan mengubah pikiranmu.
+
+364
+00:18:58,960 --> 00:18:59,890
+Apa itu?
+
+365
+00:19:00,000 --> 00:19:01,980
+Ini adalah lelucon paling lucu.
+
+366
+00:19:03,240 --> 00:19:05,130
+Kau membuatku hamil.
+
+367
+00:19:06,130 --> 00:19:07,810
+Aku akan menjadi seorang ayah?
+
+368
+00:19:07,950 --> 00:19:10,200
+Tidak, Oliver,
+kau takkan menjadi seorang ayah.
+
+369
+00:19:11,310 --> 00:19:12,270
+Tidak kali ini.
+
+370
+00:19:12,380 --> 00:19:14,990
+Apa maksudmu?
+Jangan.
+
+371
+00:19:15,150 --> 00:19:16,890
+Jangan, jangan.
+Lana, kumohon,...
+
+372
+00:19:17,030 --> 00:19:19,290
+...kumohon,
+komohon jangan lakukan itu.
+
+373
+00:19:19,760 --> 00:19:21,780
+Aku tahu bagaimana rasanya
+dibesarkan dalam sistem (asuh)--
+
+374
+00:19:21,910 --> 00:19:23,260
+- Itu menghancurkan...
+- Oliver, berhenti!
+
+375
+00:19:23,400 --> 00:19:25,090
+Monster ini yang kau tanam didalam diriku,...
+
+376
+00:19:25,210 --> 00:19:26,820
+...aku akan menyingkirkannya.
+
+377
+00:19:27,020 --> 00:19:28,880
+Dan karena aku terjebak di sini,...
+
+378
+00:19:29,020 --> 00:19:30,940
+...aku harus jadi kreatif.
+
+379
+00:19:31,700 --> 00:19:32,750
+Jangan.
+
+380
+00:19:33,190 --> 00:19:34,260
+Lana, jangan, kumohon.
+
+381
+00:19:34,380 --> 00:19:35,930
+Ini adalah pembunuhan dengan rahmat, Oliver.
+
+382
+00:19:36,140 --> 00:19:37,040
+Tidak boleh ada anak...
+
+383
+00:19:37,180 --> 00:19:38,030
+...yang harus tumbuh....
+
+384
+00:19:38,150 --> 00:19:39,530
+...mengetahui ayahnya adalah Bloody Face.
+
+385
+00:19:39,650 --> 00:19:41,110
+Tidak.
+Dia takkan pernah tahu.
+
+386
+00:19:41,250 --> 00:19:43,920
+Kit Walker yang akan dihukum
+untuk kejahatanku.
+
+387
+00:19:44,070 --> 00:19:46,120
+Aku janji,
+semuanya akan baik-baik saja.
+
+388
+00:19:48,560 --> 00:19:50,480
+Begitukah menurutmu?
+
+389
+00:19:51,030 --> 00:19:52,100
+Lana...
+
+390
+00:19:52,220 --> 00:19:53,680
+...kau kenal aku, aku bisa berubah.
+
+391
+00:19:53,800 --> 00:19:54,950
+Aku punya tekad yang besar...
+
+392
+00:19:55,060 --> 00:19:57,170
+- Dan sekarang aku punya alasan...
+- Masa?
+
+393
+00:19:57,770 --> 00:20:00,340
+Kau akan jadi seorang pria yang siaga sekarang?
+
+394
+00:20:00,460 --> 00:20:02,500
+Ya.
+Kau berutang perbuatan ini padaku.
+
+395
+00:20:04,020 --> 00:20:05,510
+Dia anakku juga.
+Kumohon.
+
+396
+00:20:05,640 --> 00:20:07,490
+Kau sosiopat.
+
+397
+00:20:08,100 --> 00:20:09,780
+Kau tidak bisa jujur dengan siapapun.
+
+398
+00:20:09,890 --> 00:20:11,820
+Aku bisa.
+Aku bisa... jujur.
+
+399
+00:20:11,930 --> 00:20:13,610
+Aku bisa.
+Kumohon dudukkan aku.
+
+400
+00:20:21,620 --> 00:20:23,270
+Oke.
+
+401
+00:20:25,410 --> 00:20:27,100
+Donna Burton.
+
+402
+00:20:27,390 --> 00:20:29,340
+Mengapa kau memilih dia?
+
+403
+00:20:34,910 --> 00:20:37,010
+Aku melihat dia...
+
+404
+00:20:37,510 --> 00:20:39,460
+...di perpustakaan beberapa malam.
+
+405
+00:20:39,560 --> 00:20:41,390
+Apa yang kau sukai dari dia?
+
+406
+00:20:44,100 --> 00:20:45,830
+Kulitnya.
+
+407
+00:20:47,050 --> 00:20:49,330
+Kulitnya mulus seperti buah persik.
+
+408
+00:20:50,900 --> 00:20:52,880
+Dan aku ingin merasakan kulitnya.
+
+409
+00:20:53,000 --> 00:20:55,150
+Jadi kau menguliti dia hidup-hidup.
+
+410
+00:20:58,340 --> 00:20:59,320
+Ya.
+
+411
+00:20:59,430 --> 00:21:00,800
+Dan Alison Reidel?
+
+412
+00:21:05,590 --> 00:21:10,100
+Dia sekretaris dokter gigi-ku.
+
+413
+00:21:11,450 --> 00:21:13,340
+Aku selalu menyukai dia.
+
+414
+00:21:14,030 --> 00:21:15,500
+Aku membius dia,...
+
+415
+00:21:15,640 --> 00:21:18,310
+...tapi dia terus bicara padaku.
+
+416
+00:21:19,740 --> 00:21:22,250
+Aku begitu kebingungan.
+
+417
+00:21:23,410 --> 00:21:25,480
+Dan bagaimana dengan Wendy?
+
+418
+00:21:29,610 --> 00:21:32,530
+Dia tidak pernah mencintaimu.
+
+419
+00:21:33,600 --> 00:21:36,180
+Dia membuangmu.
+
+420
+00:21:39,080 --> 00:21:43,760
+Kulitnya mulus seperti buah persik,
+dan aku ingin merasakan kulitnya.
+
+421
+00:21:43,880 --> 00:21:45,340
+- Jadi kau menguliti dia hidup-hidup.
+- Apa?
+
+422
+00:21:48,740 --> 00:21:50,600
+{\an8}Dan Alison Reidel?
+
+423
+00:21:50,740 --> 00:21:52,790
+- Kurasa kita sudah mendapatkan pengakuannya.
+- Sembunyikan kasetnya.
+
+424
+00:21:53,970 --> 00:21:55,540
+Aku belum selesai di sini.
+
+425
+00:21:55,700 --> 00:21:57,550
+Jalang.
+
+426
+00:21:57,970 --> 00:21:59,500
+Jadi cuma pura-pura, ya?
+
+427
+00:21:59,610 --> 00:22:00,920
+- Tidak
+- Kau tidak hamil?
+
+428
+00:22:01,050 --> 00:22:02,280
+Tidak, bagian yang itu tadinya benar.
+
+429
+00:22:02,380 --> 00:22:04,210
+Tadinya.
+Sayangnya,...
+
+430
+00:22:04,340 --> 00:22:07,820
+...bayi tersayangmu sudah meninggal tadi malam.
+
+431
+00:22:12,080 --> 00:22:13,420
+Awalnya darah cuma tetes demi setetes. </ i>
+
+432
+00:22:13,530 --> 00:22:16,620
+Dalam waktu satu jam,
+darah mengucur banyak</ i>.
+
+433
+00:22:19,910 --> 00:22:21,930
+Rasanya sebenarnya tidak seburuk itu.
+
+434
+00:22:22,050 --> 00:22:23,170
+Astaga, kau monster.
+
+435
+00:22:23,290 --> 00:22:24,920
+Kau lebih buruk daripada aku.
+
+436
+00:22:25,050 --> 00:22:26,530
+Kau membunuh anak yang tidak berdosa.
+
+437
+00:22:28,390 --> 00:22:30,480
+Aku ada tugas membuat roti.
+
+438
+00:22:30,760 --> 00:22:33,100
+Dan setelah tugas membersihkan pisau,
+aku akan mengambil pisaunya,...
+
+439
+00:22:33,230 --> 00:22:36,770
+...dan aku akan kembali dan menggorok tenggorokanmu
+dengan senang dan mudah.
+
+440
+00:22:37,600 --> 00:22:39,290
+Aku selalu ingin tahu bagaimana rasanya...
+
+441
+00:22:39,370 --> 00:22:41,410
+...pikiran seorang pembunuh.
+
+442
+00:22:42,860 --> 00:22:44,450
+Sekarang aku tahu.
+
+443
+00:23:05,570 --> 00:23:07,480
+Tn. Walker.
+
+444
+00:23:07,590 --> 00:23:09,390
+Sudah kuduga itu kau.
+Kau sungguh...
+
+445
+00:23:09,510 --> 00:23:11,690
+...tidak boleh berkeliaran ruang ini, kau tahu.
+
+446
+00:23:11,820 --> 00:23:14,150
+Kau bahkan belum resmi ditempatkan di lembaga ini.
+
+447
+00:23:14,270 --> 00:23:16,720
+Namun, aku sangat senang kau ada di sini.
+Kita punya begitu banyak...
+
+448
+00:23:16,860 --> 00:23:18,300
+...hal untuk dibicarakan.
+
+449
+00:23:18,430 --> 00:23:21,250
+Après vous, Monsieur.</ i><font color="#0i0000"></font>
+
+450
+00:23:44,090 --> 00:23:46,740
+Aku selalu menyimpan sebotol wiski
+berumur 18 tahun...
+
+451
+00:23:46,880 --> 00:23:48,420
+...di mejaku...
+
+452
+00:23:49,710 --> 00:23:52,510
+...untuk kesempatan spesial seperti ini.
+
+453
+00:23:55,440 --> 00:23:59,320
+Menurutku kau akan merasa
+minuman ini sangat halus.
+
+454
+00:24:09,920 --> 00:24:11,230
+Apa yang sedang kau lakukan?
+
+455
+00:24:11,350 --> 00:24:12,880
+Aku cuma mencoba ramah-tamah.
+
+456
+00:24:13,280 --> 00:24:14,380
+Kenapa?
+
+457
+00:24:17,090 --> 00:24:19,570
+Karena aku sudah melihat
+apa yang sudah kau lihat.
+
+458
+00:24:23,760 --> 00:24:24,920
+Mereka ada di sini.
+
+459
+00:24:25,030 --> 00:24:26,350
+Makhluk-makhluk yang kau ceritakan padaku.
+
+460
+00:24:26,490 --> 00:24:27,910
+Makhluk berwarna hijau,...
+
+461
+00:24:28,040 --> 00:24:29,910
+...kecuali tentu saja,
+mereka tidak berwarna hijau,
+
+462
+00:24:30,020 --> 00:24:31,350
+...ya kan, Tn. Walker?
+
+463
+00:24:31,460 --> 00:24:34,000
+Tidak.
+Mereka jelas lebih kuat...
+
+464
+00:24:34,140 --> 00:24:36,510
+...dan berteknologi lebih maju daripada kita.
+
+465
+00:24:36,630 --> 00:24:37,730
+Mereka menakutkan.
+
+466
+00:24:37,840 --> 00:24:40,620
+Mereka mengambil Grace.
+
+467
+00:24:40,710 --> 00:24:43,570
+Mereka mengambil jasadnya
+saat aku akan membuang jasadnya.
+
+468
+00:24:43,660 --> 00:24:45,430
+Apa yang mereka...
+Apa yang mereka inginkan dari dia?
+
+469
+00:24:45,580 --> 00:24:47,620
+Itulah yang sedang aku cari tahu.
+
+470
+00:24:47,950 --> 00:24:49,630
+Katakan padaku, Tn. Walker.
+
+471
+00:24:49,750 --> 00:24:53,200
+Apa kau berhubungan seks dengan istrimu
+sebelum dia dibawa?
+
+472
+00:24:57,690 --> 00:24:59,130
+Aku sudah hampir melupakan dia.
+
+473
+00:24:59,270 --> 00:25:01,530
+Kuanggap jawabannya ya.
+Kau juga...
+
+474
+00:25:01,660 --> 00:25:03,490
+...berhubungan sex dengan Grace,...
+
+475
+00:25:03,720 --> 00:25:07,680
+...itulah sebabnya mengapa Suster Jude menyuruhku
+memandulkan kalian berdua.
+
+476
+00:25:07,800 --> 00:25:08,890
+Maksudmu itu gara-gara aku...
+
+477
+00:25:09,020 --> 00:25:10,860
+...makhluk-makhluk itu membawa mereka?
+
+478
+00:25:11,230 --> 00:25:12,860
+Mereka bereksperimen,...
+
+479
+00:25:12,970 --> 00:25:16,960
+...mungkin semacam <font color="#ff0000">eugenika</font>.
+
+480
+00:25:17,980 --> 00:25:20,970
+Aku ingin kau membantuku
+untuk memancing mereka keluar.
+
+481
+00:25:21,100 --> 00:25:22,610
+Mereka menelitimu, Tn. Walker.
+
+482
+00:25:22,740 --> 00:25:24,810
+Kau jelas bernilai bagi mereka,...
+
+483
+00:25:24,940 --> 00:25:27,790
+...dan seorang ilmuwan yang baik
+selalu melindungi subjek percobaannya.
+
+484
+00:25:27,910 --> 00:25:28,950
+Misalnya,...
+
+485
+00:25:29,060 --> 00:25:30,720
+...jika nyawamu terancam,...
+
+486
+00:25:30,830 --> 00:25:33,190
+...mereka akan bertindak
+untuk melestarikan spesimennya.
+
+487
+00:25:33,330 --> 00:25:34,870
+Apa maksudmu?
+
+488
+00:25:35,020 --> 00:25:36,140
+Jika kau dibawa...
+
+489
+00:25:36,280 --> 00:25:38,120
+...ke jurang kematian,...
+
+490
+00:25:38,440 --> 00:25:41,980
+...mereka akan kembali
+untuk membalikkan prosesnya.
+
+491
+00:25:42,110 --> 00:25:43,520
+Kau akan membunuhku?
+
+492
+00:25:43,640 --> 00:25:45,960
+Tidak, Tn. Walker.
+
+493
+00:25:46,160 --> 00:25:48,020
+<i>Aku akan hampir</ i> membunuhmu.</i>
+
+494
+00:25:48,160 --> 00:25:50,290
+Tentu saja, idealnya...
+
+495
+00:25:50,450 --> 00:25:52,440
+...jika kau mau bekerja sama,...
+
+496
+00:25:52,900 --> 00:25:55,940
+...maka aku takkan meminta izinmu.
+
+497
+00:25:56,130 --> 00:25:58,290
+Kau bajingan gila.
+
+498
+00:25:59,080 --> 00:26:01,170
+Tapi kau mendapat izinku.
+
+499
+00:26:01,840 --> 00:26:04,280
+Jika ada kesempatan aku bisa menemui Alma lagi.
+
+500
+00:26:07,340 --> 00:26:09,610
+Aku akan lakukan apapun.
+
+501
+00:26:09,730 --> 00:26:11,510
+Kau begitu, Tn. Walker,...
+
+502
+00:26:11,620 --> 00:26:13,690
+...bersiaplah untuk mati.
+
+503
+00:26:54,100 --> 00:26:57,520
+Kau memang bermasalah, nona.
+Berikan itu padaku.
+
+504
+00:26:58,510 --> 00:27:00,690
+Kau tidak punya nyali untuk membunuh seseorang.
+
+505
+00:27:00,800 --> 00:27:02,050
+Serahkan pisaunya,...
+
+506
+00:27:02,160 --> 00:27:03,970
+...dan kita akan melupakan masalah ini.
+
+507
+00:27:19,490 --> 00:27:21,640
+<font color="#d2942c">Tidak berdoa selama bertahun-tahun, Bapa.</font>
+
+508
+00:27:21,790 --> 00:27:23,170
+<font color="#d2942c">Bagaimana rasanya?</font>
+
+509
+00:27:23,560 --> 00:27:25,710
+<font color="#d2942c">Aneh, tapi nyaman.</font>
+
+510
+00:27:26,060 --> 00:27:30,640
+<font color="#d2942c">Belum pernah ada yang memberiku kesempatan ini...
+untuk merehabilitasi diriku sendiri.</font>
+
+511
+00:27:30,750 --> 00:27:32,410
+<font color="#d2942c">Sebagai tokoh pemimpin di lembaga ini,...</font>
+
+512
+00:27:32,540 --> 00:27:36,050
+<font color="#d2942c">...aku ingin semua pasien kami
+menemukan pengampunan...</font>
+
+513
+00:27:36,370 --> 00:27:38,410
+<font color="#d2942c">...dan tujuan baru.</font>
+
+514
+00:27:38,770 --> 00:27:40,060
+<font color="#d2942c">Bahkan kau sekalipun,...</font>
+
+515
+00:27:40,540 --> 00:27:42,610
+<font color="#d2942c">...karena kejahatanmu.</font>
+
+516
+00:27:42,720 --> 00:27:45,480
+<font color="#d2942c">Aku ingin diselamatkan, Bapa.</font>
+
+517
+00:27:46,100 --> 00:27:47,590
+<font color="#d2942c">Aku sudah merasakan hidup di neraka.</font>
+
+518
+00:27:47,700 --> 00:27:50,000
+<font color="#d2942c">Aku tidak ingin menghabiskan keabadian...</font>
+
+519
+00:27:50,130 --> 00:27:53,390
+<font color="#d2942c">- ...di neraka.
+- Kau bisa menjadi keajaibanku, Leigh.</font>
+
+520
+00:27:53,550 --> 00:27:55,570
+Bersediakah kau bertobat dari dosa-dosamu?
+
+521
+00:27:56,410 --> 00:27:57,340
+Aku bersedia.
+
+522
+00:27:57,450 --> 00:28:00,250
+<font color="#d2942c">Jika aku bisa mengubah manusia
+sepertimu menjadi orang beriman,...</font>
+
+523
+00:28:00,370 --> 00:28:01,930
+<font color="#d2942c">...bayangkan reformasi yang bisa kubuat...</font>
+
+524
+00:28:02,060 --> 00:28:03,210
+<font color="#d2942c">...dalam skala nasional.</font>
+
+525
+00:28:03,330 --> 00:28:05,990
+<font color="#d2942c">Tidak cuma kesehatan mental.</font>
+
+526
+00:28:07,950 --> 00:28:08,940
+Percayalah, jika...</ i><font color="#0i0000"></font>
+
+527
+00:28:09,080 --> 00:28:11,440
+<font color="#d2942c">...aku naik ke jajaran tertinggi di gereja,...</font>
+
+528
+00:28:11,540 --> 00:28:13,920
+...aku takkan mundur dari perjuanganku</ i>.<font color="#0i0000"></font>
+
+529
+00:28:14,210 --> 00:28:16,490
+ Kau orang yang begitu ambisius, Bapa.</ i><font color="#0i0000"></font>
+
+530
+00:28:16,600 --> 00:28:18,160
+Aku cuma ingin melayani...</ i><font color="#0i0000"></font>
+
+531
+00:28:18,280 --> 00:28:20,650
+<font color="#d2942c">....dan membuat perubahan nyata di dunia.</font>
+
+532
+00:28:20,760 --> 00:28:23,960
+Bersediakah kau meninggalkan Setan
+dan semua hal-hal yang jahat?
+
+533
+00:28:24,700 --> 00:28:25,920
+Aku bersedia.
+
+534
+00:28:26,030 --> 00:28:28,270
+<font color="#d2942c">Menataplah pada Tuhan, Leigh.</font>
+
+535
+00:28:28,960 --> 00:28:30,650
+<font color="#d2942c">Apapun belenggumu,...</font>
+
+536
+00:28:30,780 --> 00:28:32,660
+<font color="#d2942c">...dalam kehidupan bebasmu...</font>
+
+537
+00:28:32,800 --> 00:28:35,040
+<font color="#d2942c">- didalam diriNya.
+- Puji Tuhan.</font>
+
+538
+00:28:35,190 --> 00:28:37,430
+Apa kau berniat untuk menjalani hidup baru,,,,
+
+539
+00:28:37,570 --> 00:28:40,380
+...menempatkan Tuhan diatas segala hal?
+
+540
+00:28:40,600 --> 00:28:41,980
+Aku bersedia.
+
+541
+00:28:44,990 --> 00:28:47,940
+Maka aku membaptismu atas nama Tuhan,...
+
+542
+00:28:48,080 --> 00:28:51,060
+...Putra dan Roh Kudus.
+
+543
+00:29:00,860 --> 00:29:02,490
+Terima kasih, Bapa.
+
+544
+00:29:02,760 --> 00:29:05,220
+Aku merasa jadi manusia baru.
+
+545
+00:29:17,540 --> 00:29:20,620
+Terima kasih, Suster.
+Aku cuma ingin berbaring sebentar.
+
+546
+00:30:37,360 --> 00:30:41,150
+Halo, Oliver,
+Aku datang untuk menepati janjiku.
+
+547
+00:31:09,640 --> 00:31:11,840
+Kehilangan sesuatu, Nona Winters?
+
+548
+00:31:11,970 --> 00:31:13,390
+Ternyata ulahmu.
+
+549
+00:31:13,530 --> 00:31:14,800
+Kau melepaskan dia,...
+
+550
+00:31:14,930 --> 00:31:17,050
+...kau melepaskan Bloody Face,
+Aku tahu kau yang melepaskannya.
+
+551
+00:31:17,180 --> 00:31:18,620
+Apa yang kau bawa?
+
+552
+00:31:24,520 --> 00:31:26,880
+Nona Winters, bukankah kita sudah membicarakannya.
+
+553
+00:31:26,990 --> 00:31:29,370
+Sudah terlambat,
+sudah kugugurkan.
+
+554
+00:31:29,510 --> 00:31:30,900
+Masa?
+
+555
+00:31:35,770 --> 00:31:37,280
+Puji Tuhan.
+
+556
+00:31:37,370 --> 00:31:39,660
+Upayamu untuk membunuh anak yang berharga ini...
+
+557
+00:31:39,780 --> 00:31:41,110
+...tidak berhasil.
+
+558
+00:31:41,200 --> 00:31:42,490
+Kau tidak mungkin bisa tahu itu.
+
+559
+00:31:42,600 --> 00:31:44,040
+Tapi aku tahu,...
+
+560
+00:31:44,150 --> 00:31:46,110
+...dan aku tahu sesuatu yang lain.
+
+561
+00:31:48,250 --> 00:31:50,290
+Ini anak laki-laki.
+
+562
+00:31:55,580 --> 00:31:57,660
+<font color="#d2942c">Kurasa aku butuh terapi hipnotis lagi,...</font>
+
+563
+00:31:57,780 --> 00:31:58,620
+<font color="#d2942c">...Dr. Gardner.</font>
+
+564
+00:31:58,740 --> 00:32:02,010
+<font color="#d2942c">Aku makan seember ayam tadi malam.</font>
+
+565
+00:32:16,460 --> 00:32:18,390
+<font color="#d2942c">Dr. Gardner?</font>
+
+566
+00:33:28,020 --> 00:33:30,960
+Astaga, apa yang sudah mereka perbuat padamu?
+
+567
+00:33:32,430 --> 00:33:34,780
+Bukan apa-apa
+daripada apa yang sudah aku perbuat padamu.
+
+568
+00:33:35,640 --> 00:33:37,390
+Beri aku sebatang rokok.
+
+569
+00:33:38,420 --> 00:33:39,420
+Ayolah, sialan,...
+
+570
+00:33:39,550 --> 00:33:41,860
+...beri aku sebatang rokok;
+Aku layak mendapatkan rokok.
+
+571
+00:33:55,790 --> 00:33:58,010
+Terima kasih.
+
+572
+00:34:00,630 --> 00:34:02,500
+Aku minta maaf, Lana.
+
+573
+00:34:03,170 --> 00:34:05,130
+Boleh aku memanggilmu Lana?
+
+574
+00:34:06,420 --> 00:34:08,080
+Tentu.
+
+575
+00:34:09,520 --> 00:34:13,220
+Aku sungguh minta maaf
+atas apa yang sudah aku perbuat padamu.
+
+576
+00:34:14,090 --> 00:34:15,910
+Apa yang sudah aku perbuat...
+
+577
+00:34:16,990 --> 00:34:20,340
+...itu lebih dari sekedar salah,
+itu tidak bermoral.
+
+578
+00:34:20,450 --> 00:34:22,270
+Itu kriminal.
+
+579
+00:34:23,360 --> 00:34:24,650
+Ya.
+
+580
+00:34:27,190 --> 00:34:30,350
+Aku tidak berharap kau memaafkan aku.
+
+581
+00:34:32,610 --> 00:34:35,690
+Tapi aku akan menebusnya, aku janji.
+
+582
+00:34:36,120 --> 00:34:37,500
+Bagaimana?
+
+583
+00:34:41,300 --> 00:34:43,950
+- Aku akan mengeluarkanmu dari sini.
+- Masa?
+
+584
+00:34:44,180 --> 00:34:46,850
+Terakhir kali seseorang bilang begitu padaku,
+itu tidak terjadi dengan baik.
+
+585
+00:34:46,850 --> 00:34:48,030
+Yeah.
+
+586
+00:34:49,480 --> 00:34:51,720
+- Kau tidak percaya padaku.
+- Tidak
+
+587
+00:34:52,530 --> 00:34:55,200
+Aku tidak percaya pada siapapun atau pada apapun.
+
+588
+00:34:55,320 --> 00:34:57,280
+Yeah, aku akan meraih kepercayaanmu.
+
+589
+00:34:57,400 --> 00:34:59,320
+- Kau pikir begitu?
+- Memang.
+
+590
+00:35:05,700 --> 00:35:09,830
+Yeah, hal-hal akan mulai berubah disini.
+
+591
+00:35:41,510 --> 00:35:43,890
+Astaganaga.
+
+592
+00:35:51,280 --> 00:35:54,910
+Cairan merah muda itu-
+itu akan membunuhku?
+
+593
+00:35:55,040 --> 00:35:56,430
+Potasium chloride.
+
+594
+00:35:56,530 --> 00:35:59,300
+Aku akan menyuntikkan ini
+langsung ke otot jantungmu,...
+
+595
+00:35:59,450 --> 00:36:01,670
+...yang akan menyebabkan
+jantungmu berhenti berdetak.
+
+596
+00:36:01,800 --> 00:36:03,040
+Dari pengalamanku, akan membutuhkan...
+
+597
+00:36:03,160 --> 00:36:05,270
+...sekitar dua sampai empat menit...
+
+598
+00:36:05,390 --> 00:36:08,450
+...untuk semua oksigen di otakmu terkuras,...
+
+599
+00:36:08,560 --> 00:36:10,550
+...lalu kau akan mati.
+
+600
+00:36:10,670 --> 00:36:11,740
+Tapi kau bisa membalikkan prosesnya,...
+
+601
+00:36:11,850 --> 00:36:13,200
+...kau bisa, kau bisa menghidupkanku kembali.
+
+602
+00:36:13,330 --> 00:36:15,300
+Jarum suntik ini mengandung atropine,...
+
+603
+00:36:15,430 --> 00:36:17,580
+...diekstrak dari tanaman Deadly Nightshade.
+
+604
+00:36:17,700 --> 00:36:20,600
+Saat aku akan menghidupkanmu kembali,
+Aku akan menyuntikkan ini...
+
+605
+00:36:20,720 --> 00:36:23,220
+...bersama dengan adrenalin ke dalam sistem tubuhmu.
+
+606
+00:36:23,330 --> 00:36:24,580
+Kedua obat ini,...
+
+607
+00:36:24,690 --> 00:36:27,460
+...diberikan dalam waktu dua menit
+setelah kau mati,...
+
+608
+00:36:27,640 --> 00:36:31,360
+...bersama dengan pukulan keras didadamu
+oleh kepalan tanganku,...
+
+609
+00:36:31,490 --> 00:36:33,680
+...akan menghidupkan kembali jantungmu.
+
+610
+00:36:36,420 --> 00:36:40,120
+Aku tidak sungkan-sungkan memberitahumu...
+aku takut.
+
+611
+00:36:40,230 --> 00:36:42,060
+Aku akui...
+
+612
+00:36:42,180 --> 00:36:44,850
+...aku juga merasa sedikit khawatir.
+
+613
+00:36:59,020 --> 00:37:00,210
+Tuhan kami, yang berada di Surga,...
+
+614
+00:37:00,330 --> 00:37:02,020
+...terpujilah nama-Mu,
+terpujilah kerajaan-Mu,...
+
+615
+00:37:02,140 --> 00:37:03,730
+...terpujilah Bumi, seperti Surga.
+
+616
+00:37:03,830 --> 00:37:06,470
+Kau ngoceh apaan?
+
+617
+00:37:06,790 --> 00:37:09,210
+Ini satu-satunya ucapan doa yang aku ingat.
+
+618
+00:37:10,270 --> 00:37:12,260
+Cuma jaga-jaga.
+
+619
+00:37:21,600 --> 00:37:23,250
+Ini akan terasa sakit.
+
+620
+00:38:30,040 --> 00:38:31,890
+Bayi sudah <font color="#ff0000">full-term</font>.
+
+621
+00:38:32,040 --> 00:38:33,640
+Ini takkan lama lagi lahir.
+
+622
+00:38:38,660 --> 00:38:40,580
+Grace.
+
+623
+00:38:43,330 --> 00:38:45,120
+Siapa yang membawamu ke sini?
+
+624
+00:38:47,500 --> 00:38:49,920
+- Aku pikir kau sudah...
+- Dia butuh kamar.
+
+625
+00:38:50,210 --> 00:38:52,310
+Aku akan merawatnya.
+
+626
+00:39:17,770 --> 00:39:19,850
+Astaga.
+
+627
+00:39:47,170 --> 00:39:51,930
+- Tolong aku.
+- Aku di sini.
+
+628
+00:01:28,690 --> 00:01:30,950
+{\an8}Masturbasi
+
+629
+00:05:14,020 --> 00:05:21,590
+{\an8}Aborsi dengan meminum margarita (minuman keras)
+dicampur drano (cairan pembersih)
+
+630
+00:06:21,070 --> 00:06:22,940
+{\an8}Panti Asuhan
+
+631
+00:12:35,520 --> 00:12:38,430
+{\an8}Menggantikan
+
+632
+00:13:52,050 --> 00:13:54,330
+{\an8}Membunuh
+
+633
+00:23:18,430 --> 00:23:21,250
+{\an8}Bahasa prancisnya silahkan keluar duluan, tuan.
+
+634
+00:25:12,970 --> 00:25:20,970
+{\an8}Pengkajian tentang memperbaiki mutu manusia
+dengan cara mengubah susunan genetika manusia.
+
+635
+00:38:30,040 --> 00:38:31,890
+{\an8}Bayi akan lahir kapan saja.
+
+636
+00:04:29,370 --> 00:04:31,380
+{\an8}Sync and corrections by n17t01
+www.addic7ed.com
+
+637
+00:39:54,940 --> 00:40:03,490
+{\an8}Sync and corrections by n17t01
+www.addic7ed.com
+
+638
+00:03:29,000 --> 00:03:41,490
+<font color="#ffff00">Kunjungi dan Gabung : IDFL.US</font>
+<font color="#d2942c">Movies+TV-Series+Subtitle Bahasa Indonesia
+Music+Tokukatsu+Software+Sport+Games</font>
+
+639
+00:03:41,500 --> 00:03:53,990
+<font color="#80ff00">IDFL™ West Series</font>
+<font color="#d2942c">DISKUSI = http://idfl.us/showthread.php?t=22567</font>
+
+640
+00:03:54,000 --> 00:04:06,490
+<font color="#ec14bd">IDFL™ Encoder Team</font>
+<font color="#d2942c">DOWNLOAD = http://idfl.us/showthread.php?t=23454</font>
+
+641
+00:04:06,500 --> 00:04:18,990
+<font color="#0080c0">IDFL™ Subs Crew</font>
+<font color="#d2942c">SUBTITLE BAHASA INDONESIA = http://idfl.us/showthread.php?t=23383</font>
+
+642
+00:04:19,000 --> 00:04:31,490
+<font color="#d2942c" color="#0080c0">IDFL™ Subs Crew<font color="#d2942c">
+Diterjemahkan oleh <font color="#0080c0">ghodhiets<font color="#d2942c"></font></font></font></font>
+
+643
+00:39:52,000 --> 00:40:04,490
+<font color="#d2942c" color="#0080c0">IDFL™ Subs Crew<font color="#d2942c">
+Diterjemahkan oleh <font color="#0080c0">ghodhiets<font color="#d2942c"></font></font></font></font>
+
