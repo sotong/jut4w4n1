@@ -1,0 +1,3123 @@
+﻿1
+00:00:01,878 --> 00:00:03,352
+<font color="#00ff40"><i>Bisa biarkan saja, dan jangan main lagi ?</i></font>
+
+2
+00:00:03,472 --> 00:00:05,784
+<font color="#00ff40"><i>Tidak. /
+Jelaskan mengapa...</i></font>
+
+3
+00:00:06,250 --> 00:00:08,252
+<font color="#00ff40"><i>Kau selalu memberi kesempatan
+kedua kepada pria.</i></font>
+
+4
+00:00:08,320 --> 00:00:10,050
+<font color="#00ff40"><i>Itu seperti aturan terpenting...</i></font>
+
+5
+00:00:10,170 --> 00:00:11,351
+<font color="#00ff40"><i>Lalu apa masalahnya ?</i></font>
+
+6
+00:00:11,592 --> 00:00:13,126
+<font color="#00ff40"><i>Masalahnya aku tak
+bisa membiarkannya tahu...</i></font>
+
+7
+00:00:13,194 --> 00:00:14,528
+<font color="#00ff40"><i>...kau di belakangku.</i></font>
+
+8
+00:00:14,596 --> 00:00:17,034
+<font color="#00ff40"><i>Dengar, Joanna, Kau bisa kembali
+melakukannya dan melupakan ini...</i></font>
+
+9
+00:00:17,102 --> 00:00:19,103
+<font color="#00ff40"><i>...tapi ini benar-benar penting.</i></font>
+
+10
+00:00:19,171 --> 00:00:22,041
+<font color="#00ff40"><i>Aku sedang memberitahumu pikiran
+para lelaki, dan jika kau ingin...</i></font>
+
+11
+00:00:22,109 --> 00:00:24,377
+<font color="#00ff40"><i>...menjadi dari bagian orang-orang
+itu, Kau tak boleh melanggar prinsipnya.</i></font>
+
+12
+00:00:27,618 --> 00:00:29,485
+<font color="#00ff40"><i>Ini bukanlah piknik...</i></font>
+
+13
+00:01:47,341 --> 00:01:48,542
+<font color="#00ff40">Ha !</font>
+
+14
+00:01:52,681 --> 00:01:54,549
+<font color="#00ff40">Jangan, Thaddeus, Menjauhlah !</font>
+
+15
+00:02:00,156 --> 00:02:02,024
+<font color="#00ff40">Shh...</font>
+
+16
+00:02:02,091 --> 00:02:04,393
+<font color="#00ff40">Katakan, Siapa namamu ?</font>
+
+17
+00:02:04,460 --> 00:02:06,161
+<font color="#00ff40">Tate...</font>
+
+18
+00:02:06,229 --> 00:02:09,431
+<font color="#00ff40">Jika Thaddeus menakut-nakutimu lagi...</font>
+
+19
+00:02:09,499 --> 00:02:13,702
+<font color="#00ff40">Tutup saja matamu, dan bilang "Menjauhlah"...</font>
+
+20
+00:02:13,769 --> 00:02:15,905
+<font color="#00ff40">Mengerti, Tate ?</font>
+
+21
+00:02:15,973 --> 00:02:17,907
+<font color="#00ff40">Dia akan memahami perkataanmu...</font>
+
+22
+00:02:17,975 --> 00:02:20,010
+<font color="#00ff40">...karena aku akan melindungimu.</font>
+
+23
+00:02:23,481 --> 00:02:25,749
+<font color="#00ff40">Aku berharap, kau ibuku.</font>
+
+24
+00:02:25,817 --> 00:02:26,750
+<font color="#00ff40">Hmm.</font>
+
+25
+00:02:28,653 --> 00:02:30,755
+<font color="#00ff40">Berhentilah menangis, Nak.</font>
+
+26
+00:02:34,894 --> 00:02:37,662
+<font color="#00ff40">Hidup ini singkat untuk dihabiskan bersedih.</font>
+
+27
+00:03:08,497 --> 00:03:10,965
+<font color="#00ff40">Siapa kau ?</font>
+
+28
+00:03:11,032 --> 00:03:12,500
+<font color="#00ff40">Ini aku, Tate.</font>
+
+29
+00:03:14,536 --> 00:03:16,871
+<font color="#00ff40">"Hidup ini singkat untuk dihabiskan bersedih."</font>
+
+30
+00:03:16,939 --> 00:03:18,640
+<font color="#00ff40">Kau salah.</font>
+
+31
+00:03:18,708 --> 00:03:20,142
+<font color="#00ff40">Ini sebuah keabadian...</font>
+
+32
+00:03:20,210 --> 00:03:23,980
+<font color="#00ff40">Siang dan malam yang tak berujung...</font>
+
+33
+00:03:24,047 --> 00:03:26,516
+<font color="#00ff40">Di mana bayiku ?</font>
+
+34
+00:03:28,652 --> 00:03:30,587
+<font color="#00ff40">Itulah yang ingin kubicarakan...</font>
+
+35
+00:03:30,655 --> 00:03:32,623
+<font color="#00ff40">Kau telah berjanji...</font>
+
+36
+00:03:32,690 --> 00:03:35,692
+<font color="#00ff40">...untuk membuat satu bersamanya,
+si wanita pemilik rumah.</font>
+
+37
+00:03:35,760 --> 00:03:36,827
+<font color="#00ff40">Vivien.</font>
+
+38
+00:03:36,895 --> 00:03:39,297
+<font color="#00ff40">Ibu Violet...</font>
+
+39
+00:03:39,364 --> 00:03:40,898
+<font color="#00ff40">...dan aku tak bisa memberimu bayinya.</font>
+
+40
+00:03:40,965 --> 00:03:42,332
+<font color="#00ff40">Semuanya telah berubah, Nora.</font>
+
+41
+00:03:42,400 --> 00:03:45,269
+<font color="#00ff40">Aku jatuh cinta dengan Violet.</font>
+
+42
+00:03:45,336 --> 00:03:46,537
+<font color="#00ff40">Oh, Begitu.</font>
+
+43
+00:03:46,604 --> 00:03:49,373
+<font color="#00ff40">Aku tak bisa mengambil
+adiknya dari mereka...</font>
+
+44
+00:03:49,441 --> 00:03:51,575
+<font color="#00ff40">Tapi aku bisa mengambilnya.</font>
+
+45
+00:03:51,643 --> 00:03:52,542
+<font color="#00ff40">Dan aku akan mengambilnya.</font>
+
+46
+00:03:56,681 --> 00:03:58,682
+<font color="#00ff40">Bayi itu adalah kepunyaanku.</font>
+
+47
+00:04:08,707 --> 00:04:28,707
+<font color="#800080">Translated by</font><font color="#ff8000"> erickjiwono</font> a.k.a <font color="#0080c0">er1ck9</font>
+<font color="#ff00ff">http://erickjiwono.blogspot.com</font>
+
+48
+00:04:28,732 --> 00:04:48,732
+<font color="#ffff00">IDFL SubsCrew</font>
+<font color="#800080">http://IDFL.us</font>
+
+49
+00:04:48,757 --> 00:04:58,757
+<font color="#ffff00">Visit me at Subscene</font>
+<font color="#80ff00">http://subscene.com/u/702663</font>
+
+50
+00:05:02,507 --> 00:05:05,346
+<font color="#00ff40">Ayah, Aku bukanlah anjing ! Sudah kubilang aku
+kurang enak badan ! Biarkan aku tinggal !</font>
+
+51
+00:05:05,466 --> 00:05:07,401
+<font color="#00ff40">Tidak, Aku tak percaya lagi padamu
+dan aku tak mempercayai Tate !</font>
+
+52
+00:05:07,468 --> 00:05:09,203
+<font color="#00ff40">Tate ? Aku bahkan belum
+menemuinya seminggu terakhir !</font>
+
+53
+00:05:09,270 --> 00:05:10,571
+<font color="#00ff40">Tak ada alasan lagi, Violet.
+Ibumu akan segera pulang...</font>
+
+54
+00:05:10,639 --> 00:05:11,836
+<font color="#00ff40">...dan kau ikut denganku untuk menjemputnya.</font>
+
+55
+00:05:11,956 --> 00:05:13,114
+<font color="#00ff40">Ayah, Kumohon, Aku tak enak badan !</font>
+
+56
+00:05:13,138 --> 00:05:14,350
+<font color="#00ff40">Kau bisa berbaring di mobil...</font>
+
+57
+00:05:14,470 --> 00:05:15,554
+<font color="#00ff40">...dan saat kembali ke rumah,
+Kemasi semua barangmu...</font>
+
+58
+00:05:15,674 --> 00:05:16,702
+<font color="#00ff40">Kita tinggalkan rumah ini
+untuk selamanya...</font>
+
+59
+00:05:16,951 --> 00:05:18,118
+<font color="#00ff40">Apa ? Kalian kembali bersama ?</font>
+
+60
+00:05:18,186 --> 00:05:19,553
+<font color="#00ff40">Aku belum tahu--
+Ibumu ingin...</font>
+
+61
+00:05:19,621 --> 00:05:21,388
+<font color="#00ff40">...melahirkan di Rumah Bibi Jo...</font>
+
+62
+00:05:21,456 --> 00:05:23,618
+<font color="#00ff40">...dan aku mendukung idenya. /
+Tidak, Kau tak ingin melakukannya.</font>
+
+63
+00:05:23,738 --> 00:05:25,371
+<font color="#00ff40">Violet, Ibumu telah terkurung...</font>
+
+64
+00:05:25,439 --> 00:05:27,440
+<font color="#00ff40">...di rumah sakit jiwa
+berminggu-minggu.</font>
+
+65
+00:05:27,508 --> 00:05:29,576
+<font color="#00ff40">Takkan kubiarkan dia tinggal lebih lama lagi.</font>
+
+66
+00:05:29,644 --> 00:05:33,847
+<font color="#00ff40">Apa kau akan naik, atau
+aku akan memaksamu ?</font>
+
+67
+00:05:33,915 --> 00:05:35,649
+<font color="#00ff40">Astaga, Violet !
+Apa yang salah denganmu !</font>
+
+68
+00:05:35,717 --> 00:05:38,384
+<font color="#00ff40">Naiklah !
+Ibumu ingin melihatmu !</font>
+
+69
+00:05:38,452 --> 00:05:40,586
+<font color="#00ff40">Aku akan muntah !</font>
+
+70
+00:05:40,654 --> 00:05:42,455
+<font color="#00ff40">Baiklah. Aku akan berbaring saja...</font>
+
+71
+00:06:07,647 --> 00:06:09,614
+<font color="#00ff40">Apa yang terjadi saat mereka kembali ?</font>
+
+72
+00:06:09,682 --> 00:06:11,416
+<font color="#00ff40">Apa yang harus aku katakan ?</font>
+
+73
+00:06:17,991 --> 00:06:20,059
+<font color="#00ff40">Bukan U-Tube dengan U..
+Tapi YouTube...</font>
+
+74
+00:06:20,126 --> 00:06:21,693
+<font color="#00ff40">Y..O..U..</font>
+
+75
+00:06:21,761 --> 00:06:24,062
+<font color="#00ff40">Oh.</font>
+
+76
+00:06:24,130 --> 00:06:25,831
+<font color="#00ff40">Jika mereka tahu, aku bunuh diri...</font>
+
+77
+00:06:25,898 --> 00:06:27,632
+<font color="#00ff40">...mereka akan menjadi gila.</font>
+
+78
+00:06:27,700 --> 00:06:30,002
+<font color="#00ff40">Secara harfiah, untuk saat ini...</font>
+
+79
+00:06:30,069 --> 00:06:31,069
+<font color="#00ff40">Mereka tak boleh tahu..</font>
+
+80
+00:06:31,137 --> 00:06:33,305
+<font color="#00ff40">Nah, Kau tak bisa menyembunyikan itu selamanya.</font>
+
+81
+00:06:33,373 --> 00:06:37,409
+<font color="#00ff40">Maksudku, Sudah terjadi, Violet.</font>
+
+82
+00:06:37,477 --> 00:06:39,811
+<font color="#00ff40">Suatu hari, Komputernya
+akan ketinggalan jaman...</font>
+
+83
+00:06:39,879 --> 00:06:42,047
+<font color="#00ff40">Mikrochip akan ditanamkan ke dalam...</font>
+
+84
+00:06:42,115 --> 00:06:43,282
+<font color="#00ff40">...otak manusia.</font>
+
+85
+00:06:43,349 --> 00:06:45,684
+<font color="#00ff40">Kita takkan bisa menonton Youtube lagi.</font>
+
+86
+00:06:45,752 --> 00:06:48,687
+<font color="#00ff40">Kita akan seperti orang lain di rumah ini...</font>
+
+87
+00:06:48,755 --> 00:06:50,922
+<font color="#00ff40">...tahanan seperti dalam sel.</font>
+
+88
+00:06:50,990 --> 00:06:53,625
+<font color="#00ff40">Siapa yang akan menunjukkan hal baru ?</font>
+
+89
+00:06:55,360 --> 00:06:56,694
+<font color="#00ff40">Tak ada yang senang di sini, Tate.</font>
+
+90
+00:06:56,762 --> 00:06:58,229
+<font color="#00ff40">Yeah, Tapi mereka tak seperti kita...</font>
+
+91
+00:06:58,296 --> 00:06:59,229
+<font color="#00ff40">Mereka kesepian.</font>
+
+92
+00:06:59,297 --> 00:07:02,032
+<font color="#00ff40">Kita saling memiliki satu sama lain...</font>
+
+93
+00:07:02,100 --> 00:07:03,567
+<font color="#00ff40">Kita takkan pernah punya anak.</font>
+
+94
+00:07:19,816 --> 00:07:21,183
+<font color="#00ff40">Aku khawatir saat nyonya kita...</font>
+
+95
+00:07:21,251 --> 00:07:22,685
+<font color="#00ff40">...tak punya kentang lagi...</font>
+
+96
+00:07:22,753 --> 00:07:25,555
+<font color="#00ff40">...tapi harus kuakui, Ubinya
+membuat gambarnya lebih bersih.</font>
+
+97
+00:07:25,623 --> 00:07:27,724
+<font color="#00ff40">Kelembaban yang kurang...</font>
+
+98
+00:07:27,793 --> 00:07:29,560
+<font color="#00ff40">Aku menyukai warna merah China itu...</font>
+
+99
+00:07:29,628 --> 00:07:31,929
+<font color="#00ff40">Aku selalu ingin mewarna
+ruang di bawah dengan itu.</font>
+
+100
+00:07:31,997 --> 00:07:33,531
+<font color="#00ff40">Aku akan mengecat tempat bayinya juga...</font>
+
+101
+00:07:33,599 --> 00:07:35,700
+<font color="#00ff40">Benarkah ?
+Berwarna merah ?</font>
+
+102
+00:07:35,767 --> 00:07:37,668
+<font color="#00ff40">Eh, Chad...</font>
+
+103
+00:07:37,736 --> 00:07:40,571
+<font color="#00ff40">Apa yang telah kita bicarakan.</font>
+
+104
+00:07:43,342 --> 00:07:45,176
+<font color="#00ff40">Bayi 'kita',... Bukan hanya bayi 'aku'...</font>
+
+105
+00:07:45,243 --> 00:07:47,912
+<font color="#00ff40">Kau tahu apa ?
+Aku bisa menerimanya...</font>
+
+106
+00:07:47,980 --> 00:07:50,082
+<font color="#00ff40">Mungkin luar biasa.</font>
+
+107
+00:07:50,149 --> 00:07:53,085
+<font color="#00ff40">Kau sangat menggemaskan saat senang.</font>
+
+108
+00:07:59,360 --> 00:08:01,061
+<font color="#00ff40">Siapa yang meminta kalian
+menghias kamar bayi ?</font>
+
+109
+00:08:01,128 --> 00:08:03,330
+<font color="#00ff40">Biar kuperjelas, Sayang...</font>
+
+110
+00:08:03,398 --> 00:08:05,032
+<font color="#00ff40">Ini rumah kami...</font>
+
+111
+00:08:05,100 --> 00:08:07,201
+<font color="#00ff40">...dan kami akan memiliki anak kembar.</font>
+
+112
+00:08:07,269 --> 00:08:09,905
+<font color="#00ff40">Yang merawatnya siapa ?
+Salah satu perawat di ruang bawah tanah ?</font>
+
+113
+00:08:09,972 --> 00:08:13,375
+<font color="#00ff40">Tidak..
+Tidak..</font>
+
+114
+00:08:13,443 --> 00:08:17,547
+<font color="#00ff40">Perawat yang sangat 'manusia', Elvira.</font>
+
+115
+00:08:17,614 --> 00:08:20,015
+<font color="#00ff40">Ibumu...</font>
+
+116
+00:08:21,785 --> 00:08:23,786
+<font color="#00ff40">Kalian pikir, bisa mencuri anak mereka ?</font>
+
+117
+00:08:23,853 --> 00:08:25,587
+<font color="#00ff40">Kalian pasangan maho, bahkan
+tak bisa mengambil...</font>
+
+118
+00:08:25,655 --> 00:08:27,722
+<font color="#00ff40">...kotoran kalian sendiri !</font>
+
+119
+00:08:29,758 --> 00:08:30,791
+<font color="#00ff40">Kau tahu apa ?</font>
+
+120
+00:08:30,859 --> 00:08:32,393
+<font color="#00ff40">Itu tak masalah.</font>
+
+121
+00:08:32,461 --> 00:08:34,929
+<font color="#00ff40">Setelah orangku kembali,
+Kami akan pergi...</font>
+
+122
+00:08:34,996 --> 00:08:36,597
+<font color="#00ff40">Mereka akan pergi...</font>
+
+123
+00:08:36,665 --> 00:08:38,900
+<font color="#00ff40">Jadi berhentilah...</font>
+
+124
+00:08:38,967 --> 00:08:41,169
+<font color="#00ff40">Sayang, Orangtuamu
+takkan ke mana-mana...</font>
+
+125
+00:08:41,236 --> 00:08:42,804
+<font color="#00ff40">...selama kau berada di sini.</font>
+
+126
+00:08:42,872 --> 00:08:44,606
+<font color="#00ff40">Dan jangan belagu, Nak...</font>
+
+127
+00:08:44,674 --> 00:08:46,041
+<font color="#00ff40">Kau akan memohon-mohon
+agar kami merawatnya...</font>
+
+128
+00:08:46,109 --> 00:08:48,210
+<font color="#00ff40">Seperti rumah yang besar ini,
+Mudah menjadi kesepian...</font>
+
+129
+00:08:48,278 --> 00:08:50,813
+<font color="#00ff40">Bisa saja menjadi jelek.</font>
+
+130
+00:08:50,881 --> 00:08:52,482
+<font color="#00ff40">Apa kau lahir sesar ?</font>
+
+131
+00:08:52,550 --> 00:08:55,352
+<font color="#00ff40">Apa ada rest yang mungkin bisa kami pakai ?</font>
+
+132
+00:08:55,420 --> 00:08:56,253
+<font color="#00ff40">Hati-hati omongan kalian..</font>
+
+133
+00:08:56,321 --> 00:09:00,858
+<font color="#00ff40">Oh, Aku takut...</font>
+
+134
+00:09:00,925 --> 00:09:02,293
+<font color="#00ff40">Kau mau buat apa ?</font>
+
+135
+00:09:02,360 --> 00:09:05,429
+<font color="#00ff40">Membunuhku ?</font>
+
+136
+00:09:18,976 --> 00:09:22,712
+<font color="#00ff40">Betty coklatku, menjadi
+warna hitam dalam waktu 20 menit.</font>
+
+137
+00:09:22,780 --> 00:09:24,481
+<font color="#00ff40">Jadi, Katakan ada apa...</font>
+
+138
+00:09:24,548 --> 00:09:26,049
+<font color="#00ff40">Aku butuh bantuan.</font>
+
+139
+00:09:26,117 --> 00:09:29,052
+<font color="#00ff40">Kau kenal dua orang yang
+pernah tinggal di sini ?</font>
+
+140
+00:09:29,120 --> 00:09:30,854
+<font color="#00ff40">Frick dan Frack ?</font>
+
+141
+00:09:30,922 --> 00:09:32,122
+<font color="#00ff40">Bagaimana kau bisa lupa ?</font>
+
+142
+00:09:32,190 --> 00:09:33,524
+<font color="#00ff40">Yah, Mereka ada di atas...</font>
+
+143
+00:09:33,592 --> 00:09:34,926
+<font color="#00ff40">...berencana mengambil bayi ibuku...</font>
+
+144
+00:09:34,993 --> 00:09:38,529
+<font color="#00ff40">...dan merawatnya sendiri.</font>
+
+145
+00:09:38,597 --> 00:09:44,135
+<font color="#00ff40">Biar kujamin, Itu takkan terjadi.</font>
+
+146
+00:09:44,202 --> 00:09:45,936
+<font color="#00ff40">Ibuku akan pulang hari ini...</font>
+
+147
+00:09:46,004 --> 00:09:47,772
+<font color="#00ff40">...dan aku tak percaya pada mereka.</font>
+
+148
+00:09:47,839 --> 00:09:49,440
+<font color="#00ff40">Aku memanggilmu, agar
+aku bisa bicara pada wanita itu.</font>
+
+149
+00:09:49,508 --> 00:09:50,674
+<font color="#00ff40">Daftar Craig.</font>
+
+150
+00:09:50,742 --> 00:09:54,144
+<font color="#00ff40">Billie Dean ?
+Mengenai apa ?</font>
+
+151
+00:09:54,212 --> 00:09:55,946
+<font color="#00ff40">Menyingkirkan hantu.
+Pasti ada suatu cara.</font>
+
+152
+00:09:58,883 --> 00:10:00,884
+<font color="#00ff40">Jangan khawatir.
+Akan kuurus yang itu.</font>
+
+153
+00:10:02,553 --> 00:10:05,722
+<font color="#00ff40">Chad ?
+Chad ?</font>
+
+154
+00:10:05,790 --> 00:10:07,757
+<font color="#00ff40">Keluarlah, Di manapun kau berada...</font>
+
+155
+00:10:20,739 --> 00:10:22,173
+<font color="#00ff40">Kau taruh kukumu di tempat tidur itu...</font>
+
+156
+00:10:22,241 --> 00:10:23,541
+<font color="#00ff40">...kau takkan selamat.</font>
+
+157
+00:10:26,512 --> 00:10:27,980
+<font color="#00ff40">Kau menemukan benda
+benda ini di mana ?</font>
+
+158
+00:10:28,048 --> 00:10:28,981
+<font color="#00ff40">Di sekitar sini..</font>
+
+159
+00:10:29,049 --> 00:10:31,651
+<font color="#00ff40">Kau akan terheran-heran...</font>
+
+160
+00:10:31,718 --> 00:10:33,419
+<font color="#00ff40">...dengan peninggalan lama ini...</font>
+
+161
+00:10:33,487 --> 00:10:34,721
+<font color="#00ff40">...dari penghuni sebelumnya.</font>
+
+162
+00:10:34,788 --> 00:10:38,691
+<font color="#00ff40">Yang kau rencanakan, sangat tak wajar.</font>
+
+163
+00:10:38,759 --> 00:10:42,227
+<font color="#00ff40">Deodoran-lah yang tak wajar,
+Tapi itu bagus menurut publik.</font>
+
+164
+00:10:42,295 --> 00:10:45,030
+<font color="#00ff40">Kami akan jadi orang tua yang sangat baik.</font>
+
+165
+00:10:45,097 --> 00:10:46,798
+<font color="#00ff40">Pria tak boleh berhubungan dengan sejenisnya.</font>
+
+166
+00:10:46,866 --> 00:10:48,600
+<font color="#00ff40">Itu hal keji.</font>
+
+167
+00:10:48,667 --> 00:10:52,337
+<font color="#00ff40">Itu masalah rambut, Tapi
+kurasa itu masalahmu...</font>
+
+168
+00:10:52,404 --> 00:10:54,305
+<font color="#00ff40">Mengapa kalian tak
+menggembirakan diri kalian...</font>
+
+169
+00:10:54,373 --> 00:10:55,773
+<font color="#00ff40">...dengan hewan peliharaan ?</font>
+
+170
+00:10:55,841 --> 00:11:01,046
+<font color="#00ff40">Mengapa kau harus membuat seorang
+anak tak bersalah untuk menyimpang ?</font>
+
+171
+00:11:01,114 --> 00:11:02,915
+<font color="#00ff40">Tak ada penelitian yang
+menunjukkan, kalau anak yang...</font>
+
+172
+00:11:02,983 --> 00:11:05,952
+<font color="#00ff40">...dibesarkan pasangan sesama jenis,
+akan memiliki efek yang buruk.</font>
+
+173
+00:11:06,020 --> 00:11:08,254
+<font color="#00ff40">Kuanggap itu berlaku bagi
+yang pernah hidup juga.</font>
+
+174
+00:11:08,322 --> 00:11:11,325
+<font color="#00ff40">Nah, Satu-satunya penelitian yang kuketahui
+adalah soal darah dan penderitaan.</font>
+
+175
+00:11:11,393 --> 00:11:14,028
+<font color="#00ff40">Anak-anakku lahir dari rahimku,
+dan itu adalah anugerah...</font>
+
+176
+00:11:14,096 --> 00:11:16,131
+<font color="#00ff40">...yang tak bisa dipahami oleh lelaki.</font>
+
+177
+00:11:17,834 --> 00:11:20,502
+<font color="#00ff40">Hanya karena kau secara kebetulan...</font>
+
+178
+00:11:20,569 --> 00:11:22,437
+<font color="#00ff40">...menjadi jalan keluar para bayi...</font>
+
+179
+00:11:22,505 --> 00:11:24,139
+<font color="#00ff40">...tak berarti kau hebat.</font>
+
+180
+00:11:24,207 --> 00:11:25,407
+<font color="#00ff40">Itu berarti segalanya.</font>
+
+181
+00:11:25,475 --> 00:11:27,475
+<font color="#00ff40">Benar.
+Tentu.</font>
+
+182
+00:11:27,543 --> 00:11:29,744
+<font color="#00ff40">Itulah mengapa aku tak bisa
+berjalan di rumahku sendiri...</font>
+
+183
+00:11:29,812 --> 00:11:31,446
+<font color="#00ff40">...tanpa diselipi salah satu keturunan
+yang telah meninggal dari mu...</font>
+
+184
+00:11:33,116 --> 00:11:34,616
+<font color="#00ff40">Aku menyayangi anak-anakku...</font>
+
+185
+00:11:34,684 --> 00:11:36,051
+<font color="#00ff40">Sampai mati.</font>
+
+186
+00:11:36,119 --> 00:11:37,719
+<font color="#00ff40">Mereka bagian dari diriku...</font>
+
+187
+00:11:37,787 --> 00:11:40,856
+<font color="#00ff40">...sama dengan kedua anak
+kembar itu, juga bagian dariku...</font>
+
+188
+00:11:40,923 --> 00:11:42,591
+<font color="#00ff40">...dan aku takkan membiarkanmu...</font>
+
+189
+00:11:42,658 --> 00:11:44,993
+<font color="#00ff40">...menyentuh cucuku !</font>
+
+190
+00:11:47,129 --> 00:11:48,496
+<font color="#00ff40">Cucu ?</font>
+
+191
+00:11:49,965 --> 00:11:51,365
+<font color="#00ff40">Tunggu sebentar.</font>
+
+192
+00:11:51,433 --> 00:11:53,334
+<font color="#00ff40">Apa kau mau bilang kalau
+si Norman Bates Junior...</font>
+
+193
+00:11:53,401 --> 00:11:54,835
+<font color="#00ff40">...adalah ayah dari bayi tersebut ?</font>
+
+194
+00:11:56,938 --> 00:12:00,373
+<font color="#00ff40">Kau pasti sangat menyukai rumah ini..</font>
+
+195
+00:12:00,441 --> 00:12:01,374
+<font color="#00ff40">Dengarkan aku.</font>
+
+196
+00:12:01,442 --> 00:12:02,576
+<font color="#00ff40">Kau bisa memiliki yang satunya.</font>
+
+197
+00:12:02,644 --> 00:12:04,311
+<font color="#00ff40">Yang dimiliki oleh Dr. Harmon.</font>
+
+198
+00:12:04,379 --> 00:12:06,913
+<font color="#00ff40">Maksudku, Dia pria yang menarik...</font>
+
+199
+00:12:06,981 --> 00:12:09,749
+<font color="#00ff40">Tapi jangan cucuku.</font>
+
+200
+00:12:09,817 --> 00:12:12,451
+<font color="#00ff40">Bayi rambut pirang, dan bayi rambut
+coklat, Sama seperti aku dan Pat.</font>
+
+201
+00:12:12,519 --> 00:12:15,321
+<font color="#00ff40">Sempurna.</font>
+
+202
+00:12:15,389 --> 00:12:17,723
+<font color="#00ff40">Tidak.</font>
+
+203
+00:12:17,791 --> 00:12:19,692
+<font color="#00ff40">Kami ingin keduanya...</font>
+
+204
+00:12:21,061 --> 00:12:23,196
+<font color="#00ff40">Astaga, Kau keterlaluan...</font>
+
+205
+00:12:23,263 --> 00:12:26,032
+<font color="#00ff40">Kau tak cocok membesarkannya...</font>
+
+206
+00:12:26,100 --> 00:12:27,467
+<font color="#00ff40">Membesarkan mereka ?</font>
+
+207
+00:12:27,534 --> 00:12:29,769
+<font color="#00ff40">Oh, Sayang..
+Tidak.. Tidak..</font>
+
+208
+00:12:29,837 --> 00:12:31,872
+<font color="#00ff40">Kami menunggu saat yang sempurna...</font>
+
+209
+00:12:31,940 --> 00:12:35,476
+<font color="#00ff40">...pada usia emas, 1 atau 1 setengah tahun...</font>
+
+210
+00:12:35,578 --> 00:12:37,111
+<font color="#00ff40">...lalu kami akan membunuh mereka...</font>
+
+211
+00:12:37,179 --> 00:12:39,146
+<font color="#00ff40">...dengan bantal tanpa alergi.</font>
+
+212
+00:12:39,214 --> 00:12:42,182
+<font color="#00ff40">Dengan begitu, Selamanya,
+Mereka akan terus lucu.</font>
+
+213
+00:12:59,063 --> 00:13:01,363
+<font color="#00ff40">Begitu banyak penderitaan di sini.</font>
+
+214
+00:13:04,000 --> 00:13:07,869
+<font color="#00ff40">Begitu banyak kerinduan dan penyesalan.</font>
+
+215
+00:13:10,606 --> 00:13:11,772
+<font color="#00ff40">Ketakutan.</font>
+
+216
+00:13:13,575 --> 00:13:15,409
+<font color="#00ff40">Kesedihan.</font>
+
+217
+00:13:16,711 --> 00:13:18,746
+<font color="#00ff40">Rasa bersalah.</font>
+
+218
+00:13:18,866 --> 00:13:20,443
+<font color="#00ff40">Dan penyimpangan.</font>
+
+219
+00:13:20,563 --> 00:13:24,685
+<font color="#00ff40">Sekarang, Bisa kau
+memberi kami bantuan ?</font>
+
+220
+00:13:24,752 --> 00:13:27,821
+<font color="#00ff40">Maksudku, Itu perhatian utama kami.</font>
+
+221
+00:13:27,889 --> 00:13:29,389
+<font color="#00ff40">Menargetkan roh tertentu...</font>
+
+222
+00:13:29,457 --> 00:13:31,792
+<font color="#00ff40">...akan sulit.</font>
+
+223
+00:13:32,527 --> 00:13:34,761
+<font color="#00ff40">Rumah ini sangat ramai...</font>
+
+224
+00:13:34,829 --> 00:13:36,863
+<font color="#00ff40"><i>Kau sangat muda...</i></font>
+
+225
+00:13:36,931 --> 00:13:38,798
+<font color="#00ff40"><i>Maafkan aku..</i></font>
+
+226
+00:13:38,866 --> 00:13:40,066
+<font color="#00ff40"><i>Astaga..</i></font>
+
+227
+00:13:40,134 --> 00:13:41,200
+<font color="#00ff40"><i>Jangan katakan itu...</i></font>
+
+228
+00:13:41,268 --> 00:13:43,369
+<font color="#00ff40"><i>Mereka tak boleh mengetahuinya..</i></font>
+
+229
+00:13:43,437 --> 00:13:44,604
+<font color="#00ff40">Jadi, Apa yang bisa kami perbuat ?</font>
+
+230
+00:13:44,671 --> 00:13:47,506
+<font color="#00ff40">Kita harus mencoba mengusir mereka...</font>
+
+231
+00:13:47,574 --> 00:13:50,943
+<font color="#00ff40">...dan cengkraman tempat ini.</font>
+
+232
+00:13:51,010 --> 00:13:52,477
+<font color="#00ff40">Apa ?</font>
+
+233
+00:13:52,545 --> 00:13:54,979
+<font color="#00ff40">Kejahatan.</font>
+
+234
+00:13:55,047 --> 00:13:58,650
+<font color="#00ff40">Kekuatan yang mirip
+dengan yang lainnya, Violet.</font>
+
+235
+00:13:58,717 --> 00:14:00,586
+<font color="#00ff40">Fisika murni.</font>
+
+236
+00:14:00,653 --> 00:14:02,855
+<font color="#00ff40">Nyata dan penuh kekuatan...</font>
+
+237
+00:14:02,923 --> 00:14:04,256
+<font color="#00ff40">Dihasilkan oleh kumpulan peristiwa...</font>
+
+238
+00:14:04,324 --> 00:14:07,293
+<font color="#00ff40">Peristiwa yang melepaskan energi psikis...</font>
+
+239
+00:14:07,361 --> 00:14:10,496
+<font color="#00ff40">...ke lingkungan, di mana
+energi tersebut di serap...</font>
+
+240
+00:14:10,564 --> 00:14:13,099
+<font color="#00ff40">Seperti baterai menyimpan energi..</font>
+
+241
+00:14:13,167 --> 00:14:15,569
+<font color="#00ff40">Kau akan terus melihatnya...</font>
+
+242
+00:14:15,637 --> 00:14:19,239
+<font color="#00ff40">...di tempat seperti penjara
+ataupun rumah sakit jiwa.</font>
+
+243
+00:14:19,307 --> 00:14:22,909
+<font color="#00ff40">Energi negatif mempengaruhi
+trauma dan juga rasa sakit...</font>
+
+244
+00:14:24,312 --> 00:14:25,846
+<font color="#00ff40">Energinya menariknya...</font>
+
+245
+00:14:27,315 --> 00:14:30,583
+<font color="#00ff40">Kekuatan di rumah ini, lebih besar...</font>
+
+246
+00:14:30,651 --> 00:14:32,585
+<font color="#00ff40">...dari kebanyakan trauma individu.</font>
+
+247
+00:14:33,887 --> 00:14:35,187
+<font color="#00ff40">...dan punya keinginan...</font>
+
+248
+00:14:37,057 --> 00:14:38,024
+<font color="#00ff40">Ingin melangkah keluar...</font>
+
+249
+00:14:38,091 --> 00:14:40,793
+<font color="#00ff40">Ingin bergerak ke dunia kita...</font>
+
+250
+00:14:40,861 --> 00:14:42,963
+<font color="#00ff40">Menggunakan yang terjebak...</font>
+
+251
+00:14:43,031 --> 00:14:46,500
+<font color="#00ff40">...antara dunia ini dan
+dunia lain, sebagai penghubung.</font>
+
+252
+00:14:46,568 --> 00:14:47,869
+<font color="#00ff40">Sangat menarik.</font>
+
+253
+00:14:50,139 --> 00:14:51,473
+<font color="#00ff40">Tapi apa yang harus kita lakukan
+dengan pasangan homo itu ?</font>
+
+254
+00:14:51,541 --> 00:14:53,041
+<font color="#00ff40">Bagaimana menyingkirkan mereka ?</font>
+
+255
+00:14:53,109 --> 00:14:54,543
+<font color="#00ff40">Oh, Mungkin ada jalan.</font>
+
+256
+00:14:54,611 --> 00:14:56,479
+<font color="#00ff40">Aku tak bisa menjanjikannya...</font>
+
+257
+00:14:58,181 --> 00:15:00,182
+<font color="#00ff40">Dia tak bisa berada di sini.</font>
+
+258
+00:15:01,417 --> 00:15:02,784
+<font color="#00ff40">Tate.</font>
+
+259
+00:15:02,852 --> 00:15:04,386
+<font color="#00ff40">Billie Dean,...</font>
+
+260
+00:15:04,454 --> 00:15:05,821
+<font color="#00ff40">Itu anakku...</font>
+
+261
+00:15:08,658 --> 00:15:10,593
+<font color="#00ff40">Itu Tate.</font>
+
+262
+00:15:10,660 --> 00:15:12,094
+<font color="#00ff40">Aku ingin membantu.</font>
+
+263
+00:15:12,162 --> 00:15:13,529
+<font color="#00ff40">Kau sudah cukup membantu.</font>
+
+264
+00:15:13,597 --> 00:15:15,431
+<font color="#00ff40">Jangan sekarang, Tate.</font>
+
+265
+00:15:15,499 --> 00:15:17,967
+<font color="#00ff40">Pergilah..</font>
+
+266
+00:15:23,841 --> 00:15:25,408
+<font color="#00ff40">Kenapa itu tadi ?</font>
+
+267
+00:15:26,644 --> 00:15:27,778
+<font color="#00ff40">Hanya saja,...</font>
+
+268
+00:15:27,846 --> 00:15:29,447
+<font color="#00ff40">...kadang, ketika perantara...</font>
+
+269
+00:15:29,515 --> 00:15:31,382
+<font color="#00ff40">...bertemu roh, secara langsung...</font>
+
+270
+00:15:31,450 --> 00:15:33,017
+<font color="#00ff40">...akan menimbulkan efek yang kuat.</font>
+
+271
+00:15:33,085 --> 00:15:34,285
+<font color="#00ff40">Hanya itu saja.</font>
+
+272
+00:15:34,353 --> 00:15:36,588
+<font color="#00ff40">Tak ada yang perlu dikhawatirkan.</font>
+
+273
+00:15:36,655 --> 00:15:38,690
+<font color="#00ff40">Oke, Jadi apa yang
+bisa kita perbuat ?</font>
+
+274
+00:15:41,127 --> 00:15:43,228
+<font color="#00ff40">Mengapa Violet tak datang ?</font>
+
+275
+00:15:43,296 --> 00:15:46,631
+<font color="#00ff40">Violet punya hari-hari berat...</font>
+
+276
+00:15:46,699 --> 00:15:49,068
+<font color="#00ff40">Dia tak pernah mengunjungiku, Ben.</font>
+
+277
+00:15:50,637 --> 00:15:53,839
+<font color="#00ff40">Aku Dr. Marchesi, Pimpinan...</font>
+
+278
+00:15:53,907 --> 00:15:54,941
+<font color="#00ff40">Bagaimana kabarmu, Vivien ?</font>
+
+279
+00:15:55,008 --> 00:15:56,976
+<font color="#00ff40">Baik.
+Siap untuk pulang.</font>
+
+280
+00:15:57,044 --> 00:15:59,045
+<font color="#00ff40">Kau berhasil menyakinkan istrimu...</font>
+
+281
+00:15:59,112 --> 00:16:01,414
+<font color="#00ff40">...agar tak bepergian jauh sampai dia melahirkan ?</font>
+
+282
+00:16:01,482 --> 00:16:03,549
+<font color="#00ff40">Dr. Marchesi merekomendasi aku istirahat...</font>
+
+283
+00:16:03,617 --> 00:16:05,051
+<font color="#00ff40">...karena kedua kembar...</font>
+
+284
+00:16:05,119 --> 00:16:06,352
+<font color="#00ff40">...yang mana aku...</font>
+
+285
+00:16:06,420 --> 00:16:07,887
+<font color="#00ff40">...sangat setuju.</font>
+
+286
+00:16:07,954 --> 00:16:10,556
+<font color="#00ff40">Dan kubilang, Aku akan
+berkursi roda di Bandara...</font>
+
+287
+00:16:10,624 --> 00:16:12,725
+<font color="#00ff40">Duduk sepanjang perjalanan ke Florida.</font>
+
+288
+00:16:12,792 --> 00:16:14,326
+<font color="#00ff40">...dan usia kandunganku masih enam bulan...</font>
+
+289
+00:16:14,394 --> 00:16:16,061
+<font color="#00ff40">...jadi aku masih bisa bepergian.
+Aku akan baik-baik saja.</font>
+
+290
+00:16:16,129 --> 00:16:17,930
+<font color="#00ff40">Baiklah, Kursi roda...</font>
+
+291
+00:16:17,998 --> 00:16:19,065
+<font color="#00ff40">...juga bagus...</font>
+
+292
+00:16:19,132 --> 00:16:20,533
+<font color="#00ff40">...tapi seperti perkataanku pada istrimu...</font>
+
+293
+00:16:20,600 --> 00:16:22,701
+<font color="#00ff40">...aku takkan terkejut, kalau
+dokter kandungan kalian...</font>
+
+294
+00:16:22,769 --> 00:16:25,271
+<font color="#00ff40">...tak merekomendasikan
+kelahiran cesar darurat...</font>
+
+295
+00:16:25,339 --> 00:16:27,473
+<font color="#00ff40">Nah, Dalam 24 jam, Aku akan
+berada di tangan yang mampu...</font>
+
+296
+00:16:27,541 --> 00:16:29,877
+<font color="#00ff40">Saudariku dan keluarganya...</font>
+
+297
+00:16:29,944 --> 00:16:31,812
+<font color="#00ff40">...dan dokter kandungan berpengalaman.</font>
+
+298
+00:16:31,880 --> 00:16:33,747
+<font color="#00ff40">Aku bersama dengan orang
+orang yang bisa kupercayai...</font>
+
+299
+00:16:33,815 --> 00:16:35,049
+<font color="#00ff40">...dan keluar dari kota ini.</font>
+
+300
+00:16:35,116 --> 00:16:37,151
+<font color="#00ff40">Terima kasih sudah membawakan ini...</font>
+
+301
+00:16:37,218 --> 00:16:38,986
+<font color="#00ff40">Akan kubawa ke dokter.</font>
+
+302
+00:16:39,053 --> 00:16:41,054
+<font color="#00ff40">Aku ingin mendengarnya dari dokter...</font>
+
+303
+00:16:41,122 --> 00:16:42,823
+<font color="#00ff40">Cesar pada saat darurat ?</font>
+
+304
+00:16:42,891 --> 00:16:46,360
+<font color="#00ff40">Kuyakin kau tahu soal bayi-bayinya...</font>
+
+305
+00:16:46,428 --> 00:16:47,861
+<font color="#00ff40">Terutama salah satunya...</font>
+
+306
+00:16:47,929 --> 00:16:49,596
+<font color="#00ff40">...berkembang terlalu pesat.</font>
+
+307
+00:16:49,664 --> 00:16:51,432
+<font color="#00ff40">Maksudku, ke titik...</font>
+
+308
+00:16:51,499 --> 00:16:53,634
+<font color="#00ff40">...di mana dia siap keluar dan hidup.</font>
+
+309
+00:16:53,702 --> 00:16:56,403
+<font color="#00ff40">...dan yang satunya semakin lemah.</font>
+
+310
+00:16:56,471 --> 00:16:58,873
+<font color="#00ff40">Kadang, disebut Intrauterin Omophagia.</font>
+
+311
+00:16:58,941 --> 00:17:00,475
+<font color="#00ff40">Nutrisi yang dibutuhkan...</font>
+
+312
+00:17:00,543 --> 00:17:02,977
+<font color="#00ff40">...semuanya diambil oleh
+janin yang lebih besar.</font>
+
+313
+00:17:04,113 --> 00:17:05,347
+<font color="#00ff40">Alpha, Kalau mau...</font>
+
+314
+00:17:05,414 --> 00:17:07,115
+<font color="#00ff40">Kapan kau berencana memberitahuku soal ini, Vivien ?</font>
+
+315
+00:17:07,183 --> 00:17:09,485
+<font color="#00ff40">Saat kita menuju Florida.</font>
+
+316
+00:17:10,721 --> 00:17:12,622
+<font color="#00ff40">Yah, Aku ada urusan.</font>
+
+317
+00:17:12,689 --> 00:17:15,292
+<font color="#00ff40">Senang melihat kalian Dr. Harmon, Vivien.</font>
+
+318
+00:17:15,359 --> 00:17:18,094
+<font color="#00ff40">Kalau aku jadi kau, aku mulai mencari...</font>
+
+319
+00:17:18,162 --> 00:17:20,330
+<font color="#00ff40">...kalau ada dokter yang ikut penerbangan.</font>
+
+320
+00:17:25,703 --> 00:17:26,936
+<font color="#00ff40">Ayo pergi..</font>
+
+321
+00:17:30,207 --> 00:17:32,341
+<font color="#00ff40">Sulit untuk mengusir roh...</font>
+
+322
+00:17:32,409 --> 00:17:33,776
+<font color="#00ff40">...tapi bukan berarti itu mustahil.</font>
+
+323
+00:17:35,945 --> 00:17:37,813
+<font color="#00ff40">Usaha paling sukses yang kutahu...</font>
+
+324
+00:17:37,880 --> 00:17:39,147
+<font color="#00ff40">...pernah terjadi, saat Amerika masih...</font>
+
+325
+00:17:39,215 --> 00:17:40,349
+<font color="#00ff40">...sebagai Dunia Baru.</font>
+
+326
+00:17:40,416 --> 00:17:41,350
+<font color="#00ff40">Kau bercanda ?</font>
+
+327
+00:17:41,418 --> 00:17:42,685
+<font color="#00ff40">Itu 500 tahun yang lalu.</font>
+
+328
+00:17:42,753 --> 00:17:44,988
+<font color="#00ff40">Roh tak mengikuti hukum
+hukum fisika manusia...</font>
+
+329
+00:17:45,056 --> 00:17:47,391
+<font color="#00ff40">Mereka juga tak terpengaruh waktu.</font>
+
+330
+00:17:47,459 --> 00:17:49,059
+<font color="#00ff40">Hal yang sama...</font>
+
+331
+00:17:49,127 --> 00:17:50,461
+<font color="#00ff40">...dengan yang masih hidup
+adalah penderitaan mereka.</font>
+
+332
+00:17:51,597 --> 00:17:52,964
+<font color="#00ff40">Penyesalan.</font>
+
+333
+00:17:53,032 --> 00:17:54,766
+<font color="#00ff40">Rasa sakit..</font>
+
+334
+00:17:54,834 --> 00:17:56,802
+<font color="#00ff40">Kesepian..</font>
+
+335
+00:17:56,869 --> 00:17:59,004
+<font color="#00ff40">Pada tahun 1590,...</font>
+
+336
+00:17:59,071 --> 00:18:01,806
+<font color="#00ff40">...di pantai yang sekarang kita
+kenal sebagai <i>North California</i>...</font>
+
+337
+00:18:01,874 --> 00:18:04,810
+<font color="#00ff40"><i>Seluruh Koloni Roanoke--</i></font>
+
+338
+00:18:04,878 --> 00:18:08,514
+<font color="#00ff40"><i>Seratus Tujuh Belas pria, wanita dan anak-anak...</i></font>
+
+339
+00:18:08,582 --> 00:18:10,683
+<font color="#00ff40"><i>...meninggal secara misterius.</i></font>
+
+340
+00:18:10,751 --> 00:18:13,018
+<font color="#00ff40">Lalu terkenal sebagai Ghost Colony...</font>
+
+341
+00:18:13,086 --> 00:18:14,753
+<font color="#00ff40">...karena rohnya ada di situ.</font>
+
+342
+00:18:14,821 --> 00:18:18,523
+<font color="#00ff40"><i>Mereka menghantui suku di sana...</i></font>
+
+343
+00:18:20,226 --> 00:18:22,326
+<font color="#00ff40"><i>...membunuh tanpa pandang bulu.</i></font>
+
+344
+00:18:26,766 --> 00:18:29,501
+<font color="#00ff40">Tetua di sana tahu dia harus bertindak..</font>
+
+345
+00:18:29,569 --> 00:18:31,036
+<font color="#00ff40">Dia memberi kutukan pembuangan...</font>
+
+346
+00:18:31,103 --> 00:18:34,239
+<font color="#00ff40"><i>Pertama, Dia mengumpulkan benda-benda...</i></font>
+
+347
+00:18:34,306 --> 00:18:36,208
+<font color="#00ff40"><i>...dari yang telah meninggal...</i></font>
+
+348
+00:18:36,275 --> 00:18:38,844
+<font color="#00ff40"><i>Lalu mereka membakarnya...</i></font>
+
+349
+00:18:38,912 --> 00:18:43,382
+<font color="#00ff40"><i>...para hantu muncul, terpanggil
+oleh jimat mereka sendiri...</i></font>
+
+350
+00:18:43,449 --> 00:18:46,485
+<font color="#00ff40"><i>Tapi sebelum roh lebih
+banyak menjatuhkan korban...</i></font>
+
+351
+00:18:46,552 --> 00:18:49,021
+<font color="#00ff40"><i>Tetua menyelesaikan kutukan tersebut...</i></font>
+
+352
+00:18:49,089 --> 00:18:51,589
+<font color="#00ff40"><i>...yang mengirim para hantu menjauh selamanya.</i></font>
+
+353
+00:18:51,657 --> 00:18:53,625
+<font color="#00ff40"><i>Bagaimana ?</i></font>
+
+354
+00:18:53,693 --> 00:18:55,827
+<font color="#00ff40"><i>Dengan mengucapkan satu kata...</i></font>
+
+355
+00:18:55,894 --> 00:18:58,129
+<font color="#00ff40">Kata yang sama yang
+diukir pada surat...</font>
+
+356
+00:18:58,197 --> 00:19:00,131
+<font color="#00ff40">...pada koloni yang ditinggalkan.</font>
+
+357
+00:19:00,199 --> 00:19:01,733
+<font color="#00ff40">Croatoan.</font>
+
+358
+00:19:01,800 --> 00:19:03,000
+<font color="#00ff40"><i>Croatoan.</i></font>
+
+359
+00:19:05,604 --> 00:19:07,504
+<font color="#00ff40">Jadi, Kau tahu apa yang harus kau perbuat..</font>
+
+360
+00:19:19,550 --> 00:19:21,551
+<font color="#00ff40">Apa katanya ?</font>
+
+361
+00:19:21,619 --> 00:19:23,086
+<font color="#00ff40">Kita harus mengambil salah satu miliknya.</font>
+
+362
+00:19:23,154 --> 00:19:24,188
+<font color="#00ff40">Benda penting...</font>
+
+363
+00:19:24,255 --> 00:19:25,222
+<font color="#00ff40">Pusaka atau cincin.</font>
+
+364
+00:19:25,290 --> 00:19:28,191
+<font color="#00ff40">Seperti jimat.</font>
+
+365
+00:19:28,258 --> 00:19:31,494
+<font color="#00ff40">Kalau kita mendapatkan jimat
+itu dan melakukan ritual...</font>
+
+366
+00:19:31,562 --> 00:19:32,629
+<font color="#00ff40">Dia akan pergi.</font>
+
+367
+00:19:32,696 --> 00:19:33,897
+<font color="#00ff40">Terdengar seperti omong kosong.</font>
+
+368
+00:19:33,965 --> 00:19:35,966
+<font color="#00ff40">Billie Dean serius.
+Dia mempelajarinya..</font>
+
+369
+00:19:36,034 --> 00:19:37,267
+<font color="#00ff40">Orang dewasa, Dia pakai cincin...</font>
+
+370
+00:19:37,335 --> 00:19:39,002
+<font color="#00ff40">Seperti cincin kawin, tapi aku tak ingat...</font>
+
+371
+00:19:39,070 --> 00:19:40,871
+<font color="#00ff40">...siapa yang memakainya. /
+Aku tak percaya padanya !</font>
+
+372
+00:19:40,938 --> 00:19:42,940
+<font color="#00ff40">Sekarang, Apa dia bilang sesuatu soalku ?</font>
+
+373
+00:19:44,809 --> 00:19:47,577
+<font color="#00ff40">Aku berbuat buruk, kah ?</font>
+
+374
+00:19:47,645 --> 00:19:49,545
+<font color="#00ff40">Ambil saja cincin itu.</font>
+
+375
+00:19:54,251 --> 00:19:55,784
+<font color="#00ff40">Bagaimana nantinya ?</font>
+
+376
+00:19:55,852 --> 00:19:58,387
+<font color="#00ff40">Apa anak itu akan memanggil kalian ayah ?</font>
+
+377
+00:19:58,455 --> 00:20:00,589
+<font color="#00ff40">Atau salah satunya jadi Ibu ?</font>
+
+378
+00:20:00,657 --> 00:20:02,258
+<font color="#00ff40">Aku hanya bercanda.</font>
+
+379
+00:20:02,326 --> 00:20:03,727
+<font color="#00ff40">Sejujurnya...</font>
+
+380
+00:20:03,794 --> 00:20:06,797
+<font color="#00ff40">Kau siap untuk semua ini ?</font>
+
+381
+00:20:06,865 --> 00:20:09,567
+<font color="#00ff40">Maksudku, Kau belum pernah memakaikan popok...</font>
+
+382
+00:20:09,634 --> 00:20:11,302
+<font color="#00ff40">...dan menyusui tengah malam.</font>
+
+383
+00:20:11,370 --> 00:20:13,772
+<font color="#00ff40">Mungkin kau harus mengenalku...</font>
+
+384
+00:20:13,840 --> 00:20:15,274
+<font color="#00ff40">...sebelum aku membakarmu.</font>
+
+385
+00:20:16,476 --> 00:20:18,544
+<font color="#00ff40">Cukup adil.</font>
+
+386
+00:20:18,611 --> 00:20:20,813
+<font color="#00ff40">Dengar..</font>
+
+387
+00:20:20,880 --> 00:20:23,915
+<font color="#00ff40">Kita akan lama berada di sini, jadi...</font>
+
+388
+00:20:23,983 --> 00:20:26,952
+<font color="#00ff40">...mungkin kita bisa melupakan masa lalu...</font>
+
+389
+00:20:27,020 --> 00:20:29,221
+<font color="#00ff40">...dan hidup bersama.</font>
+
+390
+00:20:29,289 --> 00:20:31,157
+<font color="#00ff40">Aku mati karenamu !</font>
+
+391
+00:20:31,224 --> 00:20:32,391
+<font color="#00ff40">Nah, Pasti ada sesuatu...</font>
+
+392
+00:20:32,459 --> 00:20:34,093
+<font color="#00ff40">...yang bisa kutawarkan padamu.</font>
+
+393
+00:20:34,161 --> 00:20:36,061
+<font color="#00ff40">Maksudku, Hanya karena mati...</font>
+
+394
+00:20:36,129 --> 00:20:37,663
+<font color="#00ff40">...tak berarti kita punya keinginan.</font>
+
+395
+00:20:39,699 --> 00:20:41,534
+<font color="#00ff40">Hasrat.</font>
+
+396
+00:20:43,504 --> 00:20:46,606
+<font color="#00ff40">Pernikahan cukup sulit..</font>
+
+397
+00:20:46,674 --> 00:20:48,675
+<font color="#00ff40">Terutama dengan pria itu.</font>
+
+398
+00:20:48,743 --> 00:20:50,710
+<font color="#00ff40">Selalu membebanimu...</font>
+
+399
+00:20:50,778 --> 00:20:52,646
+<font color="#00ff40">Dan selalu dengan cara
+yang tak kau suka, kan ?</font>
+
+400
+00:20:54,749 --> 00:20:56,049
+<font color="#00ff40">Memuakkan..</font>
+
+401
+00:20:56,117 --> 00:20:59,787
+<font color="#00ff40">...harus menunggu Halloween...</font>
+
+402
+00:20:59,854 --> 00:21:02,656
+<font color="#00ff40">...untuk menjadi sedikit aneh.</font>
+
+403
+00:21:10,765 --> 00:21:11,832
+<font color="#00ff40">Aku tak bisa membunuhmu,...</font>
+
+404
+00:21:11,900 --> 00:21:13,067
+<font color="#00ff40">...tapi aku bisa membuatmu menderita !</font>
+
+405
+00:21:14,302 --> 00:21:16,403
+<font color="#00ff40">Yang terbaik, Saat aku selesai...</font>
+
+406
+00:21:16,471 --> 00:21:17,738
+<font color="#00ff40">...kau akan sembuh, dan aku bisa...</font>
+
+407
+00:21:17,805 --> 00:21:20,407
+<font color="#00ff40">...menghajarmu lagi !</font>
+
+408
+00:21:20,475 --> 00:21:21,775
+<font color="#00ff40">Lebih keras !</font>
+
+409
+00:21:21,843 --> 00:21:24,979
+<font color="#00ff40">Aku suka. /
+Tak seharusnya seperti ini !</font>
+
+410
+00:21:25,047 --> 00:21:27,381
+<font color="#00ff40">Aku tak seharusnya berada di sini !</font>
+
+411
+00:21:27,449 --> 00:21:29,050
+<font color="#00ff40">Lihat aku !
+Lihat aku !</font>
+
+412
+00:21:29,118 --> 00:21:31,352
+<font color="#00ff40">Aku seharusnya keluar !</font>
+
+413
+00:21:36,058 --> 00:21:37,892
+<font color="#00ff40">Aku jatuh cinta.
+Aku akan...</font>
+
+414
+00:21:37,960 --> 00:21:39,794
+<font color="#00ff40">...keluar dari sini, dan bersamanya
+lalu kemudian kau membunuhku...</font>
+
+415
+00:21:39,862 --> 00:21:42,196
+<font color="#00ff40">...dan sekarang, aku terjebak...</font>
+
+416
+00:21:42,264 --> 00:21:44,298
+<font color="#00ff40">...dengannya !</font>
+
+417
+00:21:45,466 --> 00:21:46,333
+<font color="#00ff40">Chad.</font>
+
+418
+00:21:59,578 --> 00:22:01,546
+<font color="#00ff40">Aku takkan masuk ke sana.</font>
+
+419
+00:22:01,614 --> 00:22:02,880
+<font color="#00ff40">Kau tak perlu masuk.</font>
+
+420
+00:22:02,948 --> 00:22:04,182
+<font color="#00ff40">Aku sudah mengemasi barang-barangmu.</font>
+
+421
+00:22:04,249 --> 00:22:05,216
+<font color="#00ff40">Violet sudah berkemas ?</font>
+
+422
+00:22:05,284 --> 00:22:07,218
+<font color="#00ff40">Sudah kubilang, Kita akan pergi.</font>
+
+423
+00:22:09,221 --> 00:22:11,056
+<font color="#00ff40">Oke ?</font>
+
+424
+00:22:55,102 --> 00:22:55,969
+<font color="#00ff40">Apa yang kau dapat ?</font>
+
+425
+00:22:56,037 --> 00:22:58,238
+<font color="#00ff40">Dia melepasnya saat mengecat.</font>
+
+426
+00:22:58,306 --> 00:23:00,240
+<font color="#00ff40">Mengapa hantu perlu jam tangan ?</font>
+
+427
+00:23:00,308 --> 00:23:01,508
+<font color="#00ff40">Violet !</font>
+
+428
+00:23:02,511 --> 00:23:03,878
+<font color="#00ff40">Violet !</font>
+
+429
+00:23:03,946 --> 00:23:06,247
+<font color="#00ff40">Kau kabur !
+Apa yang terjadi ?</font>
+
+430
+00:23:07,616 --> 00:23:09,284
+<font color="#00ff40">Violet, Ibumu ada di mobil..</font>
+
+431
+00:23:09,352 --> 00:23:11,053
+<font color="#00ff40">Pesawat sudah menunggu...</font>
+
+432
+00:23:11,120 --> 00:23:13,388
+<font color="#00ff40">Baiklah... Pergilah.</font>
+
+433
+00:23:13,456 --> 00:23:15,291
+<font color="#00ff40">Jangan bawa ibu masuk.</font>
+
+434
+00:23:15,359 --> 00:23:17,593
+<font color="#00ff40">Kau bicara apa ? Kau ikut dengan kami. /
+Tidak !</font>
+
+435
+00:23:17,661 --> 00:23:18,927
+<font color="#00ff40">Aku bisa mengurus diriku sendiri.</font>
+
+436
+00:23:18,995 --> 00:23:20,762
+<font color="#00ff40">...dan kalau mau, kau bisa kembali nanti.</font>
+
+437
+00:23:20,830 --> 00:23:22,197
+<font color="#00ff40">Tapi untuk sekarang, Percayalah padaku...</font>
+
+438
+00:23:22,265 --> 00:23:23,498
+<font color="#00ff40">...dan keluar dari sini.</font>
+
+439
+00:23:23,566 --> 00:23:26,134
+<font color="#00ff40">Katakan pada Ibu, aku mencintainya
+dan semoga beruntung dengan bayinya.</font>
+
+440
+00:23:26,202 --> 00:23:27,669
+<font color="#00ff40">Ada apa denganmu ?</font>
+
+441
+00:23:27,737 --> 00:23:28,937
+<font color="#00ff40">Kau mabuk ?</font>
+
+442
+00:23:29,004 --> 00:23:30,938
+<font color="#00ff40">Kuharap...</font>
+
+443
+00:23:31,006 --> 00:23:32,473
+<font color="#00ff40">Violet, Aku berhenti di lampu
+merah dan kau tak ada...</font>
+
+444
+00:23:32,541 --> 00:23:33,374
+<font color="#00ff40">Kau ke mana ? /
+Tak ke mana mana...</font>
+
+445
+00:23:33,442 --> 00:23:34,875
+<font color="#00ff40">Aku di sini dari tadi.</font>
+
+446
+00:23:34,943 --> 00:23:36,410
+<font color="#00ff40">Aku ingin datang menjemput juga...</font>
+
+447
+00:23:36,478 --> 00:23:37,878
+<font color="#00ff40">Aku bersumpah.</font>
+
+448
+00:23:37,946 --> 00:23:39,280
+<font color="#00ff40">Aku tak bisa meninggalkan rumah.</font>
+
+449
+00:23:39,347 --> 00:23:40,347
+<font color="#00ff40">Hentikan !
+Kau berbohong.</font>
+
+450
+00:23:40,415 --> 00:23:41,816
+<font color="#00ff40">Kau terpengaruh obat-obatan...</font>
+
+451
+00:23:41,884 --> 00:23:43,184
+<font color="#00ff40">Katakan padaku obat-obatan apa, Sekarang.</font>
+
+452
+00:23:43,252 --> 00:23:45,387
+<font color="#00ff40">Katakan padaku !</font>
+
+453
+00:23:45,454 --> 00:23:47,389
+<font color="#00ff40">Aku sudah mati !</font>
+
+454
+00:23:47,457 --> 00:23:48,858
+<font color="#00ff40">Tidakkah kau paham ?</font>
+
+455
+00:23:48,925 --> 00:23:52,561
+<font color="#00ff40">Kalau kau meninggal di sini,
+Kau tak bisa kemana-mana..</font>
+
+456
+00:23:52,629 --> 00:23:56,165
+<font color="#00ff40">Itulah mengapa kau harus pergi dan
+membawa Ibu ke tempat yang aman.</font>
+
+457
+00:23:56,233 --> 00:23:57,333
+<font color="#00ff40"><i>Ben !</i></font>
+
+458
+00:23:57,401 --> 00:23:58,468
+<font color="#00ff40">Memang itu yang akan kulakukan.</font>
+
+459
+00:23:58,536 --> 00:24:00,537
+<font color="#00ff40">Kau ikut denganku.</font>
+
+460
+00:24:08,513 --> 00:24:10,047
+<font color="#00ff40">Vivien !</font>
+
+461
+00:24:10,115 --> 00:24:11,849
+<font color="#00ff40">Oh, Vivien, Apa bayinya akan lahir ?</font>
+
+462
+00:24:11,916 --> 00:24:13,016
+<font color="#00ff40">Tidak !</font>
+
+463
+00:24:13,084 --> 00:24:14,751
+<font color="#00ff40">Tidak, Terlalu cepat !</font>
+
+464
+00:24:14,819 --> 00:24:16,420
+<font color="#00ff40">Tidak, Tidak, Tidak !</font>
+
+465
+00:24:16,488 --> 00:24:17,855
+<font color="#00ff40">Tidak, Sayang...</font>
+
+466
+00:24:17,922 --> 00:24:20,458
+<font color="#00ff40">Saat bayinya siap lahir,
+Tak ada yang bisa menghentikannya...</font>
+
+467
+00:24:20,525 --> 00:24:22,326
+<font color="#00ff40">Tidak !
+Ayo, Kita harus masuk !</font>
+
+468
+00:24:22,394 --> 00:24:23,327
+<font color="#00ff40">Tidak !</font>
+
+469
+00:24:25,498 --> 00:24:26,798
+<font color="#00ff40">Aku memakan beberapa pil !</font>
+
+470
+00:24:26,865 --> 00:24:28,566
+<font color="#00ff40">Aku tak bermaksud untuk bunuh diri.</font>
+
+471
+00:24:28,634 --> 00:24:29,701
+<font color="#00ff40">Ben !</font>
+
+472
+00:24:34,374 --> 00:24:35,340
+<font color="#00ff40">Ada apa ?</font>
+
+473
+00:24:35,408 --> 00:24:36,942
+<font color="#00ff40">Bayinya akan segera lahir.</font>
+
+474
+00:24:37,010 --> 00:24:38,911
+<font color="#00ff40">Tidak !
+Tidak !</font>
+
+475
+00:24:39,597 --> 00:24:41,046
+<font color="#00ff40">Tidak !</font>
+
+476
+00:24:48,691 --> 00:24:49,445
+<font color="#00ff40">Tenanglah.</font>
+
+477
+00:24:49,565 --> 00:24:51,590
+<font color="#00ff40">Jangan lupa bernapas..
+Bernapas...</font>
+
+478
+00:24:51,720 --> 00:24:53,020
+<font color="#00ff40">Aku tak dapat sinyal..</font>
+
+479
+00:24:53,088 --> 00:24:55,222
+<font color="#00ff40">Aku harus ke rumah sakit sekarang !</font>
+
+480
+00:24:55,290 --> 00:24:57,291
+<font color="#00ff40">Sudah terlambat, Kau sudah diujung tanduk...</font>
+
+481
+00:24:57,359 --> 00:24:59,226
+<font color="#00ff40">Akan kuhubungi Dr. Hall.
+Akan kuhubungi ambulans...</font>
+
+482
+00:24:59,294 --> 00:25:01,027
+<font color="#00ff40">Bernapaslah, Vivien,
+Bernapas.</font>
+
+483
+00:25:01,095 --> 00:25:02,273
+<font color="#00ff40">Astaga !
+Sakit sekali !</font>
+
+484
+00:25:02,397 --> 00:25:03,564
+<font color="#00ff40">Tentu saja, Sayang...</font>
+
+485
+00:25:03,632 --> 00:25:04,732
+<font color="#00ff40">Itu kutukan pada wanita.</font>
+
+486
+00:25:10,591 --> 00:25:12,425
+<font color="#00ff40">Dia tak bisa melahirkan di sini.</font>
+
+487
+00:25:12,493 --> 00:25:13,759
+<font color="#00ff40">Tak aman..</font>
+
+488
+00:25:13,827 --> 00:25:15,427
+<font color="#00ff40">Nah, Amankanlah.. Kau tahu yang harus kau lakukan.</font>
+
+489
+00:25:17,133 --> 00:25:19,067
+<font color="#00ff40">Sialan.</font>
+
+490
+00:25:24,567 --> 00:25:27,139
+<font color="#00ff40">Sial !</font>
+
+491
+00:25:30,456 --> 00:25:32,226
+<font color="#00ff40">Hey !</font>
+
+492
+00:25:32,330 --> 00:25:33,397
+<font color="#00ff40">Menjauhlah dari sana !</font>
+
+493
+00:25:33,465 --> 00:25:35,434
+<font color="#00ff40">Kalian menjauhlah dari sana !</font>
+
+494
+00:25:52,169 --> 00:25:53,502
+<font color="#00ff40">Dr. Harmon.</font>
+
+495
+00:25:56,306 --> 00:25:59,174
+<font color="#00ff40">Sudah waktunya.</font>
+
+496
+00:26:05,580 --> 00:26:07,147
+<font color="#00ff40">Perawat, Bawakan tas dokterku...</font>
+
+497
+00:26:07,215 --> 00:26:08,581
+<font color="#00ff40"><i>Semua ini salah...</i></font>
+
+498
+00:26:09,035 --> 00:26:11,150
+<font color="#00ff40"><i>Beri pisau bedah ukuran-12...</i></font>
+
+499
+00:26:12,819 --> 00:26:14,487
+<font color="#00ff40"><i>Kita harus keluar dari sini.</i></font>
+
+500
+00:26:17,291 --> 00:26:19,392
+<font color="#00ff40">Di mana handuknya ?</font>
+
+501
+00:26:19,460 --> 00:26:20,594
+<font color="#00ff40">Taruh di bawahnya..</font>
+
+502
+00:26:30,172 --> 00:26:31,139
+<font color="#00ff40"><i>Rumah ini</i>.</font>
+
+503
+00:26:31,207 --> 00:26:32,674
+<font color="#00ff40"><i>Rumah ini !</i></font>
+
+504
+00:26:35,144 --> 00:26:36,044
+<font color="#00ff40"><i>Ben ?</i></font>
+
+505
+00:26:36,112 --> 00:26:37,479
+<font color="#00ff40">Bangun.</font>
+
+506
+00:26:37,547 --> 00:26:38,947
+<font color="#00ff40">Rumah ini mencoba membantu...</font>
+
+507
+00:26:39,015 --> 00:26:41,549
+<font color="#00ff40">...dan sekarang, kau dalam
+posisi tak bisa menolak...</font>
+
+508
+00:26:41,617 --> 00:26:42,984
+<font color="#00ff40">Istrimu membutuhkanmu..</font>
+
+509
+00:26:43,052 --> 00:26:45,386
+<font color="#00ff40">Jadi bersiaplah, dan beri dia kekuatan..</font>
+
+510
+00:26:45,453 --> 00:26:47,254
+<font color="#00ff40">Demi dia...</font>
+
+511
+00:26:47,322 --> 00:26:48,588
+<font color="#00ff40">Ben ?</font>
+
+512
+00:26:56,230 --> 00:26:57,397
+<font color="#00ff40">Siapa orang-orang ini ?</font>
+
+513
+00:26:57,465 --> 00:26:59,333
+<font color="#00ff40"><i>Siapa orang-orang ini ?</i></font>
+
+514
+00:26:59,400 --> 00:27:01,201
+<font color="#00ff40">Tak apa, Sayang.</font>
+
+515
+00:27:01,269 --> 00:27:03,938
+<font color="#00ff40">Mereka di sini untuk membantu...</font>
+
+516
+00:27:04,006 --> 00:27:05,673
+<font color="#00ff40">Aku lupa betapa menyakitkannya ini.</font>
+
+517
+00:27:07,443 --> 00:27:09,344
+<font color="#00ff40">Kau butuh sesuatu, Dokter ?</font>
+
+518
+00:27:09,412 --> 00:27:11,580
+<font color="#00ff40">Obat bius..</font>
+
+519
+00:27:11,648 --> 00:27:13,448
+<font color="#00ff40">Hanya menyentuh bagian ujung saja...</font>
+
+520
+00:27:26,494 --> 00:27:28,829
+<font color="#00ff40"><i>Tolong</i>.</font>
+
+521
+00:27:31,065 --> 00:27:32,399
+<font color="#00ff40">Oh, Kurasa, yang satunya akan keluar...</font>
+
+522
+00:27:33,968 --> 00:27:36,369
+<font color="#00ff40">Oke, Sayang, Ingat bernapas..</font>
+
+523
+00:27:40,207 --> 00:27:42,209
+<font color="#00ff40">Kau melakukannya dengan baik.
+Kau melakukannya dengan baik.</font>
+
+524
+00:27:42,277 --> 00:27:43,410
+<font color="#00ff40">Bertahanlah, Sayang.</font>
+
+525
+00:27:43,478 --> 00:27:44,545
+<font color="#00ff40">Kau melakukannya dengan baik.</font>
+
+526
+00:27:46,381 --> 00:27:48,282
+<font color="#00ff40">Ini dia.. Satu kali dorong lagi.</font>
+
+527
+00:27:58,459 --> 00:28:00,060
+<font color="#00ff40">Bernapaslah, Sayang.</font>
+
+528
+00:28:00,128 --> 00:28:02,129
+<font color="#00ff40">Bernapaslah..
+Ingat bernapas..</font>
+
+529
+00:28:04,266 --> 00:28:06,334
+<font color="#00ff40">Bernapaslah.</font>
+
+530
+00:28:07,469 --> 00:28:08,369
+<font color="#00ff40">Bernapaslah. /
+Aku membencimu.</font>
+
+531
+00:28:08,437 --> 00:28:09,838
+<font color="#00ff40">Aku mencintaimu.</font>
+
+532
+00:28:09,905 --> 00:28:11,773
+<font color="#00ff40">Dorong, Dorong, Dorong ! /
+Satu kali lagi !</font>
+
+533
+00:28:15,510 --> 00:28:17,511
+<font color="#00ff40">Ini dia..
+Satu kali dorongan lagi..</font>
+
+534
+00:28:17,578 --> 00:28:18,879
+<font color="#00ff40">Dorongan keras !
+Ini dia ! Dorong !</font>
+
+535
+00:28:18,947 --> 00:28:19,980
+<font color="#00ff40">Ayolah, Sayang, Dorong !</font>
+
+536
+00:28:20,048 --> 00:28:20,981
+<font color="#00ff40">Dorong !
+Dorong, Sayang !</font>
+
+537
+00:28:21,049 --> 00:28:22,616
+<font color="#00ff40">Aku mencintaimu..</font>
+
+538
+00:28:27,087 --> 00:28:28,253
+<font color="#00ff40">Bernapaslah.</font>
+
+539
+00:28:28,321 --> 00:28:29,821
+<font color="#00ff40">Aku tak ingin kehilanganmu..</font>
+
+540
+00:28:29,889 --> 00:28:31,023
+<font color="#00ff40">Takkan pernah..</font>
+
+541
+00:28:31,090 --> 00:28:32,658
+<font color="#00ff40"><i>Dia datang !</i></font>
+
+542
+00:28:32,725 --> 00:28:34,293
+<font color="#00ff40">Ayo ! Dorong !
+Dia datang !</font>
+
+543
+00:28:34,360 --> 00:28:35,427
+<font color="#00ff40">Dorong !</font>
+
+544
+00:28:35,495 --> 00:28:36,762
+<font color="#00ff40">Ayolah, Sayang !</font>
+
+545
+00:28:36,829 --> 00:28:38,631
+<font color="#00ff40">Dorong !</font>
+
+546
+00:28:41,134 --> 00:28:42,401
+<font color="#00ff40">Bayi perempuan yang sehat...</font>
+
+547
+00:28:42,468 --> 00:28:43,969
+<font color="#00ff40">Ayah, Kau ingin memotong tali pusarnya ?</font>
+
+548
+00:28:47,373 --> 00:28:49,207
+<font color="#00ff40">Astaga..</font>
+
+549
+00:28:50,543 --> 00:28:51,676
+<font color="#00ff40">Astaga..</font>
+
+550
+00:28:51,744 --> 00:28:52,544
+<font color="#00ff40">Violet.</font>
+
+551
+00:28:59,151 --> 00:29:00,618
+<font color="#00ff40">Bayimu meninggal...</font>
+
+552
+00:29:06,758 --> 00:29:08,359
+<font color="#00ff40">Laki-laki atau perempuan ?</font>
+
+553
+00:29:12,931 --> 00:29:14,165
+<font color="#00ff40">Boleh kupegang ?</font>
+
+554
+00:29:17,302 --> 00:29:18,469
+<font color="#00ff40">Tidak.</font>
+
+555
+00:29:18,537 --> 00:29:20,805
+<font color="#00ff40">Belum waktunya, Sayang..</font>
+
+556
+00:29:20,872 --> 00:29:22,106
+<font color="#00ff40">Ada satu lagi...</font>
+
+557
+00:29:46,662 --> 00:29:49,064
+<font color="#00ff40">Apa yang ada di pikiranmu, gadis kecil ?</font>
+
+558
+00:29:49,131 --> 00:29:51,533
+<font color="#00ff40">Apa itu arloji seharga 12 ribu
+dollarku yang kau bakar ?</font>
+
+559
+00:29:51,601 --> 00:29:52,867
+<font color="#00ff40">Croatoan !</font>
+
+560
+00:29:54,504 --> 00:29:55,471
+<font color="#00ff40">Croatoan !</font>
+
+561
+00:29:56,573 --> 00:29:57,707
+<font color="#00ff40">Croatoan !</font>
+
+562
+00:30:07,753 --> 00:30:09,754
+<font color="#00ff40">Bercanda..</font>
+
+563
+00:30:12,291 --> 00:30:14,092
+<font color="#00ff40">Jadi, di mana kau dapat kata-kata itu ?</font>
+
+564
+00:30:14,160 --> 00:30:16,261
+<font color="#00ff40">Paranormal yang tadi ada di sini ?</font>
+
+565
+00:30:16,329 --> 00:30:17,829
+<font color="#00ff40">Maksudku, Benarkah ?</font>
+
+566
+00:30:17,897 --> 00:30:18,831
+<font color="#00ff40">Mantra Roanoke ?</font>
+
+567
+00:30:18,898 --> 00:30:20,766
+<font color="#00ff40">Katakan, Kau akan...</font>
+
+568
+00:30:20,834 --> 00:30:22,334
+<font color="#00ff40">...menggorok leher selanjutnya...</font>
+
+569
+00:30:22,402 --> 00:30:24,769
+<font color="#00ff40">...karena kurasa itu sangat dramatis.</font>
+
+570
+00:30:24,837 --> 00:30:27,505
+<font color="#00ff40">Aku juga menikmati pembakaran yang suci...</font>
+
+571
+00:30:27,573 --> 00:30:29,473
+<font color="#00ff40">...untuk membersihkan rumah
+ini dari para roh...</font>
+
+572
+00:30:29,541 --> 00:30:31,342
+<font color="#00ff40">Tak berhasil. /
+Tentu saja.</font>
+
+573
+00:30:31,410 --> 00:30:32,643
+<font color="#00ff40">Itu omong kosong.</font>
+
+574
+00:30:32,711 --> 00:30:34,044
+<font color="#00ff40">Semua itu omong kosong.</font>
+
+575
+00:30:34,112 --> 00:30:36,847
+<font color="#00ff40">Mereka membuat mantra
+dan juga nyanyian...</font>
+
+576
+00:30:36,915 --> 00:30:39,083
+<font color="#00ff40">...untuk merasa, mereka berkuasa.</font>
+
+577
+00:30:39,151 --> 00:30:40,318
+<font color="#00ff40">Nah, Tebaklah ?</font>
+
+578
+00:30:40,386 --> 00:30:42,855
+<font color="#00ff40">Mereka tak berkuasa..</font>
+
+579
+00:30:42,922 --> 00:30:44,957
+<font color="#00ff40">Takkan pernah.</font>
+
+580
+00:30:45,024 --> 00:30:46,993
+<font color="#00ff40">Apa yang kau lakukan ?</font>
+
+581
+00:30:47,061 --> 00:30:49,362
+<font color="#00ff40">Ritual 'Omong kosong'ku sendiri...</font>
+
+582
+00:30:49,430 --> 00:30:50,730
+<font color="#00ff40">Takkan ada ruangan bayi apapun..</font>
+
+583
+00:30:54,670 --> 00:30:56,603
+<font color="#00ff40">Kami takkan jadi orang tua.</font>
+
+584
+00:30:57,639 --> 00:31:00,808
+<font color="#00ff40">Bayi ibumu aman.</font>
+
+585
+00:31:00,875 --> 00:31:02,276
+<font color="#00ff40">...dari kami, setidaknya.</font>
+
+586
+00:31:02,344 --> 00:31:03,778
+<font color="#00ff40">Aku ditakdirkan, menghabiskan keabadian...</font>
+
+587
+00:31:03,845 --> 00:31:07,247
+<font color="#00ff40">...dengan pria yang tak mencintaiku.</font>
+
+588
+00:31:07,315 --> 00:31:09,216
+<font color="#00ff40">Tentu saja, Bisa menjadi lebih buruk...</font>
+
+589
+00:31:09,284 --> 00:31:13,420
+<font color="#00ff40">Pacarmu mencintaimu...</font>
+
+590
+00:31:13,488 --> 00:31:15,656
+<font color="#00ff40">...tapi dia selalu jadi monster.</font>
+
+591
+00:31:15,723 --> 00:31:16,756
+<font color="#00ff40">Kau salah.</font>
+
+592
+00:31:16,824 --> 00:31:18,057
+<font color="#00ff40">Tate telah berubah.</font>
+
+593
+00:31:18,125 --> 00:31:19,593
+<font color="#00ff40">Dia bahkan tak
+ingat perbuatannya.</font>
+
+594
+00:31:19,661 --> 00:31:20,894
+<font color="#00ff40">Oh ?</font>
+
+595
+00:31:20,962 --> 00:31:22,696
+<font color="#00ff40">Kapan dia berubah ?</font>
+
+596
+00:31:22,764 --> 00:31:23,864
+<font color="#00ff40">Saat dia membunuhku ?</font>
+
+597
+00:31:23,932 --> 00:31:26,299
+<font color="#00ff40">Saat dia membunuh pacarku ?</font>
+
+598
+00:31:28,736 --> 00:31:32,139
+<font color="#00ff40">...atau dia berubah, saat memperkosa ibumu ?</font>
+
+599
+00:31:32,207 --> 00:31:35,509
+<font color="#00ff40">Apa ?</font>
+
+600
+00:31:35,576 --> 00:31:36,977
+<font color="#00ff40">Tidak, Itu bohong.</font>
+
+601
+00:31:37,044 --> 00:31:37,878
+<font color="#00ff40">Benarkah ?</font>
+
+602
+00:31:40,348 --> 00:31:42,482
+<font color="#00ff40">Kupikir kau akan mengetahuinya...</font>
+
+603
+00:31:50,962 --> 00:31:52,751
+<font color="#00ff40">Vivien, bernapaslah.
+Kau harus bernapas.</font>
+
+604
+00:31:52,996 --> 00:31:53,895
+<font color="#00ff40">Vivien, Bernapaslah !</font>
+
+605
+00:31:53,963 --> 00:31:56,197
+<font color="#00ff40">Kau harus bernapas !</font>
+
+606
+00:31:56,265 --> 00:31:58,266
+<font color="#00ff40">Aku butuh gunting, sekarang. /
+Ada apa ?</font>
+
+607
+00:31:58,334 --> 00:31:59,143
+<font color="#00ff40">Distosia...</font>
+
+608
+00:31:59,263 --> 00:32:01,703
+<font color="#00ff40">Aku harus 'menipu bayinya'...
+dengan simfisis pubis...</font>
+
+609
+00:32:01,770 --> 00:32:04,339
+<font color="#00ff40">Aku tak bisa, Ben.</font>
+
+610
+00:32:04,407 --> 00:32:05,708
+<font color="#00ff40">Aku tak bisa melakukannya.</font>
+
+611
+00:32:05,776 --> 00:32:06,776
+<font color="#00ff40">Kau bisa melakukannya...</font>
+
+612
+00:32:06,843 --> 00:32:08,645
+<font color="#00ff40">Aku yakinkan..
+Lihat aku..</font>
+
+613
+00:32:08,712 --> 00:32:09,579
+<font color="#00ff40">Kau bisa melakukannya...</font>
+
+614
+00:32:11,182 --> 00:32:13,917
+<font color="#00ff40">Dr. Harmon, Suruh istrimu berhenti
+mendorong, sampai kuberitahu selanjutnya.</font>
+
+615
+00:32:13,985 --> 00:32:15,319
+<font color="#00ff40">Vivien, Kau dengar ?</font>
+
+616
+00:32:15,386 --> 00:32:17,755
+<font color="#00ff40">Berhenti mendorong, sampai ada perintah.</font>
+
+617
+00:32:23,227 --> 00:32:24,427
+<font color="#00ff40">Ini sangat menyakitkan !</font>
+
+618
+00:32:24,495 --> 00:32:26,896
+<font color="#00ff40">Genggam tanganku sekeras yang kau bisa !
+Genggam !</font>
+
+619
+00:32:26,964 --> 00:32:29,732
+<font color="#00ff40">Ambil kain kasa, untuk
+menghentikan pendarahannya...</font>
+
+620
+00:32:29,800 --> 00:32:31,667
+<font color="#00ff40">Sekarang, Dr. Harmon. /
+Dorong, Vivien !</font>
+
+621
+00:32:31,734 --> 00:32:34,102
+<font color="#00ff40">Kau harus mendorong !
+Dorong !</font>
+
+622
+00:32:34,170 --> 00:32:36,037
+<font color="#00ff40">Dorong !
+Dorong !</font>
+
+623
+00:32:36,105 --> 00:32:37,571
+<font color="#00ff40">Bayinya datang.</font>
+
+624
+00:32:37,639 --> 00:32:39,073
+<font color="#00ff40">Dorong ! /
+Kau melakukannya dengan baik, Viv !</font>
+
+625
+00:32:39,140 --> 00:32:40,241
+<font color="#00ff40">Kau melakukannya dengan bagus, Viv !</font>
+
+626
+00:32:40,308 --> 00:32:42,710
+<font color="#00ff40">Astaga, Itu menyiksaku !</font>
+
+627
+00:32:42,778 --> 00:32:43,811
+<font color="#00ff40">Jangan berhenti, Sayang !</font>
+
+628
+00:32:43,879 --> 00:32:45,446
+<font color="#00ff40">Kakinya sudah terlihat !
+Aku bisa melihatnya...</font>
+
+629
+00:33:00,194 --> 00:33:02,261
+<font color="#00ff40">Kau berhasil, Sayang...</font>
+
+630
+00:33:02,329 --> 00:33:03,929
+<font color="#00ff40">Sayang, Kau berhasil.</font>
+
+631
+00:33:03,997 --> 00:33:05,164
+<font color="#00ff40">Kau berhasil..</font>
+
+632
+00:33:16,976 --> 00:33:19,478
+<font color="#00ff40">Semuanya baik-baik saja ? /
+Dia mengalami pendarahan.</font>
+
+633
+00:33:19,545 --> 00:33:21,814
+<font color="#00ff40">Aku harus menghentikan pendarahannya.</font>
+
+634
+00:33:21,882 --> 00:33:23,816
+<font color="#00ff40">Potong tali pusarnya.
+Kita harus memisahkan ibu dan anaknya...</font>
+
+635
+00:33:24,985 --> 00:33:27,153
+<font color="#00ff40">Bisa kulihat bayinya ?</font>
+
+636
+00:33:27,220 --> 00:33:29,055
+<font color="#00ff40">Berikan padaku...</font>
+
+637
+00:33:29,122 --> 00:33:31,057
+<font color="#00ff40">Oh.</font>
+
+638
+00:33:31,124 --> 00:33:32,491
+<font color="#00ff40">Oh.</font>
+
+639
+00:33:32,559 --> 00:33:34,427
+<font color="#00ff40">Kubersihkan dulu.
+Akan kubawa kembali..</font>
+
+640
+00:33:50,878 --> 00:33:53,312
+<font color="#00ff40">Dokter, Semuanya baik-baik saja ?</font>
+
+641
+00:34:22,410 --> 00:34:24,545
+<font color="#00ff40">Oh, Kenapa denganmu ?</font>
+
+642
+00:34:24,613 --> 00:34:27,782
+<font color="#00ff40">Dia bayi tercantik yang pernah kulihat..</font>
+
+643
+00:34:30,519 --> 00:34:33,255
+<font color="#00ff40">...dari darah dan rasa sakit,
+muncullah kesempurnaan..</font>
+
+644
+00:34:35,925 --> 00:34:37,025
+<font color="#00ff40">Hei, Wanita-wanita sialan...</font>
+
+645
+00:34:37,093 --> 00:34:39,527
+<font color="#00ff40">Kalian sudah membersihkan bayiku ?</font>
+
+646
+00:34:40,562 --> 00:34:42,630
+<font color="#00ff40">Perawat, Aku butuh tekanan...</font>
+
+647
+00:34:42,698 --> 00:34:44,232
+<font color="#00ff40">Ada apa ?</font>
+
+648
+00:34:44,299 --> 00:34:47,769
+<font color="#00ff40">Dia shok. Aku tak bisa
+menghentikan pendarahannya..</font>
+
+649
+00:34:47,836 --> 00:34:50,104
+<font color="#00ff40">Vivien, Tetap bersamaku...</font>
+
+650
+00:34:50,172 --> 00:34:52,273
+<font color="#00ff40">Vivien.</font>
+
+651
+00:34:52,341 --> 00:34:53,642
+<font color="#00ff40">Ibu...</font>
+
+652
+00:34:53,709 --> 00:34:57,112
+<font color="#00ff40">Violet.</font>
+
+653
+00:34:57,180 --> 00:34:59,849
+<font color="#00ff40">Maaf, aku tak menjemputmu di rumah sakit..</font>
+
+654
+00:34:59,917 --> 00:35:01,384
+<font color="#00ff40">Aku ingin,...</font>
+
+655
+00:35:01,452 --> 00:35:03,987
+<font color="#00ff40">...tapi aku tak bisa.</font>
+
+656
+00:35:04,055 --> 00:35:07,992
+<font color="#00ff40">Kau di sini sekarang, itu yang terpenting. /
+Vivien..</font>
+
+657
+00:35:08,060 --> 00:35:11,495
+<font color="#00ff40">Dengarkan aku.</font>
+
+658
+00:35:11,563 --> 00:35:14,232
+<font color="#00ff40">Konsentrasi pada kata-kataku...</font>
+
+659
+00:35:14,299 --> 00:35:18,469
+<font color="#00ff40">Kita bisa hidup bahagia, Sayang...</font>
+
+660
+00:35:18,536 --> 00:35:21,105
+<font color="#00ff40">Seperti sebelumnya...</font>
+
+661
+00:35:21,173 --> 00:35:24,575
+<font color="#00ff40">Sebelum kesalahanku,
+Sebelum kita pindah ke rumah ini...</font>
+
+662
+00:35:24,643 --> 00:35:27,512
+<font color="#00ff40"><i>Tak apa, Bu.</i></font>
+
+663
+00:35:27,579 --> 00:35:29,914
+<font color="#00ff40">Jika kau kesakitan...</font>
+
+664
+00:35:29,982 --> 00:35:31,215
+<font color="#00ff40">...relakan semuanya.</font>
+
+665
+00:35:35,020 --> 00:35:37,922
+<font color="#00ff40">Kurasa aku tak punya pilihan.</font>
+
+666
+00:35:37,990 --> 00:35:41,760
+<font color="#00ff40">Bertahanlah, Vivien.
+Tetap bersamaku..</font>
+
+667
+00:35:41,828 --> 00:35:43,662
+<font color="#00ff40">Kemarilah ke sisi ini...</font>
+
+668
+00:35:43,730 --> 00:35:46,265
+<font color="#00ff40">Relakan semuanya..</font>
+
+669
+00:35:46,333 --> 00:35:49,402
+<font color="#00ff40">Kau bisa bersamaku.</font>
+
+670
+00:35:49,470 --> 00:35:51,038
+<font color="#00ff40">Jangan mati.</font>
+
+671
+00:35:51,106 --> 00:35:55,276
+<font color="#00ff40">Jangan mati, Vivien.</font>
+
+672
+00:35:55,344 --> 00:35:59,480
+<font color="#00ff40">Kita masih bisa hidup bersama...</font>
+
+673
+00:35:59,548 --> 00:36:01,548
+<font color="#00ff40">Kita masih bisa berbahagia...</font>
+
+674
+00:36:56,703 --> 00:36:58,170
+<font color="#00ff40">Ibuku telah meninggal.</font>
+
+675
+00:37:02,943 --> 00:37:04,544
+<font color="#00ff40">Aku turut berduka cita...</font>
+
+676
+00:37:04,611 --> 00:37:06,913
+<font color="#00ff40">Aku tahu, Kalian berdua sangat dekat.</font>
+
+677
+00:37:06,981 --> 00:37:11,452
+<font color="#00ff40">Ya, Benar.</font>
+
+678
+00:37:11,519 --> 00:37:14,188
+<font color="#00ff40">Kini ayahku sendirian di bawah sana.</font>
+
+679
+00:37:17,192 --> 00:37:19,360
+<font color="#00ff40">Itu membuatku merasa sedih...</font>
+
+680
+00:37:19,428 --> 00:37:21,028
+<font color="#00ff40">Aku menyukai ayahmu...</font>
+
+681
+00:37:21,096 --> 00:37:22,830
+<font color="#00ff40">Dia bersikap baik padaku...</font>
+
+682
+00:37:22,898 --> 00:37:24,532
+<font color="#00ff40">Dia bersikap baik pada semua  pasien.</font>
+
+683
+00:37:24,599 --> 00:37:26,333
+<font color="#00ff40">Bahkan pada orang yang berbohong padanya. /
+Apa ?</font>
+
+684
+00:37:26,401 --> 00:37:29,737
+<font color="#00ff40">Mengapa kau menemuinya pertama kali ?</font>
+
+685
+00:37:29,805 --> 00:37:31,239
+<font color="#00ff40">Constance pikir kau butuh bantuan.</font>
+
+686
+00:37:31,306 --> 00:37:33,041
+<font color="#00ff40">Memang... itu benar.</font>
+
+687
+00:37:33,108 --> 00:37:36,177
+<font color="#00ff40">Kau tahu kau sudah mati.</font>
+
+688
+00:37:36,245 --> 00:37:39,246
+<font color="#00ff40">Ya.</font>
+
+689
+00:37:39,314 --> 00:37:41,115
+<font color="#00ff40">Aku tahu.</font>
+
+690
+00:37:41,183 --> 00:37:42,250
+<font color="#00ff40">Kau tahu alasannya ?</font>
+
+691
+00:37:42,317 --> 00:37:45,986
+<font color="#00ff40">Polisi menembakku.</font>
+
+692
+00:37:46,054 --> 00:37:47,288
+<font color="#00ff40">Di sini, Dalam ruangan ini...</font>
+
+693
+00:37:47,356 --> 00:37:50,524
+<font color="#00ff40">Mengapa ?
+Mengapa mereka menembakmu ?</font>
+
+694
+00:37:52,661 --> 00:37:54,695
+<font color="#00ff40">Aku tak tahu...</font>
+
+695
+00:37:58,667 --> 00:38:01,202
+<font color="#00ff40">Kau membunuh, Tate.</font>
+
+696
+00:38:01,270 --> 00:38:03,338
+<font color="#00ff40">Remaja, seperti kita...</font>
+
+697
+00:38:03,405 --> 00:38:06,475
+<font color="#00ff40">Anak-anak yang datang saat Halloween.</font>
+
+698
+00:38:07,677 --> 00:38:10,145
+<font color="#00ff40">Mengapa aku melakukan itu ?</font>
+
+699
+00:38:11,615 --> 00:38:13,316
+<font color="#00ff40">Mengapa aku melakukan itu ?</font>
+
+700
+00:38:13,383 --> 00:38:16,452
+<font color="#00ff40">Mengapa aku melakukan itu ?</font>
+
+701
+00:38:16,520 --> 00:38:19,588
+<font color="#00ff40">Tidak...
+Mengapa aku melakukan itu ?</font>
+
+702
+00:38:19,656 --> 00:38:20,923
+<font color="#00ff40">Aku tak tahu..</font>
+
+703
+00:38:22,245 --> 00:38:24,759
+<font color="#00ff40">Mengapa kau membunuh orang
+orang yang pernah tinggal di sini ?</font>
+
+704
+00:38:24,827 --> 00:38:27,395
+<font color="#00ff40">Mengapa kau memperkosa ibuku ?</font>
+
+705
+00:38:31,899 --> 00:38:33,333
+<font color="#00ff40">Maafkan aku.</font>
+
+706
+00:38:33,401 --> 00:38:35,266
+<font color="#00ff40">Maafkan aku.</font>
+
+707
+00:38:35,386 --> 00:38:36,970
+<font color="#00ff40">Aku berbeda sekarang...</font>
+
+708
+00:38:37,037 --> 00:38:39,724
+<font color="#00ff40">Dulunya, kupikir, kau sepertiku...</font>
+
+709
+00:38:40,087 --> 00:38:42,701
+<font color="#00ff40">...tertarik dengan hal kegelapan...</font>
+
+710
+00:38:43,497 --> 00:38:45,947
+<font color="#00ff40">...namun, Tate, Kaulah kegelapan itu.</font>
+
+711
+00:38:46,752 --> 00:38:49,412
+<font color="#00ff40">Tidak, Sebelum ada kau...</font>
+
+712
+00:38:49,532 --> 00:38:50,994
+<font color="#00ff40">Semua itu benar.</font>
+
+713
+00:38:53,655 --> 00:38:56,290
+<font color="#00ff40">Kaulah satu-satunya terang yang pernah kutahu..</font>
+
+714
+00:38:59,254 --> 00:39:01,539
+<font color="#00ff40">Kau sudah mengubah itu, Violet.</font>
+
+715
+00:39:04,065 --> 00:39:06,167
+<font color="#00ff40">Aku percaya itu</font>
+
+716
+00:39:08,120 --> 00:39:10,041
+<font color="#00ff40">Aku mencintaimu, Tate.</font>
+
+717
+00:39:12,083 --> 00:39:13,676
+<font color="#00ff40">Tapi aku tak bisa memaafkanmu.</font>
+
+718
+00:39:17,043 --> 00:39:19,882
+<font color="#00ff40">Kau harus membayar perbuatanmu !</font>
+
+719
+00:39:19,950 --> 00:39:21,518
+<font color="#00ff40">Rasa sakit yang kau sebutkan !</font>
+
+720
+00:39:21,585 --> 00:39:22,886
+<font color="#00ff40">Semua kesedihan itu !</font>
+
+721
+00:39:22,953 --> 00:39:23,891
+<font color="#00ff40">Kau membunuh ibuku.</font>
+
+722
+00:39:24,011 --> 00:39:25,588
+<font color="#00ff40">Tidak ! /
+Kau membunuhnya !</font>
+
+723
+00:39:26,715 --> 00:39:29,927
+<font color="#00ff40">Bayi itu-- atau apalah
+namanya, sudah membunuhnya !</font>
+
+724
+00:39:33,966 --> 00:39:35,400
+<font color="#00ff40">Aku tak bisa bersamamu.</font>
+
+725
+00:39:35,468 --> 00:39:37,819
+<font color="#00ff40">Aku tak ingin bersamamu..</font>
+
+726
+00:39:39,272 --> 00:39:42,040
+<font color="#00ff40">Apa maksud perkataanmu ?</font>
+
+727
+00:39:42,108 --> 00:39:43,346
+<font color="#00ff40">Kubilang, Menjauhlah.</font>
+
+728
+00:39:43,466 --> 00:39:44,506
+<font color="#00ff40">Apa ?</font>
+
+729
+00:39:44,764 --> 00:39:46,932
+<font color="#00ff40">Tidak, Jangan lakukan ini !</font>
+
+730
+00:39:47,052 --> 00:39:48,134
+<font color="#00ff40">Menjauhlah, Tate.</font>
+
+731
+00:39:48,254 --> 00:39:51,116
+<font color="#00ff40">Kau yang kuinginkan !
+Kau yang kumiliki !</font>
+
+732
+00:39:51,183 --> 00:39:52,550
+<font color="#00ff40">Menjauhlah ! /
+Tidak !</font>
+
+733
+00:39:52,670 --> 00:39:54,964
+<font color="#00ff40"><i>Menjauhlah !</i></font>
+
+734
+00:40:33,232 --> 00:40:36,062
+<font color="#00ff40">Tadi itu sangat berani...</font>
+
+735
+00:40:36,129 --> 00:40:37,570
+<font color="#00ff40">Aku bangga padamu.</font>
+
+736
+00:40:37,827 --> 00:40:39,351
+<font color="#00ff40">Bu...</font>
+
+737
+00:40:39,749 --> 00:40:41,472
+<font color="#00ff40">Maafkan aku, Bu.</font>
+
+738
+00:40:41,730 --> 00:40:43,638
+<font color="#00ff40">Aku sangat menyesal,
+Kau harus meninggal...</font>
+
+739
+00:40:43,758 --> 00:40:45,524
+<font color="#00ff40">Shh.</font>
+
+740
+00:40:45,829 --> 00:40:48,501
+<font color="#00ff40">Aku menyesal, Kau kehilangan bayimu...</font>
+
+741
+00:40:56,214 --> 00:40:59,522
+<font color="#00ff40">Tapi aku tak kehilangan gadis kecilku...</font>
+
+742
+00:40:59,547 --> 00:41:06,547
+<font color="#800080">Translated by</font><font color="#ff8000"> erickjiwono</font> a.k.a <font color="#0080c0">er1ck9</font>
+<font color="#ff00ff">http://erickjiwono.blogspot.com</font>
+
+743
+00:41:06,572 --> 00:41:13,572
+<font color="#ffff00">IDFL SubsCrew</font>
+<font color="#800080">http://IDFL.us</font>
