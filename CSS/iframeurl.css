@@ -1,0 +1,18 @@
+.sidebar, #footerwidgets, #footer, #blog-pager {display: none;}
+body{background: #F5F4F7;}
+.notonmobile {display: none;}
+.blog-posts {
+width: 1000px;
+overflow: hidden !important;
+    top: 0;
+    left: 0px;
+    bottom: 0;
+    right: 0;
+}
+iframe {
+    width: 695px;
+   height: 460px;
+   margin: 0 auto;
+   position: relative;
+   left: 220px;
+}
