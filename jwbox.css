@@ -9,7 +9,7 @@
 	z-index:1001;
 	zoom: 1;
 	-moz-opacity: 0.9;
-	opacity:0.90;
+	opacity:0.9;
 	filter: alpha(opacity = 90);
 	overflow: auto;
 }
@@ -29,7 +29,7 @@
         background-color: white;
 	z-index:1002;
 	overflow: hidden;
-	background-image:url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png);
+	background-image:url();
 	background-position:top right;
         background-repeat:no-repeat;      	
 }
