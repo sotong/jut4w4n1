@@ -17,20 +17,20 @@
         background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -190px -115px;
         position:absolute;
         top:8px;
-        right:-15px;
-        width:27px;
-        height:27px;
+        right:-11px;
+        width:28px;
+        height:22px;
 }
 .jwbox_hidden {
 	display: none;
 	position: relative;
 	padding: 16px 16px 16px 16px;
-	border: 5px solid white;
-        background-color: #2b2b2b;
+	border: 15px solid #2b2b2b;
+        background-color: white;
 	z-index:1002;
 	overflow: hidden;
 	background-image:url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png);
-	background-position:bottom right;
+	background-position:top right;
         background-repeat:no-repeat;      	
 }
 .jwbox_content{
