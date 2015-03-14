@@ -14,13 +14,12 @@
 	overflow: auto;
 }
 #jwboxContactClose{
-        position:absolute; 
-        bottom:0px; 
-        right:-2px; 
-        background:url(https://jut4w4n1.googlecode.com/svn/trunk/controls.png) no-repeat -25px 0; 
-        width:20px; 
-        height:20px; 
-        text-indent:-9999px;
+        background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -190px -115px;
+        position:absolute;
+        top:12px;
+        right:-26px;
+        width:29px;
+        height:29px;
 }
 .jwbox_hidden {
 	display: none;
