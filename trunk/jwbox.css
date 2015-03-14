@@ -9,7 +9,7 @@
 	z-index:1001;
 	zoom: 1;
 	-moz-opacity: 0.9;
-	opacity:0.9;
+	opacity:0.90;
 	filter: alpha(opacity = 90);
 	overflow: auto;
 }
@@ -30,7 +30,7 @@
 	z-index:1002;
 	overflow: hidden;
 	background-image:url();
-	background-position:top right;
+	background-position:bottom right;
         background-repeat:no-repeat;      	
 }
 .jwbox_content{
