@@ -16,8 +16,8 @@
 #jwboxContactClose{
         background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -190px -115px;
         position:absolute;
-        top:8px;
-        right:-11px;
+        top:5px;
+        right:-9px;
         width:28px;
         height:22px;
 }
@@ -43,8 +43,8 @@
   z-index:7000;
   position:relative;
   border:0;
-  border-left:7px solid #2b2b2b;
-  border-right:7px solid #2b2b2b;
+  border-left:15px solid #2b2b2b;
+  border-right:15px solid #2b2b2b;
   padding:0px 15px;
   vertical-align:top;
   -webkit-overflow-scrolling: touch;
