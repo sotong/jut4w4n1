@@ -1,0 +1,442 @@
+.jquery-jwbox-move *
+{
+  webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+.jquery-jwbox-overlay
+{
+  background:#000000;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+.jquery-jwbox
+{
+  position:relative;
+  padding:17px 0;
+}
+
+.jquery-jwbox-border-top-left,
+.jquery-jwbox-border-top-right,
+.jquery-jwbox-border-bottom-left,
+.jquery-jwbox-border-bottom-right
+{
+  position:absolute;
+  height:18px;
+  width:12%;
+  z-index:7000;
+}
+
+.jquery-jwbox-border-top-left
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat 0 0;
+  top:0;
+  left:0;
+}
+
+.jquery-jwbox-border-top-right
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat right 0;
+  top:0;
+  right:0;
+}
+
+.jquery-jwbox-border-top-middle
+{
+  background:#2b2b2b;
+  position:absolute;
+  height:7px;
+  width:78%;
+  top:0;
+  left:12%;
+  z-index:7000;
+  overflow:hidden;
+}
+
+.jquery-jwbox-border-bottom-left
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat 0 bottom;
+  bottom:0;
+  left:0;
+}
+
+.jquery-jwbox-border-bottom-right
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat right bottom;
+  bottom:0;
+  right:0;
+}
+
+.jquery-jwbox-border-bottom-middle
+{
+  background:#2b2b2b;
+  height:7px;
+  width:78%;
+  position:absolute;
+  bottom:0;
+  left:12%;
+  z-index:7000;
+  overflow:hidden;
+}
+
+.jquery-jwbox-title
+{
+  background:#2b2b2b;
+  color:#FFFFFF;
+  font-family:verdana,arial,serif;
+  font-size:11px;
+  line-height:14px;
+  padding:5px 8px;
+  margin:3px;
+  position:absolute;
+  bottom:0;
+  z-index:7000;
+  opacity:0.9;
+}
+
+.jquery-jwbox-html
+{
+  z-index:7000;
+  position:relative;
+  border:0;
+  border-left:7px solid #2b2b2b;
+  border-right:7px solid #2b2b2b;
+  padding:0px 15px;
+  vertical-align:top;
+  -webkit-overflow-scrolling: touch;
+}
+
+.jquery-jwbox-html embed,
+.jquery-jwbox-html object,
+.jquery-jwbox-html iframe
+{
+  vertical-align:top;
+  display:block;
+}
+
+.jquery-jwbox-background
+{
+  position:absolute;
+  top:7px;
+  left:7px;
+  z-index:6999;
+  float:left;
+  padding:0;
+}
+
+.jquery-jwbox-background img
+{
+  display:block;
+  position:relative;
+  border:0;
+  margin:0;
+  padding:0;
+  width:100%;
+  height:100%;
+}
+
+
+.jquery-jwbox-mode-image .jquery-jwbox-html
+{
+  z-index:6998;
+  padding:0;
+}
+
+.jquery-jwbox-mode-html .jquery-jwbox-background
+{
+  background:#FFFFFF;
+}
+
+.jquery-jwbox-mode-html .jquery-jwbox-html
+{
+  overflow:auto;
+}
+
+.jquery-jwbox-loading,
+.jquery-jwbox-mode-html .jquery-lightbox-loading
+{
+  background:#FFFFFF url(http://2.bp.blogspot.com/-Fux_YZgfTXQ/UrWx4CK5huI/AAAAAAAAGNM/AkMsQoiMahE/s1600/loading.gif) no-repeat center center;
+}
+
+.jquery-jwbox-button-close
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -190px -115px;
+  position:absolute;
+  top:12px;
+  right:-26px;
+  width:29px;
+  height:29px;
+}
+
+.jquery-jwbox-button-close:hover
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -220px -115px;
+}
+
+.jquery-jwbox-button-close span,
+.jquery-jwbox-buttons span
+{
+  display:none;
+}
+
+.jquery-jwbox-mode-image .jquery-lightbox-button-close
+{
+  right:14px;
+  z-index:7002;
+}
+
+.jquery-jwbox-buttons 
+{
+  position:absolute;
+  top:7px;
+  left:7px;
+  z-index:7001;
+  height:39px;
+  display:none;
+}
+
+.jquery-jwbox-buttons .jquery-jwbox-buttons-init,
+.jquery-jwbox-buttons .jquery-jwbox-buttons-end
+{
+  width:5px;
+  height:39px;
+  float:left;
+  display:inline;
+}
+
+.jquery-jwbox-buttons .jquery-jwbox-buttons-init
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -151px -153px;
+  margin:7px 0 0 7px;
+}
+
+.jquery-jwbox-buttons .jquery-jwbox-buttons-end
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -244px -153px;
+  margin:7px 0 0 0;
+}
+
+.jquery-jwbox-buttons .jquery-jwbox-button-left
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -156px -153px;
+  width:24px;
+  height:39px;
+  float:left;
+  display:inline;
+  margin:7px 0 0 0;
+}
+
+.jquery-jwbox-buttons .jquery-lightbox-button-left:hover
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -156px -194px;
+}
+
+
+.jquery-jwbox-buttons .jquery-jwbox-button-right
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -220px -153px;
+  width:24px;
+  height:39px;
+  float:left;
+  display:inline;
+  margin:7px 0 0 0;
+}
+
+.jquery-jwbox-buttons .jquery-jwbox-button-right:hover
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -220px -194px;
+}
+
+
+.jquery-jwbox-buttons .jquery-jwbox-button-max
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -182px -153px;
+  width:36px;
+  height:39px;
+  float:left;
+  display:inline;
+  margin:7px 0 0 0;
+}
+
+.jquery-jwbox-buttons .jquery-jwbox-button-max:hover
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -182px -194px;
+}
+
+
+.jquery-jwbox-buttons .jquery-jwbox-button-min
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -162px -235px;
+  width:36px;
+  height:39px;
+  float:left;
+  display:inline;
+  margin:7px 0 0 0;
+}
+
+.jquery-jwbox-buttons .jquery-jwbox-button-min:hover
+{
+  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -207px -235px;
+}
+
+
+.jquery-jwbox-buttons-custom
+{
+  height:39px;
+  float:left;
+  display:inline;
+  background:#2b2b2b;
+  line-height:39px;
+  font-size:10px;
+  margin:7px 0 0 0;
+}
+
+.jquery-jwbox-buttons-custom a
+{
+  color:#FFFFFF;
+  font-size:10px;
+  display:inline;
+  font-weight:normal;
+  text-decoration:underline;
+  padding:0 3px;
+}
+
+.jquery-jwbox-mode-image .jquery-jwbox-button-close
+{
+  opacity:0.7;
+}
+
+.jquery-jwbox-mode-image .jquery-jwbox-buttons
+{
+  opacity:0.3;
+}
+
+.jquery-jwbox-mode-image:hover .jquery-jwbox-buttons,
+.jquery-jwbox-mode-image:hover .jquery-jwbox-button-close
+{
+  opacity:0.9;
+}
+
+.jquery-jwbox-navigator
+{
+  display:none;
+}
+
+.jquery-jwbox-hide
+{
+  display:none;
+}
+
+/* Retina: */
+@media screen and (max-device-width: 640px), screen and (max-device-width: 768px) and (-webkit-min-device-pixel-ratio: 2), screen and (max-device-width: 768px) and (max--moz-device-pixel-ratio: 2)
+{
+  .jquery-jwbox-button-close,
+  .jquery-jwbox-button-close:hover,
+  .jquery-jwbox-border-top-left,
+  .jquery-jwbox-border-top-right,
+  .jquery-jwbox-border-bottom-left,
+  .jquery-jwbox-border-bottom-right,
+  .jquery-jwbox-buttons .jquery-lightbox-buttons-init,
+  .jquery-jwbox-buttons .jquery-lightbox-buttons-end,
+  .jquery-jwbox-buttons .jquery-lightbox-button-left,
+  .jquery-jwbox-buttons .jquery-lightbox-button-left:hover,
+  .jquery-jwbox-buttons .jquery-lightbox-button-right,
+  .jquery-jwbox-buttons .jquery-lightbox-button-right:hover,
+  .jquery-jwbox-buttons .jquery-lightbox-button-max,
+  .jquery-jwbox-buttons .jquery-lightbox-button-max:hover,
+  .jquery-jwbox-buttons .jquery-lightbox-button-min,
+  .jquery-jwbox-buttons .jquery-lightbox-button-min:hover
+  {
+    background-image: url(images/jquery-lightbox-theme-mobile.png);
+    background-size: 834px auto;
+  }
+
+  .jquery-jwbox-button-close
+  {
+    background-position:-380px -230px;
+    width:58px;
+    height:58px;
+    right:-52px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    outline: none;
+  }
+
+  .jquery-jwbox-button-close:hover
+  {
+    background-position:-440px -230px;
+  }
+  
+  .jquery-jwbox-buttons .jquery-jwbox-buttons-init,
+  .jquery-jwbox-buttons .jquery-jwbox-buttons-end
+  {
+    width:10px;
+    height:78px;
+  }
+
+  .jquery-jwbox-buttons .jquery-jwbox-buttons-init
+  {
+    background-position: -302px -306px;
+  }
+
+  .jquery-jwbox-buttons .jquery-jwbox-buttons-end
+  {
+    background-position: -488px -306px;
+  }
+
+  .jquery-jwbox-buttons .jquery-jwbox-button-left
+  {
+    background-position: -312px -306px;
+    width:48px;
+    height:78px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    outline: none;
+  }
+
+  .jquery-jwbox-buttons .jquery-jwbox-button-left:hover
+  {
+    background-position: -312px -388px;
+  }
+
+  .jquery-jwbox-buttons .jquery-jwbox-button-right
+  {
+    background-position: -440px -306px;
+    width:48px;
+    height:78px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    outline: none;
+  }
+
+  .jquery-jwbox-buttons .jquery-jwbox-button-right:hover
+  {
+    background-position: -440px -388px;
+  }
+
+  .jquery-jwbox-buttons .jquery-jwbox-button-max
+  {
+    background-position: -364px -306px;
+    width:72px;
+    height:78px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    outline: none;
+  }
+
+  .jquery-jwbox-buttons .jquery-jwbox-button-max:hover
+  {
+    background-position: -364px -388px;
+  }
+
+  .jquery-jwbox-buttons .jquery-jwbox-button-min
+  {
+    background-position: -324px -470px;
+    width:72px;
+    height:78px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    outline: none;
+  }
+
+  .jquery-jwbox-buttons .jquery-jwbox-button-min:hover
+  {
+    background-position: -414px -470px;
+  }
+}
