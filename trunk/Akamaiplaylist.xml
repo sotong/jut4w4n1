@@ -1,0 +1,62 @@
+<rss version="2.0" xmlns:jwplayer="http://rss.jwpcdn.com/">
+  <channel>
+    <title>TV SERIES</title>
+	<item>
+      <title>Buddy Hutchins (2015)</title>
+	  <description>Sub Yes</description>
+ 	  <jwplayer:image>http://3.bp.blogspot.com/-7FzBlZdD8NQ/VQhsXeCtwaI/AAAAAAAAA5o/6D8JH_IdLDU/s1600/buddy_hutchins.png</jwplayer:image>
+      <jwplayer:file>https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=0d36a9bc8ce0aa0b&itag=18&source=picasa&cmo=secure_transport=yes&ip=0.0.0.0&ipbits=0&expire=1429204367&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=AA4E142E839B46D4BC65EBF01A2DCB51A84E2D1D.68DC84785ECE08FB81955CCDAC5C8E705E441CB2&key=lh1</jwplayer:file>
+      <jwplayer:captions.file>https://jut4w4n1.googlecode.com/svn/trunk/SUB/Buddy.Hutchins.2015.srt</jwplayer:file>
+    </item>
+    <item>
+      <title>Black Sea (2014)</title>
+	  <description>Sub Yes</description>
+	  <jwplayer:image>http://4.bp.blogspot.com/-Z1Xdf8V1w9E/VQiH2ioJ6CI/AAAAAAAAA54/ScU0mnQlFrM/s1600/BLACK_SEA.png</jwplayer:image>
+      <jwplayer:file>https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=1a5d12be0a3d5a5e&itag=18&source=picasa&cmo=secure_transport=yes&ip=0.0.0.0&ipbits=0&expire=1429213366&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=70DDD4A1AA900ABF602B0A1D3496F230C94607DF.CFE36FB2673F81BA64B3B8829E5E31F1AD4DF7DD&key=lh1</jwplayer:file>
+      <jwplayer:captions.file>https://jut4w4n1.googlecode.com/svn/trunk/SUB/Black.Sea.2014.srt</jwplayer:file>
+    </item>
+    <item>
+      <title>71 (2014)</title>
+	  <description>asdf</description>
+ 	  <jwplayer:image>http://4.bp.blogspot.com/-iDqT2wDSliY/VQiQRP9X0xI/AAAAAAAAA6I/KIQsiAmkrBI/s1600/71.png</jwplayer:image>
+      <jwplayer:file>https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=70f69f5859f3a550&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1429215869&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=AD021308860A826BE892DD41CB018BB5C544684B.9A4794D1EB231BA7A4FACF127229B800583C692D&key=lh1</jwplayer:file>
+      <jwplayer:captions.file>https://jut4w4n1.googlecode.com/svn/trunk/SUB/nonfill.srt</jwplayer:file>
+    </item>
+	<item>
+      <title>4</title>
+	  <description>asdf</description>
+ 	  <jwplayer:image>https://jut4w4n1.googlecode.com/svn/trunk/preview.jpg</jwplayer:image>
+      <jwplayer:file>https://youtu.be/G9joOF3xiy8</jwplayer:file>
+    </item>
+    <item>
+      <title>5</title>
+	  <description>asdf</description>
+ 	  <jwplayer:image>https://jut4w4n1.googlecode.com/svn/trunk/preview.jpg</jwplayer:image>
+      <jwplayer:file>https://jut4w4n1.googlecode.com/svn/trunk/video.mp4</jwplayer:file>
+    </item>
+    <item>
+      <title>6</title>
+	  <description>asdf</description>
+	  <jwplayer:image>https://jut4w4n1.googlecode.com/svn/trunk/preview.jpg</jwplayer:image>
+      <jwplayer:file>https://youtu.be/G9joOF3xiy8</jwplayer:file>
+    </item>
+    <item>
+      <title>7</title>
+	  <description>asdf</description>
+ 	  <jwplayer:image>https://jut4w4n1.googlecode.com/svn/trunk/preview.jpg</jwplayer:image>
+      <jwplayer:file>https://jut4w4n1.googlecode.com/svn/trunk/video.mp4</jwplayer:file>
+    </item>
+    <item>
+      <title>8</title>
+	  <description>asdf</description>
+ 	  <jwplayer:image>https://jut4w4n1.googlecode.com/svn/trunk/preview.jpg</jwplayer:image>
+      <jwplayer:file>https://youtu.be/G9joOF3xiy8</jwplayer:file>
+    </item>
+    <item>
+      <title>9</title>
+	  <description>asdf</description>
+ 	  <jwplayer:image>https://jut4w4n1.googlecode.com/svn/trunk/preview.jpg</jwplayer:image>
+      <jwplayer:file>https://jut4w4n1.googlecode.com/svn/trunk/video.mp4</jwplayer:file>
+    </item>
+ </channel>  
+</rss>
