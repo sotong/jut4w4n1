@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <repeat>true</repeat>
+  <volume>50</volume>
+  <logo.file>https://jut4w4n1.googlecode.com/svn/trunk/logo.png</logo.file>
+  <logo.over>1</logo.over>
+  <logo.out>0.5</logo.out>
+  <logo.hide>false</logo.hide>
+  <logo.position>top-left</logo.position>
+  <logo.link>http://nonfill.blogspot.com</logo.link>
+  <stretching>uniform</stretching>
+  <playlist>left</playlist>
+  <playlistsize>250</playlistsize>
+  <controlbar>bottom</controlbar>
+  <icons>true</icons>
+  <dock>true</dock>
+  <skin>https://jut4w4n1.googlecode.com/svn/trunk/skin.swf</skin>
+  <autostart>true</autostart>
+  <smoothing>true</smoothing>
+  <deblocking/>
+  <playlistfile>https://jut4w4n1.googlecode.com/svn/trunk/Akamaiplaylist.xml</playlistfile>
+  <metricsInterval>0</metricsInterval>
+  <retryLive/>
+  <retryInterval/>
+  <liveTimeout/>
+  <connectionAttemptInterval/><connectAuthParams/>
+  <streamAuthParams/><primaryToken/>
+  <akamaiMediaType/><akamaiMediaData/>
+  <MBRStartingIndex/><MBRStartingBitrate/>
+  <useNetSession>false</useNetSession>
+  <enableNetSessionDiscovery>false</enableNetSessionDiscovery>
+  <enableEndUserMapping>true</enableEndUserMapping>
+  <enableAlternateServerMapping>false</enableAlternateServerMapping>
+  <playerVerificationChallenge/>
+</config>
