@@ -38,14 +38,3 @@
         -moz-box-sizing: content-box;
         box-sizing: content-box;
 }
-.jwbox_html
-{
-  z-index:7000;
-  position:relative;
-  border:0;
-  border-left:7px solid #2b2b2b;
-  border-right:7px solid #2b2b2b;
-  padding:0px 15px;
-  vertical-align:top;
-  -webkit-overflow-scrolling: touch;
-}
