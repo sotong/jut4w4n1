@@ -8,15 +8,15 @@
 	background-color: black;
 	z-index:1001;
 	zoom: 1;
-	-moz-opacity: 1;
-	opacity:1;
-	filter: alpha(opacity = 1);
+	-moz-opacity: 0.3;
+	opacity:0.3;
+	filter: alpha(opacity = 0,3);
 	overflow: auto;
 }
 #jwboxContactClose{
-        background: url() no-repeat -100px -105px;
+        background: url() no-repeat -190px -115px;
         position:absolute;
-        top:0px;
+        top:1px;
         right:-7px;
         width:28px;
         height:22px;
@@ -37,4 +37,15 @@
         webkit-box-sizing: content-box;
         -moz-box-sizing: content-box;
         box-sizing: content-box;
+}
+.jwbox_html
+{
+  z-index:7000;
+  position:relative;
+  border:0;
+  border-left:7px solid #2b2b2b;
+  border-right:7px solid #2b2b2b;
+  padding:0px 15px;
+  vertical-align:top;
+  -webkit-overflow-scrolling: touch;
 }
