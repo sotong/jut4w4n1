@@ -1,0 +1,3435 @@
+1
+00:00:02,040 --> 00:00:04,110
+Kau sedang diawasi.
+
+2
+00:00:04,110 --> 00:00:06,790
+Pemerintah memiliki sistem rahasia...
+
+3
+00:00:06,800 --> 00:00:11,010
+Mesin yang memata-mataimu setiap jam setiap harinya.
+
+4
+00:00:11,020 --> 00:00:13,680
+Aku merancang mesin itu untuk
+mendeteksi aksi teror,...
+
+5
+00:00:13,690 --> 00:00:15,540
+...tapi mesin melihat segalanya...
+
+6
+00:00:15,540 --> 00:00:18,740
+Kejahatan kekerasan yang melibatkan orang-orang biasa.
+
+7
+00:00:18,740 --> 00:00:21,740
+Pemerintah menganggap mereka tidak relevan.
+
+8
+00:00:21,740 --> 00:00:23,630
+Kami tidak.
+
+9
+00:00:23,630 --> 00:00:28,630
+Diburu oleh aparat, kami bekerja secara rahasia.
+
+10
+00:00:28,630 --> 00:00:30,380
+Kau tidak akan menemukan kami.
+
+11
+00:00:30,390 --> 00:00:32,800
+Tapi korban atau pelaku,...
+
+12
+00:00:32,810 --> 00:00:36,090
+...jika nomormu muncul, kami akan menemukanmu.
+
+13
+00:00:36,090 --> 00:00:38,610
+PERSON OF INTEREST
+Season 1 Episode 19
+Trojan Horse
+
+14
+00:00:38,610 --> 00:00:39,460
+Sync and corrections by n17t01 - www.addic7ed.com
+Diterjemahkan oleh taufik386 - IDFL.us
+
+15
+00:00:39,460 --> 00:00:41,350
+Justin Lee tewas, pak.
+
+16
+00:00:41,350 --> 00:00:43,010
+Dan sekarang eksekutif itu mulai...
+
+17
+00:00:43,020 --> 00:00:44,600
+...menyelidiki mengenai kecelakaannya.
+
+18
+00:00:44,600 --> 00:00:46,220
+Dilihat dari dirinya, dia tidak akan berhenti.
+
+19
+00:00:46,220 --> 00:00:48,970
+Kalau begitu pastikan untuk menghentikannya.
+
+20
+00:00:57,560 --> 00:00:59,650
+Strategi menarik, Tn. Elias.
+
+21
+00:00:59,650 --> 00:01:01,770
+Bisa jelaskan?
+
+22
+00:01:01,770 --> 00:01:06,120
+Mencoba belajar untuk menang 
+dari ketidakuntungan.
+
+23
+00:01:06,120 --> 00:01:09,960
+Kurasa kita bicarakan hal
+lebih dari sekedar catur.
+
+24
+00:01:09,960 --> 00:01:14,600
+Benteng dan ksatria, bidak berharga.
+
+25
+00:01:14,600 --> 00:01:18,230
+Asiste Jaksa Wilayah dan Detektif Szymanski.
+
+26
+00:01:18,230 --> 00:01:23,050
+Kematian mereka menguntungkanmusuhmu, Peter Yogorov.
+
+27
+00:01:23,060 --> 00:01:27,260
+Bagus sekali, Harold.
+
+28
+00:01:27,260 --> 00:01:28,980
+Dan aku tahu ada beberapa...
+
+29
+00:01:28,980 --> 00:01:31,060
+...temanmu di dalam...
+
+30
+00:01:31,060 --> 00:01:33,310
+...telah dipindahkan ke tempat lain.
+
+31
+00:01:39,370 --> 00:01:42,410
+Siapa yang akan kau hadapi?
+
+32
+00:01:42,410 --> 00:01:45,110
+Mafia Rusia? HR?
+
+33
+00:01:47,910 --> 00:01:51,150
+Hantu.
+
+34
+00:01:51,150 --> 00:01:54,590
+Seseorang yang sangat ingin kuidentifikasi.
+
+35
+00:01:54,590 --> 00:01:55,820
+Dari papan ini, aku lihat...
+
+36
+00:01:55,820 --> 00:01:58,040
+...hasilnya adalah sebuah kepastian.
+
+37
+00:02:00,510 --> 00:02:03,430
+Jangan meremehkanku dulu, Harold.
+
+38
+00:02:05,930 --> 00:02:08,930
+Mungkin aku masih punya cara lain.
+
+39
+00:02:08,940 --> 00:02:11,050
+Sampaikan salamku pada John.
+
+40
+00:02:41,130 --> 00:02:42,880
+Sudah merindukanku, Finch?
+
+41
+00:02:42,890 --> 00:02:44,890
+Ini bukan telepon beramah-tamah Tn. Reese.
+
+42
+00:02:44,890 --> 00:02:47,090
+Aku ingin memberitahumu kita
+punya nomor baru.
+
+43
+00:02:47,090 --> 00:02:48,760
+Aku akan kembali kesana.
+
+44
+00:02:48,760 --> 00:02:50,760
+Tidak, kau melacak nomor juga, prioritas utama.
+
+45
+00:02:50,760 --> 00:02:53,710
+Tetaplah disana./
+Jadi, siapa kali ini?
+
+46
+00:02:53,710 --> 00:02:56,730
+Monica Jacobs, Wakil Direktur Senior Strategi dan Sistem.
+
+47
+00:02:56,730 --> 00:02:59,600
+...di Rylatech, salah satu perusahaan jaringan
+terkemuka di Amerika.
+
+48
+00:02:59,600 --> 00:03:01,400
+Dan keamanannya ketat,...
+
+49
+00:03:01,400 --> 00:03:04,940
+...menggunakan chip pelacak RFID(=identifikasi
+frekuensi radio) di tanda pengenal karyawan.
+
+50
+00:03:04,940 --> 00:03:08,940
+Jadi bagaimana kau akan mendekatinya?
+
+51
+00:03:08,950 --> 00:03:11,160
+Aku punya penyamaran yang sempurna.
+
+52
+00:03:13,230 --> 00:03:15,230
+Dia bintang yang menanjak
+di dalam dunia teknologi.
+
+53
+00:03:15,230 --> 00:03:18,620
+Artikel profil di blog
+dan majalah nasional.
+
+54
+00:03:20,840 --> 00:03:23,240
+Lumayan untuk gadis desa dari Indiana.
+
+55
+00:03:23,240 --> 00:03:26,590
+Penggila teknologi dan pemrogram kode.
+Kedengarannya tidak terlalu berbahaya.
+
+56
+00:03:26,600 --> 00:03:27,910
+Nn. Jacobs adalah eksekutif teratas...
+
+57
+00:03:27,910 --> 00:03:29,260
+...dalam bisnis milyaran dolar...
+
+58
+00:03:29,270 --> 00:03:30,850
+...dimana perusahaan spionase merajalela.
+
+59
+00:03:30,850 --> 00:03:33,520
+Ancaman bisa datang dari manapun.
+
+60
+00:03:35,550 --> 00:03:37,890
+Bagaimana jadwalku, Jerome?/
+Oh, cukup sibuk.
+
+61
+00:03:37,890 --> 00:03:39,690
+Tovo pukul 10:00,
+New Technologies pukul 11:00,...
+
+62
+00:03:39,690 --> 00:03:41,260
+...dan toko bunga menghubungi lagi...
+
+63
+00:03:41,260 --> 00:03:43,110
+...menanyankan alamat yang benar untuk keluarga Lee.
+
+64
+00:03:43,110 --> 00:03:44,400
+Apa kita harus mengabaikannya?
+
+65
+00:03:44,400 --> 00:03:46,310
+Tidak, akan kuurus sendiri.
+
+66
+00:03:46,320 --> 00:03:48,450
+Tunggu...
+
+67
+00:03:48,450 --> 00:03:49,600
+Itu prosesor...
+
+68
+00:03:49,600 --> 00:03:51,570
+...Centra-6 yang baru?/Ya.
+
+69
+00:03:51,570 --> 00:03:53,070
+Kukira mereka tidak akan
+merilisnya sampai tahun depan.
+
+70
+00:03:53,070 --> 00:03:54,960
+Apa pengolahan variabelnya segesit
+seperti yang mereka katakan?
+
+71
+00:03:54,960 --> 00:03:57,040
+Oh, ada kemajuan besar dalam hal...
+
+72
+00:03:57,040 --> 00:03:58,630
+...pemakaian energi,
+keseluruhannya sangat efisien...
+
+73
+00:03:58,630 --> 00:04:00,040
+Aku tahu itu.
+
+74
+00:04:00,050 --> 00:04:01,710
+Siapapun yang mengatakan tablet
+dengan core tinggi itu terlalu berlebihan...
+
+75
+00:04:01,710 --> 00:04:04,080
+Tidak tahu bagaimana menggunakan
+manfaat arsitektur CPU secara menyeluruh.
+
+76
+00:04:04,080 --> 00:04:05,670
+Aku setuju.
+
+77
+00:04:07,420 --> 00:04:09,840
+Senang bertemu denganmu...
+
+78
+00:04:09,840 --> 00:04:11,810
+Harold.
+
+79
+00:04:11,810 --> 00:04:14,460
+IT beruntung memilikimu.
+
+80
+00:04:19,230 --> 00:04:22,230
+Aku yakin proposal solusi jaringan
+kita sudah menjelaskan semuanya.
+
+81
+00:04:22,240 --> 00:04:24,150
+Penghala dan penghubung Rylatech...
+
+82
+00:04:24,150 --> 00:04:26,650
+...memiliki rating keandalan 99.7%.
+
+83
+00:04:26,660 --> 00:04:28,320
+Atas dasar apa?
+
+84
+00:04:28,320 --> 00:04:29,990
+Tes uji independen...
+
+85
+00:04:29,990 --> 00:04:32,940
+...bersama tiga dari lima 
+kompetitor utama.
+
+86
+00:04:32,950 --> 00:04:34,530
+Firmware kita mengupgrade sendiri.
+
+87
+00:04:34,530 --> 00:04:37,750
+Seperti yang lainnya, termasuk Censatek...
+
+88
+00:04:37,750 --> 00:04:39,650
+...yang memiliki pastri yang lebih enak.
+
+89
+00:04:39,650 --> 00:04:41,540
+Begini, siapa nama anda tadi?
+
+90
+00:04:41,540 --> 00:04:45,170
+Ross Haskell, Kepala Pengembangan Produk.
+
+91
+00:04:45,170 --> 00:04:47,760
+Ross, Wakil Direktur kami kesini bukan 
+untuk mendengarkan status yang tidak pasti.
+
+92
+00:04:47,760 --> 00:04:50,330
+Mengapa kami harus menggunakan produk Rylatech?
+
+93
+00:04:50,330 --> 00:04:52,510
+Karena kau sudah menggunakannya.
+
+94
+00:04:54,170 --> 00:04:55,880
+Kami menghabiskan...
+
+95
+00:04:55,890 --> 00:04:59,270
+...15 tahun terakhir membangun
+konsistensi internet,...
+
+96
+00:04:59,270 --> 00:05:00,520
+...dan komponen terbaru kami...
+
+97
+00:05:00,520 --> 00:05:02,220
+...akan sesuai standar hingga 15 tahun berikutnya.
+
+98
+00:05:02,230 --> 00:05:03,940
+Bahkan Kementrian Pertahanan...
+
+99
+00:05:03,940 --> 00:05:06,690
+...mempercayakan kami mengurus
+data mereka dari poin A ke poin B.
+
+100
+00:05:06,700 --> 00:05:09,560
+Tapi, jika anda cuma ingin satu alasan,...
+
+101
+00:05:09,570 --> 00:05:12,280
+Martin Baxter.
+
+102
+00:05:12,290 --> 00:05:14,120
+Dia memulai Rylatech di garasi
+orang tuanya...
+
+103
+00:05:14,120 --> 00:05:15,870
+...dan membangunnya menjadi
+seperti ini.
+
+104
+00:05:15,870 --> 00:05:18,790
+Penentuan itu, kami semua memilikinya.
+
+105
+00:05:18,790 --> 00:05:21,740
+Kami tidak akan berhenti
+bekerja keras untuk anda.
+
+106
+00:05:21,740 --> 00:05:25,050
+Atau, pergilah ke Censatek,...
+
+107
+00:05:25,050 --> 00:05:28,880
+...yang dikenal menawarkan uang suap
+pada jaringan eksekutif...
+
+108
+00:05:28,880 --> 00:05:31,170
+...bersama dengan pastri mereka yang enak.
+
+109
+00:05:33,220 --> 00:05:37,210
+Bagaimana kau tahu tentang uang suap di Censatek?
+
+110
+00:05:37,210 --> 00:05:39,680
+Aku punya mata-mata di mana-mana, Martin.
+
+111
+00:05:39,680 --> 00:05:42,430
+Jika mereka berusaha memintamu
+ untuk pindah kerja,...
+
+112
+00:05:42,430 --> 00:05:45,150
+...beri aku kesempatan untuk
+mengungguli penawaran mereka.
+
+113
+00:05:45,150 --> 00:05:48,940
+Aku tidak bisa bayangkan bagaimana
+perusahaan ini tanpamu, Monica.
+
+114
+00:05:48,940 --> 00:05:51,070
+Baiklah, Ross.
+
+115
+00:05:55,490 --> 00:05:57,160
+Terney, kudengar kau menyelidiki...
+
+116
+00:05:57,160 --> 00:05:58,850
+...pembunuhan Szymanski dan Asisten Jaksa Wilayah.
+
+117
+00:05:58,850 --> 00:06:00,660
+Yeah./Ada petunjuk?
+
+118
+00:06:00,670 --> 00:06:02,880
+Oh, tidak ada yang solid.
+Tapi kita akan terus mencari.
+
+119
+00:06:02,890 --> 00:06:06,800
+Bagaimana dengan utusan Walikota
+yang terluka itu... Quinn?
+
+120
+00:06:06,810 --> 00:06:08,520
+Yang dia ingat, penembak mengenakan topeng...
+
+121
+00:06:08,520 --> 00:06:10,590
+...dan kabur lewat pintu belakang.
+
+122
+00:06:10,590 --> 00:06:12,980
+Terus informasikan padaku./Tentu.
+
+123
+00:06:13,810 --> 00:06:15,110
+Carter.
+
+124
+00:06:15,110 --> 00:06:16,530
+Cuma ingin periksa keadaan, Detektif,...
+
+125
+00:06:16,530 --> 00:06:17,980
+...dan ingin mengatakan aku turut prihatin.
+
+126
+00:06:17,980 --> 00:06:19,820
+Aku tahu kalau Detektif Szymanski adalah teman.
+
+127
+00:06:19,820 --> 00:06:22,240
+Terima kasih, Finch. Aku menghargainya.
+
+128
+00:06:22,240 --> 00:06:24,710
+Jika ada sesuatu yang bisa
+kulakukan untukmu...
+
+129
+00:06:26,040 --> 00:06:29,210
+Akan kuberitahu kau. Sampai jumpa.
+
+130
+00:06:29,210 --> 00:06:30,910
+Hei.
+
+131
+00:06:32,750 --> 00:06:35,720
+Aku tahu kau tidak ingin
+bicara padaku.
+
+132
+00:06:35,720 --> 00:06:39,890
+Tapi, dengar, tentang Szymanski.../
+Tak ada yang perlu dibicarakan.
+
+133
+00:06:39,890 --> 00:06:42,390
+Kecuali kau siap untuk mengatakan
+siapa informanmu...
+
+134
+00:06:42,390 --> 00:06:44,270
+...yang membuat Symanzki terbunuh.
+
+135
+00:06:44,280 --> 00:06:46,560
+Joss.../Seperti yang kubilang.
+
+136
+00:06:51,650 --> 00:06:53,650
+Kau baik-baik saja?
+
+137
+00:06:53,650 --> 00:06:57,070
+Beecher mendapat informasi tentang
+uang korup yang ditemukan pada Szymanski.
+
+138
+00:06:57,070 --> 00:07:00,770
+Kubuktikan itu bukan uangnya,
+Szymanski malah mati?
+
+139
+00:07:00,780 --> 00:07:03,990
+Aku harus cari tahu apa Beecher
+menjebaknya, Fusco.
+
+140
+00:07:04,000 --> 00:07:06,650
+Akan kulihat apa yang bisa kutemukan./Baiklah.
+
+141
+00:07:12,400 --> 00:07:14,090
+Selamat malam, Tn. Reese.
+
+142
+00:07:14,090 --> 00:07:16,070
+Apa kau sudah berhubungan
+dengan mangsamu?
+
+143
+00:07:16,070 --> 00:07:17,740
+Belum.
+
+144
+00:07:17,740 --> 00:07:19,910
+Kau masih memeriksa mangsamu?
+
+145
+00:07:19,910 --> 00:07:21,980
+Ya. Terima kasih pada chip
+yang ada di kartu pengenal,...
+
+146
+00:07:21,980 --> 00:07:24,520
+...aku bisa melihat lokasi setiap
+karyawan di dalam gedung.
+
+147
+00:07:24,520 --> 00:07:26,850
+Menemukan ancaman yang berpotensi?
+
+148
+00:07:26,850 --> 00:07:29,600
+Sejauh ini, kerja lembur...
+
+149
+00:07:29,610 --> 00:07:31,810
+...dan konsumsi seafood mentah.
+
+150
+00:07:31,810 --> 00:07:36,480
+Nn. Jacobs berdedikasi, berhasrat,...
+
+151
+00:07:36,480 --> 00:07:39,130
+...secara teknis dia cerdik.
+
+152
+00:07:39,130 --> 00:07:42,670
+Kau suka dengan nomor ini, 'kan, Finch?
+
+153
+00:07:42,670 --> 00:07:44,270
+Manusia bisa mengenali kualitas...
+
+154
+00:07:44,270 --> 00:07:46,540
+...manusia lainnya tanpa...
+
+155
+00:07:49,290 --> 00:07:51,160
+Dia meninggalkan kantornya.
+
+156
+00:08:09,960 --> 00:08:11,800
+Aneh. Aku mengikutinya...
+
+157
+00:08:11,800 --> 00:08:13,150
+...ke lantai R&D(=Riset dan Pengembangan).
+
+158
+00:08:13,150 --> 00:08:15,570
+Dia ada di ruang penyimpanan komputer.
+
+159
+00:08:15,570 --> 00:08:17,820
+Tampaknya sedang mencari sesuatu.
+
+160
+00:08:17,820 --> 00:08:19,140
+Seperti apa?
+
+161
+00:08:19,140 --> 00:08:21,100
+Aku tidak tahu.
+
+162
+00:08:52,020 --> 00:08:55,170
+Mengapa seseorang di posisi Nn. Jacobs...
+
+163
+00:08:55,170 --> 00:08:57,470
+...menyelinap mencuri file komputer...
+
+164
+00:08:57,480 --> 00:08:59,310
+...dan sembunyi dari keamanan perusahaan?
+
+165
+00:08:59,310 --> 00:09:02,980
+Aku tahu kau suka wanita ini, Finch.
+
+166
+00:09:02,980 --> 00:09:06,070
+Tapi jika Agensi mengajarkanku satu hal...
+
+167
+00:09:06,070 --> 00:09:08,350
+Yaitu mata-mata yang paling efektif...
+
+168
+00:09:08,350 --> 00:09:10,990
+...adalah orang yang tidak pernah
+kau curigai.
+
+169
+00:09:10,990 --> 00:09:13,710
+Penganut setia.
+
+170
+00:09:14,910 --> 00:09:16,190
+Tn. Reese?
+
+171
+00:09:18,500 --> 00:09:21,830
+Tn. Reese, kau disana?/
+Kuhubungi kau lagi nanti, Finch.
+
+172
+00:09:23,530 --> 00:09:26,040
+Halo, Shaw.
+
+173
+00:09:44,960 --> 00:09:47,850
+Aku baru saja berpikir
+akan menemukanmu disini.
+
+174
+00:09:47,850 --> 00:09:49,770
+Dan kau memutuskan untuk singgah?
+
+175
+00:09:49,770 --> 00:09:51,640
+Pengintaian bisa sedikit membosankan.
+
+176
+00:09:51,640 --> 00:09:54,140
+Dan apa yang membuatmu berpikir
+kalau aku ingin ditemani?
+
+177
+00:09:54,140 --> 00:09:57,470
+Saat aku menembakmu, atau saat aku
+melucutimu di pemakaman?
+
+178
+00:09:57,480 --> 00:09:59,230
+Aku keras kepala.
+
+179
+00:09:59,230 --> 00:10:01,310
+Atau mungkin kau cuma tidak
+bisa melihat petunjuk.
+
+180
+00:10:06,900 --> 00:10:09,200
+Darlene dan Evan Cole.
+
+181
+00:10:09,200 --> 00:10:11,370
+Orang tua mantan rekanmu.
+
+182
+00:10:11,370 --> 00:10:13,260
+Rekan yang sudah mati.
+
+183
+00:10:13,260 --> 00:10:15,480
+Pemerintah menjebak Cole
+sebagai teroris domestik.
+
+184
+00:10:15,480 --> 00:10:17,340
+Kurasa mungkin kau kembali kesini...
+
+185
+00:10:17,350 --> 00:10:19,260
+...untuk meluruskan masalah itu.
+
+186
+00:10:19,260 --> 00:10:21,000
+Bagaimana kau tahu itu?
+
+187
+00:10:21,000 --> 00:10:23,130
+Itulah pekerjaanku.
+
+188
+00:10:27,420 --> 00:10:28,970
+Control membunuh putra mereka.
+
+189
+00:10:28,970 --> 00:10:31,760
+Mereka tidak perlu memiliki
+kenangan tentang dia.
+
+190
+00:10:31,760 --> 00:10:33,960
+Bahkan CIA tidak akan berbuat serendah itu.
+
+191
+00:10:33,960 --> 00:10:36,230
+Mereka hanya menutup-tutupi kesalahan mereka...
+
+192
+00:10:36,230 --> 00:10:38,430
+...dan memberinya penghargaan di dinding.
+
+193
+00:10:38,430 --> 00:10:43,020
+Mantan bosmu membunuh
+Cole karena menemukan kebenaran,...
+
+194
+00:10:43,020 --> 00:10:47,070
+...dan tak ada yang menghentikan
+mereka untuk membunuh orang tuanya juga.
+
+195
+00:10:47,080 --> 00:10:49,990
+Tapi kau sudah tahu ini.
+
+196
+00:10:50,000 --> 00:10:52,730
+Itu sebabnya kau ada di luar sini
+bukan di dalam sana.
+
+197
+00:10:55,370 --> 00:10:58,750
+Lain kali kalau kau ingin udara segar...
+
+198
+00:11:00,090 --> 00:11:03,370
+...pilih tempat yang berbeda.
+
+199
+00:11:03,380 --> 00:11:06,080
+Seorang teman pernah memberitahku,...
+
+200
+00:11:06,080 --> 00:11:08,760
+...di dalam pekerjaan kita,...
+
+201
+00:11:08,760 --> 00:11:11,720
+...kita berjalan dalam kegelapan.
+
+202
+00:11:11,720 --> 00:11:14,770
+Tapi bukan berarti kita harus
+berjalan sendirian.
+
+203
+00:11:25,030 --> 00:11:29,400
+Aku tidak yakin sumber masalahmu adalah virus.
+
+204
+00:11:29,400 --> 00:11:32,450
+Tapi sepertinya...
+
+205
+00:11:32,450 --> 00:11:35,210
+Mochachino.
+
+206
+00:11:39,210 --> 00:11:40,990
+Aku akan mencarikanmu keyboard baru.
+
+207
+00:11:41,000 --> 00:11:42,460
+Terima kasih.
+
+208
+00:11:55,810 --> 00:11:58,600
+Apa sebenarnya yang kau curi?
+
+209
+00:11:58,600 --> 00:12:01,900
+Apa yang kau lakukan di kantor Nn. Jacobs?
+
+210
+00:12:01,900 --> 00:12:03,820
+Update keamanan.
+
+211
+00:12:03,820 --> 00:12:05,990
+Kita baru melakukan update minggu lalu.
+
+212
+00:12:05,990 --> 00:12:07,270
+Kita baru saja menemukan ancaman tambahan...
+
+213
+00:12:07,270 --> 00:12:08,810
+...pada jaringan yang membutuhkan penanganan.
+
+214
+00:12:08,810 --> 00:12:11,160
+Ancaman apa itu kira-kira?
+
+215
+00:12:13,240 --> 00:12:16,980
+Rootkit mode Kernel kompleks
+yang memadamkan keamanan subsistem...
+
+216
+00:12:16,980 --> 00:12:18,670
+...melalui applet penting,
+dan aku yakin tidak perlu...
+
+217
+00:12:18,670 --> 00:12:21,150
+...menjelaskan seberapa berbahayanya itu...
+
+218
+00:12:21,150 --> 00:12:23,250
+...jika update tidak diinstal.
+
+219
+00:12:26,010 --> 00:12:28,370
+Selesai.
+
+220
+00:12:31,800 --> 00:12:33,850
+Terima kasih kembali.
+
+221
+00:12:42,640 --> 00:12:44,890
+Hei./Hei.
+
+222
+00:12:46,730 --> 00:12:50,980
+Apa yang kau pikirkan?/
+Mereka kehabisan tisu.
+
+223
+00:12:50,980 --> 00:12:52,570
+Aku bicara tentang kau
+menolak untuk mengatakan...
+
+224
+00:12:52,570 --> 00:12:56,200
+...siapa yang memberimu informasi
+tentang uang korup Szymanski.
+
+225
+00:12:56,200 --> 00:12:59,070
+Bonnya ditandai oleh federal.
+
+226
+00:12:59,070 --> 00:13:01,540
+Ditemukan dalam penyergapan di toko kecil milik Elias.
+
+227
+00:13:01,540 --> 00:13:02,790
+Jadi?
+
+228
+00:13:02,790 --> 00:13:05,250
+Uang itu tidak mungkin muncul
+jadi barang bukti begitu saja.
+
+229
+00:13:05,250 --> 00:13:08,210
+Jadi mungkin itu perbuatan anak buah Elias...
+
+230
+00:13:08,220 --> 00:13:10,370
+...atau beberapa polisi korup yang melakukannya.
+
+231
+00:13:10,370 --> 00:13:12,540
+Yang manapun itu, sungguh memuakkan.
+
+232
+00:13:14,220 --> 00:13:16,060
+Maksudmu aku ada hubungannya
+dengan hal itu?
+
+233
+00:13:16,060 --> 00:13:19,880
+Maksudku Szymanski dijebak.
+
+234
+00:13:19,880 --> 00:13:23,480
+Dan dengan kebungkamanmu, aku mulai
+berpikir kau mungkin terlibat.
+
+235
+00:13:25,100 --> 00:13:26,730
+Aku punya teman yang bekerja...
+
+236
+00:13:26,740 --> 00:13:28,430
+...di kantor lamamu, Fusco.
+
+237
+00:13:28,440 --> 00:13:30,650
+Aku dengar tentang anggotamu.
+
+238
+00:13:30,660 --> 00:13:32,440
+Dua di penjara, dan satu menghilang,...
+
+239
+00:13:32,440 --> 00:13:35,780
+...dan kau menyebutku kotor?
+
+240
+00:13:35,780 --> 00:13:38,230
+Biar kuperjelas.
+
+241
+00:13:38,230 --> 00:13:41,750
+Jauhi Carter./Atau apa?
+
+242
+00:13:47,400 --> 00:13:48,840
+Apa yang terjadi, kawan?
+
+243
+00:13:48,840 --> 00:13:51,290
+Itu pertanyaan yang bagus.
+
+244
+00:13:54,600 --> 00:13:57,550
+Apa yang terjadi?
+
+245
+00:14:07,860 --> 00:14:09,930
+Aku bisa lakukan itu untukmu, Monica.
+
+246
+00:14:09,930 --> 00:14:11,560
+Oh, tidak usah. Aku saja.
+
+247
+00:14:11,560 --> 00:14:13,700
+Kau ingin aku memesankanmu makan siang?
+
+248
+00:14:13,700 --> 00:14:16,200
+Tidak, aku ada pertemuan.
+
+249
+00:14:16,200 --> 00:14:17,530
+Aku lihat tidak ada jadwal.
+
+250
+00:14:17,540 --> 00:14:19,120
+Oh, itu hal yang tidak penting.
+
+251
+00:14:19,120 --> 00:14:21,540
+Aku merasa tidak perlu
+menuliskannya di kalender.
+
+252
+00:14:30,630 --> 00:14:32,950
+Tn. Reese, dimana kau?/
+Dalam perjalanan.
+
+253
+00:14:32,950 --> 00:14:34,720
+Kau mengetahui apa yang direncanakan nomor kita?
+
+254
+00:14:34,720 --> 00:14:36,550
+Aku yakin Nn. Jacobs
+hendak menyerahkan...
+
+255
+00:14:36,560 --> 00:14:38,760
+...informasi penting.
+
+256
+00:14:38,760 --> 00:14:40,420
+Jadi Monica....
+
+257
+00:14:40,430 --> 00:14:42,960
+Atau mungkin tidak.
+Akan kuhubungkan obrolan ini padamu.
+
+258
+00:14:42,960 --> 00:14:44,180
+...apa yang begitu penting hingga aku harus...
+
+259
+00:14:44,180 --> 00:14:45,480
+...membatalkan makan siangmu
+dan bertemu denganmu disini?
+
+260
+00:14:45,480 --> 00:14:47,350
+Justin Lee.
+
+261
+00:14:47,350 --> 00:14:49,470
+Dia salah satu teknisimu di R&D.
+
+262
+00:14:49,470 --> 00:14:51,770
+Yeah, dia tewas dalam kecelakaan seminggu yang lalu.
+
+263
+00:14:51,770 --> 00:14:52,970
+Kejadian yang tragis.
+
+264
+00:14:52,970 --> 00:14:54,800
+Aku menemukan sesuatu yang menarik perhatian...
+
+265
+00:14:54,810 --> 00:14:57,110
+...saat aku mengirimkan bunga
+ke orang tuanya,...
+
+266
+00:14:57,110 --> 00:14:58,990
+...penjual bunga bilang tak ada
+yang bernama Lee...
+
+267
+00:14:58,990 --> 00:15:00,410
+...yang tinggal di alamat itu.
+
+268
+00:15:00,410 --> 00:15:01,830
+Orang pindah dan mengubah alamat mereka.
+
+269
+00:15:01,830 --> 00:15:04,780
+Aku sudah periksa. Orang tuanya tidak
+pernah tinggal disana.
+
+270
+00:15:04,780 --> 00:15:06,820
+Bukan hanya itu. Semua hal tentang Lee,...
+
+271
+00:15:06,820 --> 00:15:11,370
+...dari informasi kontaknya hingga
+ pengalaman kerjanya adalah kebohongan.
+
+272
+00:15:11,370 --> 00:15:13,820
+Kurasa dia mungkin mata-mata.
+
+273
+00:15:13,830 --> 00:15:15,660
+Mata-mata? Untuk siapa?
+
+274
+00:15:15,660 --> 00:15:18,430
+Bisa saja dari kompetitor kita.
+
+275
+00:15:18,430 --> 00:15:22,330
+Itu sebabnya aku tidak ingin
+membicarakan ini di kantor.
+
+276
+00:15:22,330 --> 00:15:25,100
+Lalu, kutemukan ini.
+
+277
+00:15:27,000 --> 00:15:30,190
+Dia memberikan flash drive yang 
+dia gunakan semalam begitu saja.
+
+278
+00:15:30,190 --> 00:15:32,690
+Aku menemukan komputer Lee,
+menyalin file-nya...
+
+279
+00:15:32,690 --> 00:15:34,510
+...dan menemukan beberapa
+surel yang dienkripsi...
+
+280
+00:15:34,510 --> 00:15:35,780
+...yang dikirim di hari dia meninggal.
+
+281
+00:15:35,780 --> 00:15:37,730
+Aku sudah coba, tapi tidak bisa membukanya.
+
+282
+00:15:37,730 --> 00:15:39,020
+Siapa lagi yang tahu soal ini?
+
+283
+00:15:39,020 --> 00:15:40,850
+Cuma kau.
+
+284
+00:15:40,850 --> 00:15:42,540
+Mengetahui dia bekerja didivisimu,...
+
+285
+00:15:42,540 --> 00:15:44,040
+...kupikir mungkin kau perlu tahu ini.
+
+286
+00:15:44,040 --> 00:15:45,740
+Ya. Akan kuperiksa.
+
+287
+00:15:45,740 --> 00:15:48,790
+Lalu kita akan memberitahu 
+orang tua itu bersama-sama, oke?
+
+288
+00:15:48,790 --> 00:15:50,630
+Dan, Monica...
+
+289
+00:15:50,630 --> 00:15:53,880
+Terima kasih.
+
+290
+00:15:53,880 --> 00:15:56,370
+Aku harus melihat surel di drive itu.
+
+291
+00:15:56,370 --> 00:15:58,970
+Aku harus membuat alasan untu
+bisa masuk ke kantornya.
+
+292
+00:15:58,970 --> 00:16:01,800
+Aku punya ide yang lebih baik.
+
+293
+00:16:01,810 --> 00:16:03,510
+Maaf.
+
+294
+00:16:14,400 --> 00:16:16,150
+Senang melihatmu kembali.
+
+295
+00:16:25,400 --> 00:16:28,160
+Terima kasih sudah mau bertemu denganku Tn. Quinn.
+
+296
+00:16:28,170 --> 00:16:29,920
+Bagaimana bahunya?
+
+297
+00:16:29,920 --> 00:16:33,570
+Semakin baik dari hari ke hari.
+
+298
+00:16:33,570 --> 00:16:35,240
+Kau terdengar khawatir di telepon.
+
+299
+00:16:35,240 --> 00:16:36,840
+Ada beberapa pertanyaan tentang...
+
+300
+00:16:36,840 --> 00:16:38,840
+...investigasi Szymanski.
+
+301
+00:16:38,840 --> 00:16:40,880
+Seperti, siapa sumberku yang 
+memberitahu soal uang itu.
+
+302
+00:16:40,880 --> 00:16:43,600
+Dan kau bilang?/Tidak ada.
+
+303
+00:16:43,600 --> 00:16:46,880
+Kau menyuruhku untuk tidak 
+melibatkan namamu, dan kulakukan.
+
+304
+00:16:46,890 --> 00:16:50,690
+Masalahnya adalah, aku jadi heran sendiri.
+
+305
+00:16:50,690 --> 00:16:52,220
+Dari mana informasi itu berasal?
+
+306
+00:16:52,220 --> 00:16:55,140
+Informasinya terpercaya?
+ Mengapa itu jadi masalah penting?
+
+307
+00:16:55,140 --> 00:16:58,260
+Reputasi detektif yang sudah meninggal dipertaruhkan.
+
+308
+00:16:58,260 --> 00:17:00,600
+Itu penting.
+
+309
+00:17:00,600 --> 00:17:02,120
+Cal, dalam posisiku...
+
+310
+00:17:02,120 --> 00:17:04,650
+...aku terus menerus menawarkan
+informasi.
+
+311
+00:17:04,650 --> 00:17:06,290
+Dan alasan orang...
+
+312
+00:17:06,290 --> 00:17:09,870
+...datang padaku adalah karena mereka
+tahu aku akan menjaga kepercayaan mereka.
+
+313
+00:17:09,870 --> 00:17:12,490
+Benar.
+
+314
+00:17:15,830 --> 00:17:19,470
+Begini...
+
+315
+00:17:19,470 --> 00:17:24,120
+...informasinya datang dari salah
+satu anak buah Elias.
+
+316
+00:17:24,120 --> 00:17:26,840
+Semenjak Elias dipenjara,
+anak buahnya berontak.
+
+317
+00:17:26,840 --> 00:17:30,480
+Orang ini cuma muak melihat
+ Szymanski menerima bayaran...
+
+318
+00:17:30,480 --> 00:17:33,130
+...sementara dia tidak
+ mendapatkan apa-apa lagi.
+
+319
+00:17:33,130 --> 00:17:35,820
+Aku bisa saja memberikan informasi
+itu kepada orang lain,...
+
+320
+00:17:35,820 --> 00:17:40,240
+...tapi aku ingin anak baptisku yang
+menerima pujian.
+
+321
+00:17:40,240 --> 00:17:44,320
+Aku bayangkan siapapun yang meragukanmu
+pasti mereka hanya iri.
+
+322
+00:17:44,330 --> 00:17:47,530
+Jangan biarkan mereka mempengaruhimu.
+
+323
+00:17:47,530 --> 00:17:49,530
+Diantara kita sudah jelas?
+
+324
+00:17:49,530 --> 00:17:51,080
+Yeah.
+
+325
+00:17:51,080 --> 00:17:52,950
+Terima kasih, Tn. Quinn.
+
+326
+00:17:54,370 --> 00:17:56,540
+Kapan saja.
+
+327
+00:18:04,760 --> 00:18:07,160
+Dia akan menjadi masalah?
+
+328
+00:18:09,720 --> 00:18:12,550
+Mudah-mudahan tidak.
+
+329
+00:18:18,780 --> 00:18:21,230
+Jadi Monica bukan memata-matai.
+
+330
+00:18:21,230 --> 00:18:23,530
+Dia memburu mata-mata.
+
+331
+00:18:23,530 --> 00:18:25,180
+Yang artinya ancaman berasal dari...
+
+332
+00:18:25,180 --> 00:18:27,200
+...siapapun yang sedang dimata-matai Lee.
+
+333
+00:18:27,200 --> 00:18:30,900
+Aku meminta Detektif Carter
+memeriksa kematiannya.
+
+334
+00:18:33,040 --> 00:18:36,230
+Ponsel Nn. Jacobs sedang disinkronkan.
+
+335
+00:18:36,230 --> 00:18:37,990
+Dia tidak melakukannya.
+
+336
+00:18:38,000 --> 00:18:39,800
+Lalu siapa?/Pertanyaan bagus.
+
+337
+00:18:39,800 --> 00:18:40,930
+Mereka menambahkan kontak, janji pertemuan,...
+
+338
+00:18:40,930 --> 00:18:42,430
+...panggilan telepon yang tidak pernah
+dia lakukan.
+
+339
+00:18:42,430 --> 00:18:44,250
+Tn. Reese, sesuatu yang buruk sedang terjadi.
+
+340
+00:18:52,390 --> 00:18:54,040
+Maaf, itu kantorku.
+
+341
+00:18:54,050 --> 00:18:55,510
+Anda harus menunggu disini.
+
+342
+00:18:55,510 --> 00:18:56,850
+Apa yang terjadi?
+
+343
+00:18:56,850 --> 00:18:58,760
+Aku menanyakanmu pertanyaan yang sama, Monica.
+
+344
+00:18:58,770 --> 00:19:01,400
+Tapi dari apa yang terlihat,
+jawabannya sudah jelas.
+
+345
+00:19:01,400 --> 00:19:03,020
+Keamanan menemukan rancangan...
+
+346
+00:19:03,020 --> 00:19:05,150
+...dan dokumen rahasia
+di komputermu.
+
+347
+00:19:05,160 --> 00:19:06,940
+Ross, sudah kubilang file
+itu dari Lee.
+
+348
+00:19:06,940 --> 00:19:08,440
+Lalu kenapa file itu disisipkan dalam surel...
+
+349
+00:19:08,440 --> 00:19:10,610
+...yang hendak kau kirimkan
+pada kompetitor kita?
+
+350
+00:19:10,610 --> 00:19:12,030
+Panggilan telepon, pertemuan.
+
+351
+00:19:12,030 --> 00:19:13,510
+Kau bertemu dengan orang lain.
+
+352
+00:19:13,520 --> 00:19:14,780
+Apa?
+
+353
+00:19:14,780 --> 00:19:16,500
+Lee bukan mata-mata. Tapi kau.
+
+354
+00:19:16,500 --> 00:19:19,420
+Itu tidak mungkin.
+Jerome tahu jadwalku.
+
+355
+00:19:19,420 --> 00:19:21,620
+Seharusnya aku mengatakan sesuatu Tn. Haskell.
+
+356
+00:19:21,620 --> 00:19:24,170
+Dia bersikap aneh belakangan ini,...
+
+357
+00:19:24,180 --> 00:19:25,410
+...mebuat jadwalnya sendiri,...
+
+358
+00:19:25,410 --> 00:19:26,760
+...membuat janji di luar jadwal yang ditentukan.
+
+359
+00:19:26,760 --> 00:19:28,180
+Jerome!
+
+360
+00:19:28,180 --> 00:19:29,580
+Aku minta maaf, Monica.
+
+361
+00:19:29,580 --> 00:19:31,750
+Aku tidak tahu kau ingin
+aku berkata apa.
+
+362
+00:19:31,750 --> 00:19:34,420
+Martin, dengar.../
+Monica, kumohon!
+
+363
+00:19:34,420 --> 00:19:36,640
+Keamanan akan mengantarmu keluar./
+Kau memecatku?
+
+364
+00:19:36,640 --> 00:19:37,850
+Saat ini juga,...
+
+365
+00:19:37,860 --> 00:19:39,590
+...dengan tuntutan sipil dan kriminal yang ditunda.
+
+366
+00:19:39,590 --> 00:19:41,270
+Martin, aku bekerja untukmu selama sepuluh tahun!
+
+367
+00:19:41,280 --> 00:19:43,810
+Kalau begitu kau harus mencari pengacara yang handal.
+
+368
+00:19:43,810 --> 00:19:45,140
+Lewat sini.
+
+369
+00:19:45,150 --> 00:19:47,450
+Ini salah.
+
+370
+00:19:47,450 --> 00:19:51,620
+Aku tidak mencuri apapun.
+Kalau kau ijinkan aku menjelaskannya...
+
+371
+00:19:51,620 --> 00:19:54,700
+Nn. Jacobs baru saja diberhentikan dari Rylatech.
+
+372
+00:19:54,710 --> 00:19:57,570
+Seseorang mungkin ingin membungkamnya.
+
+373
+00:19:57,580 --> 00:20:01,460
+Sayangnya mereka tidak akan
+berhenti sampai mereka melakukannya...
+
+374
+00:20:01,460 --> 00:20:03,330
+...untuk selamanya.
+
+375
+00:20:14,850 --> 00:20:18,220
+Selamat pagi Tn. Reese.
+Ada kabar dari Nn. Jacobs?
+
+376
+00:20:18,230 --> 00:20:20,330
+Ya.
+
+377
+00:20:20,330 --> 00:20:21,690
+Dia minum kopi,...
+
+378
+00:20:21,700 --> 00:20:23,200
+...tepat di depan Rylatech.
+
+379
+00:20:23,200 --> 00:20:24,750
+Firasatku mengatakan...
+
+380
+00:20:24,750 --> 00:20:26,260
+...dia tidak bisa menerima
+pemecatannya begitu saja.
+
+381
+00:20:26,270 --> 00:20:27,620
+Aku memeriksa semua file...
+
+382
+00:20:27,620 --> 00:20:29,280
+...yang Nn. Jacobs dapatkan dari Justin Lee,...
+
+383
+00:20:29,290 --> 00:20:31,420
+...mata-mata potensial yang dia selidiki,...
+
+384
+00:20:31,420 --> 00:20:33,040
+...dan dia benar.
+
+385
+00:20:33,040 --> 00:20:36,760
+Lee beroperasi dalam penyamaran
+yang cukup mengagumkan.
+
+386
+00:20:36,760 --> 00:20:39,330
+Mendapatkan gelarnya dari MIT.
+
+387
+00:20:39,330 --> 00:20:42,130
+Bersertifikat dengan segel yang sudah usang.
+
+388
+00:20:42,130 --> 00:20:45,170
+Akta kelahirannya di New Jersey, catatan kesehatannya.
+
+389
+00:20:45,170 --> 00:20:46,470
+Siapapun yang merancang ini...
+
+390
+00:20:46,470 --> 00:20:48,170
+Mereka profesional.
+
+391
+00:20:48,170 --> 00:20:49,690
+Itulah kenapa mereka bisa
+membuatnya jadi tertuduh begitu cepat...
+
+392
+00:20:49,690 --> 00:20:51,720
+...saat mereka tahu kalau dia 
+menyelidiki tentang mereka.
+
+393
+00:20:51,730 --> 00:20:54,340
+Pertanyaannya adalah, siapa yang menjebaknya?
+
+394
+00:20:54,340 --> 00:20:57,610
+Jika aku bisa mendekrip surel Lee,
+mungkin akan ada jawaban.
+
+395
+00:21:04,150 --> 00:21:07,240
+Dia membuntuti asistennya, Finch.
+
+396
+00:21:13,110 --> 00:21:14,580
+Kuharap kau bukan ingin mengajakku bermain.
+
+397
+00:21:14,580 --> 00:21:16,870
+Jangan tersinggung, Detektif,
+tapi lawanku adalah seseorang...
+
+398
+00:21:16,870 --> 00:21:18,280
+...yang membawa sesuatu yang
+lebih mearik ke meja ini,...
+
+399
+00:21:18,290 --> 00:21:20,190
+...dan kau mengganggu konsentrasiku.
+
+400
+00:21:20,190 --> 00:21:22,250
+Kalau begitu aku langsung saja.
+
+401
+00:21:22,260 --> 00:21:23,540
+Detectif bernama Szymanski.
+
+402
+00:21:23,540 --> 00:21:25,460
+Bagian kriminal terorganisir.
+
+403
+00:21:25,460 --> 00:21:27,880
+Apa dia menerima suapmu?
+
+404
+00:21:27,880 --> 00:21:29,580
+Kau melakukan langkah yang salah, Detektif.
+
+405
+00:21:29,580 --> 00:21:31,010
+Cuma mencari jawaban.
+
+406
+00:21:31,020 --> 00:21:34,050
+Maka berilah pertanyaan yang lebih baik.
+
+407
+00:21:38,220 --> 00:21:42,190
+Siapa yang mendapat keuntungan dari
+ penangkapan dan pembunuhan Szymanski?
+
+408
+00:21:42,190 --> 00:21:46,140
+Bagimana bisa orang yang merencanakan
+hal ini tidak dicurigai?
+
+409
+00:21:48,150 --> 00:21:50,930
+Dan siapa yang mengendalikan...
+
+410
+00:21:50,930 --> 00:21:53,740
+...keadaan dengan diam-diam?
+
+411
+00:21:53,740 --> 00:21:56,660
+Kurasa kau tahu sesuatu yang bahkan tidak
+ kau sadari kalau kau mengetahuinya...
+
+412
+00:21:56,660 --> 00:21:58,490
+...yang artinya kau bermain permainan caturmu...
+
+413
+00:21:58,490 --> 00:22:00,280
+...sendiri, Detektif.
+Kau hanya belum menyadarinya.
+
+414
+00:22:00,280 --> 00:22:02,240
+Kau tidak memberi uang pada Szymanski?
+
+415
+00:22:02,250 --> 00:22:04,680
+Tentu kami memberinya,...
+
+416
+00:22:04,680 --> 00:22:06,050
+...dan dia melemparnya ke wajah kami.
+
+417
+00:22:06,050 --> 00:22:10,140
+Dia bersih, dan kau dipermainkan oleh HR.
+
+418
+00:22:13,640 --> 00:22:16,810
+Senang bertemu denganmu,
+Detektif Beecher.
+
+419
+00:22:16,810 --> 00:22:18,610
+Kata-kata nasihat.
+
+420
+00:22:18,610 --> 00:22:20,430
+Pilih jalanmu selanjutnya dengan bijak,...
+
+421
+00:22:20,430 --> 00:22:23,070
+...atau jalan itu akan dipilih untukmu.
+
+422
+00:22:25,970 --> 00:22:27,600
+Detektif Carter,...
+
+423
+00:22:27,610 --> 00:22:29,570
+...apa kau menemukan laporan kematian Lee?
+
+424
+00:22:29,570 --> 00:22:30,810
+Itu sebabnya aku menghubungi.
+
+425
+00:22:30,810 --> 00:22:32,970
+Kotak hitam BMW-nya memperlihatkan...
+
+426
+00:22:32,980 --> 00:22:35,260
+...tak ada tabrakan dari mobil lain.
+
+427
+00:22:35,260 --> 00:22:38,810
+Tak ada kerusakan atau kegagalan sistem,
+cuma kecelakaan sederhana.
+
+428
+00:22:38,820 --> 00:22:41,250
+Aku memutuskan untuk mendapatkan
+sidik jari dari jasadnya,...
+
+429
+00:22:41,250 --> 00:22:42,550
+...untuk memeriksanya di dalam sistem.
+
+430
+00:22:42,550 --> 00:22:44,170
+Apa sidik jarinya memberitahumu sesuatu?
+
+431
+00:22:44,170 --> 00:22:45,870
+Aku tidak mendapatkan sidiknya.
+Jasadnya hilang.
+
+432
+00:22:45,870 --> 00:22:47,120
+Apa?
+
+433
+00:22:47,120 --> 00:22:48,960
+Memeriksa kamar mayat selama 45 menit.
+
+434
+00:22:48,960 --> 00:22:51,830
+Seseorang disana, mencuri jasad Lee,...
+
+435
+00:22:51,830 --> 00:22:55,130
+...menghilang tanpa jejak.
+
+436
+00:22:58,550 --> 00:23:02,300
+Sepertinya bukan kabar baik.
+
+437
+00:23:02,310 --> 00:23:05,720
+Beecher mencari jawaban.
+
+438
+00:23:05,730 --> 00:23:09,860
+Salah satu orang kita di Rikers
+ melihatnya, bersama Elias.
+
+439
+00:23:11,410 --> 00:23:15,280
+Sepertinya obrolanmu dengannya tidak berguna.
+
+440
+00:23:15,290 --> 00:23:17,850
+Sayang sekali.
+
+441
+00:23:17,850 --> 00:23:20,410
+Kita bisa mempromosikannya ke luar kota.
+
+442
+00:23:20,410 --> 00:23:22,570
+Bekerja di belakang meja di negara bagian.
+
+443
+00:23:27,000 --> 00:23:30,250
+Aku selalu memberitahu Cal untuk berhati-hati.
+
+444
+00:23:30,250 --> 00:23:33,050
+Menjadi polisi adalah pekerjaan yang berbahaya.
+
+445
+00:23:41,710 --> 00:23:46,500
+Dia sudah diatasi kemarin, operasi 
+kita tidak lagi dalam bahaya.
+
+446
+00:23:46,680 --> 00:23:48,570
+Jerome!
+
+447
+00:23:48,570 --> 00:23:51,740
+Monica. Apa yang kau lakukan disini?/
+Apa yang terjadi kemarin?
+
+448
+00:23:51,740 --> 00:23:52,990
+Mengapa kau mengatakan hal-hal itu?
+
+449
+00:23:52,990 --> 00:23:54,570
+Apa kau mengikutiku? Lepaskan aku.
+
+450
+00:23:54,580 --> 00:23:56,110
+Tidak sampai aku mendapatkan jawaban.
+
+451
+00:23:56,110 --> 00:23:57,440
+Aku tidak menerima perintahmu lagi, jalang!
+
+452
+00:23:59,330 --> 00:24:02,610
+Bersikap baiklah, jawab pertanyaan wanita ini.
+
+453
+00:24:02,620 --> 00:24:04,580
+Dalam bahasa Inggris, bukan Mandarin.
+
+454
+00:24:04,590 --> 00:24:07,040
+Kau bekerja pada siapa?
+
+455
+00:24:07,040 --> 00:24:10,420
+Kau membuang waktumu.
+Anggota kami banyak.
+
+456
+00:24:11,510 --> 00:24:12,790
+Merunduk.
+
+457
+00:24:14,430 --> 00:24:16,930
+Siapa kau?/Saat ini adalah target tembakan.
+
+458
+00:24:22,100 --> 00:24:23,350
+Tn. Reese!
+
+459
+00:24:23,350 --> 00:24:25,720
+Aku punya berita./
+Bisakah itu menunggu, Finch?
+
+460
+00:24:25,720 --> 00:24:27,690
+Aku membuka surel Lee yang dienkripsi.
+
+461
+00:24:27,690 --> 00:24:30,180
+Itu adalah pesan untuk ayahnya,...
+
+462
+00:24:30,180 --> 00:24:32,860
+...seorang pejabat tinggi di Partai Komunis China.
+
+463
+00:24:32,860 --> 00:24:34,310
+Apa kau bilang?
+
+464
+00:24:34,310 --> 00:24:36,230
+Lee bukan memata-mati perusahaan.
+
+465
+00:24:36,230 --> 00:24:38,120
+Dia memata-matai untuk negaranya.
+
+466
+00:24:38,120 --> 00:24:40,270
+Kita baru saja berurusan dengan Penduduk Republik China.
+
+467
+00:24:40,270 --> 00:24:41,790
+Kau akan membawaku kemana?
+
+468
+00:24:41,790 --> 00:24:43,460
+Tempat aman.
+
+469
+00:24:43,460 --> 00:24:45,840
+Gunakan akomodasi baru, Tn. Reese.
+
+470
+00:24:45,840 --> 00:24:47,630
+Aku akan menyusulmu segera setelah...
+
+471
+00:24:52,130 --> 00:24:55,550
+Tidak menyenangkan saat orang
+memburumu, 'kan?
+
+472
+00:25:09,010 --> 00:25:10,630
+Apa yang membawamu kesini, Nn. Shaw?
+
+473
+00:25:10,630 --> 00:25:13,180
+Kuanggap kau ingin aku menemukanmu.
+
+474
+00:25:13,180 --> 00:25:16,070
+Untuk alasan apa lagi kau memberiku kartumu?
+
+475
+00:25:18,150 --> 00:25:22,040
+Maksudku kau cuma perlu menelepon,...
+
+476
+00:25:22,040 --> 00:25:24,810
+...tapi kurasa ini boleh juga.
+
+477
+00:25:24,810 --> 00:25:27,750
+Tawaranku masih berlaku, kau tahu.
+
+478
+00:25:30,620 --> 00:25:32,750
+Menurutmu aku harus punya hobi.
+
+479
+00:25:32,750 --> 00:25:34,350
+Hobi apa kira-kira?
+
+480
+00:25:34,350 --> 00:25:36,620
+Menghabiskan waktu di perpustakaan
+yang tidak digunakan bersamamu,...
+
+481
+00:25:36,620 --> 00:25:38,840
+...penjagamu yang tidak pernah
+behubungan sosial itu,...
+
+482
+00:25:38,840 --> 00:25:40,790
+...dan juga Bear?
+
+483
+00:25:40,790 --> 00:25:42,340
+Sedikit resiko dalam penyelamatan dunia,...
+
+484
+00:25:42,350 --> 00:25:45,350
+...tapi kami menikmati keadaan.
+
+485
+00:25:45,350 --> 00:25:47,520
+Dan apa tujuanmu, Harold?
+
+486
+00:25:47,520 --> 00:25:49,420
+Ini hobimu?
+
+487
+00:25:49,420 --> 00:25:51,350
+Menyediakan penampungan
+untuk pembunuh yang pensiun?
+
+488
+00:25:51,360 --> 00:25:53,390
+Aku tidak suka melihat bakat yang disia-siakan.
+
+489
+00:25:53,390 --> 00:25:56,490
+Kau sangat meyakinkan, bukan?
+
+490
+00:25:56,490 --> 00:25:58,430
+Aku sangat percaya diri Nn. Shaw,...
+
+491
+00:25:58,430 --> 00:26:01,200
+...bahwa kau orang pertama yang
+mengatakan itu padaku.
+
+492
+00:26:01,200 --> 00:26:03,530
+Lagipula, kau tidak pegang senjata.
+
+493
+00:26:03,530 --> 00:26:05,700
+Sepertinya ada perkembangan.
+Apa yang kubantu untukmu?
+
+494
+00:26:07,700 --> 00:26:11,570
+Cerita menarik di berita pagi ini.
+
+495
+00:26:11,580 --> 00:26:15,710
+Seorang agen CIA tewas saat
+melakukan tugas dalam operasi rahasia.
+
+496
+00:26:15,710 --> 00:26:18,050
+Dia mengungkap rencana teroris domestik.
+
+497
+00:26:18,050 --> 00:26:20,280
+Agensi tidak akan menyangkal atau 
+mengkonfirmasi hal ini...
+
+498
+00:26:20,280 --> 00:26:21,920
+...tapi tentu saja seorang jurnalis...
+
+499
+00:26:21,920 --> 00:26:25,120
+...menerima bocoran dokumen dari 
+Langley(=Kantor utama CIA).
+
+500
+00:26:28,420 --> 00:26:30,280
+Aku membaca cerita ini juga.
+
+501
+00:26:30,280 --> 00:26:32,590
+Sangat menyedihkan.
+
+502
+00:26:32,600 --> 00:26:34,730
+Dia tampak mati sebagai pahlawan.
+
+503
+00:26:34,730 --> 00:26:38,920
+Kita berdua tahu, Cole
+tidak bekerja untuk CIA.
+
+504
+00:26:38,920 --> 00:26:41,020
+Jadi aku punya teori gila,...
+
+505
+00:26:41,020 --> 00:26:44,490
+...kalau seseorang telah meretas sistem
+agensi rahasia...
+
+506
+00:26:44,490 --> 00:26:46,990
+...paling kuat di dunia dan memasukkan data agen...
+
+507
+00:26:46,990 --> 00:26:51,080
+...yang sampai kemarin, tidak pernah ada.
+
+508
+00:26:51,080 --> 00:26:54,170
+Itu terdengar seperti sesuatu yang gila.
+
+509
+00:27:00,490 --> 00:27:03,630
+Temanku di hotel.
+
+510
+00:27:03,630 --> 00:27:06,260
+Obrolan kami cuma sebentar.
+
+511
+00:27:06,260 --> 00:27:09,160
+Tampaknya kami punya kesamaan.
+
+512
+00:27:10,500 --> 00:27:13,350
+Beritahu aku tentang dia.
+
+513
+00:27:13,350 --> 00:27:16,500
+Hubunganku dengan wanita ini
+agak rumit.
+
+514
+00:27:19,030 --> 00:27:21,140
+Apa yang akan kau lakukan?
+
+515
+00:27:21,140 --> 00:27:25,310
+Menurutmu aku butuh hobi, Harold?
+
+516
+00:27:25,320 --> 00:27:28,070
+Kurasa aku baru saja menemukannya.
+
+517
+00:27:39,050 --> 00:27:40,630
+Penghianat.
+
+518
+00:27:45,970 --> 00:27:49,670
+Lee mata-mata untuk China?
+
+519
+00:27:49,670 --> 00:27:51,710
+Sepertinya begitu.
+
+520
+00:27:51,710 --> 00:27:55,040
+Tahu kira-kira kenapa China tertarik pada Rylatech?
+
+521
+00:27:55,050 --> 00:27:56,730
+Rancangan milik kami selalu
+menempatkan kami...
+
+522
+00:27:56,730 --> 00:27:58,710
+...di barisan depan industri ini.
+
+523
+00:27:58,720 --> 00:28:00,150
+Mungkin mereka ingin mencuri hasil kerja kami.
+
+524
+00:28:00,150 --> 00:28:01,850
+Atau menyabotasenya.
+
+525
+00:28:01,850 --> 00:28:05,100
+Lee secara rahasia bisa mengubah
+rancanganmu,...
+
+526
+00:28:05,110 --> 00:28:06,350
+...membuatnya tidak berfungsi.
+
+527
+00:28:06,360 --> 00:28:08,110
+Dan Jerome?
+
+528
+00:28:08,110 --> 00:28:10,110
+Mungkin dia diperintahkan untuk mengawasimu.
+
+529
+00:28:10,110 --> 00:28:13,780
+Dia asistenku selama dua tahun.
+
+530
+00:28:13,780 --> 00:28:16,080
+Dan sekarang dia mati.
+
+531
+00:28:16,080 --> 00:28:18,230
+Kami tidak akan membiarkan hal itu terjadi padamu.
+
+532
+00:28:18,230 --> 00:28:19,950
+Kami?
+
+533
+00:28:22,170 --> 00:28:24,840
+Nona Jacobs./Harold?
+
+534
+00:28:26,460 --> 00:28:27,880
+Aku harusnya tiba lebih cepat,
+temanmu...
+
+535
+00:28:27,880 --> 00:28:30,240
+...mampir dan bilang kalau
+dia begitu menikmati...
+
+536
+00:28:30,250 --> 00:28:32,350
+...obrolanmu kemarin malam.
+
+537
+00:28:32,350 --> 00:28:34,430
+Tunggu...
+
+538
+00:28:34,430 --> 00:28:36,920
+Jadi kau bukan petugas IT?
+
+539
+00:28:36,920 --> 00:28:39,420
+Tidak dalam anggapan tradisional
+tapi mungkin...
+
+540
+00:28:39,420 --> 00:28:41,940
+...kita bisa mengenyampingkan pertanyaan itu sampai...
+
+541
+00:28:41,940 --> 00:28:44,480
+....kita bisa menangani siapa
+orang yang berusaha membunuhmu.
+
+542
+00:28:44,480 --> 00:28:46,930
+Kurasa bukan asistenmu saja...
+
+543
+00:28:46,930 --> 00:28:48,400
+...yang bekerja dengan Tn. Lee.
+
+544
+00:28:48,400 --> 00:28:50,030
+Untuk menempatkan seseorang 
+dalam divisi...
+
+545
+00:28:50,030 --> 00:28:52,030
+...seaman Riset dan Pengembangan?
+
+546
+00:28:52,040 --> 00:28:54,790
+Mereka membutuhkan seseorang
+yang mempunyai akses kerja.
+
+547
+00:28:54,790 --> 00:28:57,440
+Riset dan Pengembangan adalah divisinya Ross.
+
+548
+00:28:59,110 --> 00:29:02,210
+Dia satu-satunya orang yang
+kuberitahu tentang Lee.
+
+549
+00:29:02,210 --> 00:29:06,250
+Aku harus ke polisi atau FBI.
+
+550
+00:29:06,250 --> 00:29:08,550
+Mereka sudah memperkirakan itu./
+Selagi kau ditanyai,...
+
+551
+00:29:08,550 --> 00:29:10,050
+...mereka akan menghancurkan barang bukti...
+
+552
+00:29:10,050 --> 00:29:13,760
+...yang bisa memberatkan mereka
+atau membebaskanmu...
+
+553
+00:29:13,760 --> 00:29:17,130
+...kecuali kita mendapatkan
+bukti itu lebih dulu.
+
+554
+00:29:19,350 --> 00:29:22,100
+Semua permintaan jaringanku dikunci.
+
+555
+00:29:22,100 --> 00:29:24,480
+Kau sudah mencoba antarmuka web?
+
+556
+00:29:24,480 --> 00:29:26,300
+Ya, tapi aku tidak bisa mengakses pengaturan,...
+
+557
+00:29:26,300 --> 00:29:29,350
+...atau portmap RPC.
+
+558
+00:29:29,360 --> 00:29:31,810
+Boleh?
+
+559
+00:29:31,810 --> 00:29:35,940
+Ini salah satu rancanganku.
+
+560
+00:29:35,950 --> 00:29:38,860
+Secara komplit membangun ulang antarmuka,...
+
+561
+00:29:38,870 --> 00:29:41,080
+...melumpuhkan portmapp.
+
+562
+00:29:41,080 --> 00:29:42,750
+Otentikasi sekuder?
+
+563
+00:29:42,750 --> 00:29:46,090
+Ditambahkan untuk akses ke FTP dan SNMP.
+
+564
+00:29:46,090 --> 00:29:48,540
+kalian berdua tidak ingin diganggu...
+
+565
+00:29:51,460 --> 00:29:54,300
+Aku membuat agar tidak mungkin
+perusahaan kami diretas secara virtual,...
+
+566
+00:29:54,300 --> 00:29:56,300
+...dan sekarang aku baru saja melakukannya.
+
+567
+00:29:56,300 --> 00:29:58,680
+Sepuluh tahun selama hidupku.
+
+568
+00:29:58,690 --> 00:30:02,600
+Malam, akhir pekan.
+
+569
+00:30:02,610 --> 00:30:05,670
+Kau tahu berapa banyak tawaran kerja yang kutolak?
+
+570
+00:30:05,680 --> 00:30:07,510
+Itu jenis kesetiaan yang langka di jaman sekarang ini.
+
+571
+00:30:10,180 --> 00:30:12,810
+Kebenarannya adalah, aku tidak ingin
+bekerja untuk orang lain lagi.
+
+572
+00:30:14,780 --> 00:30:18,150
+Mereka tidak hanya rekan kerja, tapi keluargaku.
+
+573
+00:30:18,160 --> 00:30:21,070
+Dan sekarang mereka berpikir
+aku menghianati mereka.
+
+574
+00:30:21,070 --> 00:30:23,490
+Ekspresi di wajah Martin...
+
+575
+00:30:25,080 --> 00:30:27,660
+Kau mungkin jatuh, Monica,
+tapi kau belum kalah.
+
+576
+00:30:27,660 --> 00:30:28,960
+Belum.
+
+577
+00:30:28,970 --> 00:30:31,550
+Jika aku bisa melewati firewall serever ini,...
+
+578
+00:30:31,550 --> 00:30:33,670
+...kita mungkin bisa menemukan
+jaringan tersembunyi...
+
+579
+00:30:33,670 --> 00:30:36,170
+...yang digunakan Lee dan mata-mata lainnya.
+
+580
+00:30:42,050 --> 00:30:44,380
+Ada apa?/Kita diretas.
+
+581
+00:30:44,380 --> 00:30:48,230
+Mereka merusak kata sandi 
+hingga baterai laptop.
+
+582
+00:30:48,240 --> 00:30:50,190
+Membajak firmware. Mundur!
+
+583
+00:30:52,240 --> 00:30:53,910
+Apa yang terjadi?
+
+584
+00:30:53,910 --> 00:30:55,890
+Mereka melumpuhkan pengendali
+mikro yang meregulasi...
+
+585
+00:30:55,890 --> 00:30:57,060
+...daya baterai.
+
+586
+00:30:57,060 --> 00:30:58,910
+Mata-mata pasti memantau jaringan.
+
+587
+00:30:58,910 --> 00:31:00,950
+Lalu apa sekarang?/
+Jika aku tidak bisa menembus...
+
+588
+00:31:00,950 --> 00:31:02,700
+...firewall? Aku tidak yakin.
+
+589
+00:31:02,700 --> 00:31:05,000
+Bagaimana kalau kita bersama-sama...
+
+590
+00:31:05,000 --> 00:31:07,040
+...mengakses langsung dari server?
+
+591
+00:31:07,040 --> 00:31:08,700
+Itu berarti kita harus kembali ke Rylatech.
+
+592
+00:31:08,710 --> 00:31:10,690
+Aku bisa menunjukkanmu ke mana 
+harus pergi./Itu terlalu beresiko.
+
+593
+00:31:10,690 --> 00:31:12,340
+Semua orang dia gedung itu mengenali wajahmu.
+
+594
+00:31:12,340 --> 00:31:16,540
+Nn. Jacobs, kau masih menyimpan
+kartu pengenal karyawan-mu?
+
+595
+00:31:16,550 --> 00:31:19,510
+Ya, tapi sudah dinonaktifkan.
+
+596
+00:31:19,520 --> 00:31:20,880
+Lagipula, chip penanda lokasinya...
+
+597
+00:31:20,880 --> 00:31:22,880
+...akan memberitahu keamanan
+dimana aku berada.
+
+598
+00:31:22,890 --> 00:31:24,420
+Ya, aku tahu.
+
+599
+00:31:32,910 --> 00:31:35,980
+Dia tidak diperbolehkan masuk.
+
+600
+00:31:35,980 --> 00:31:37,900
+Ayo.
+
+601
+00:31:44,610 --> 00:31:46,160
+Di atas sebelah kiri.
+
+602
+00:31:58,400 --> 00:31:59,620
+<i>Bear, gigit.</i>
+
+603
+00:31:59,620 --> 00:32:01,420
+Gigit!
+
+604
+00:32:01,420 --> 00:32:03,840
+Masuk kedalam!
+
+605
+00:32:05,460 --> 00:32:07,060
+Kau aman, Tn. Reese.
+
+606
+00:32:07,060 --> 00:32:09,310
+Beritahu aku saat kau menemukan
+ruang server.
+
+607
+00:32:16,190 --> 00:32:17,660
+Kami masuk.
+
+608
+00:32:17,660 --> 00:32:19,310
+Sekarang lihat apa ada server katalog.
+
+609
+00:32:19,310 --> 00:32:21,330
+Server katalog?
+
+610
+00:32:21,330 --> 00:32:23,750
+Ini.
+
+611
+00:32:26,820 --> 00:32:28,620
+Pemancar diinstal.
+
+612
+00:32:28,620 --> 00:32:30,340
+Dia bisa mengakses.
+
+613
+00:32:30,340 --> 00:32:31,920
+Sekarang aku terhubung.
+
+614
+00:32:31,920 --> 00:32:34,160
+Coba lihat apa yang bisa kita temukan.
+
+615
+00:32:37,010 --> 00:32:38,630
+Bagaimana perkembangannya, Finch?
+
+616
+00:32:38,630 --> 00:32:42,130
+Aku menemukan traffic tingkat tinggi
+yang terenkripsi...
+
+617
+00:32:42,130 --> 00:32:45,000
+...yang menggunakan sejumlah besar 
+bandwidth yang mencurigakan.
+
+618
+00:32:45,000 --> 00:32:46,670
+Kita tidak punya banyak waktu disini.
+
+619
+00:32:46,670 --> 00:32:49,190
+Aku bekerja secepat yang kubisa, Tn. Reese.
+
+620
+00:32:49,190 --> 00:32:50,840
+Oh, itu menarik.
+
+621
+00:32:50,840 --> 00:32:54,160
+Apa?/Bukan apa-apa.
+
+622
+00:32:54,160 --> 00:32:57,400
+Aku menemukan pengguna
+ yang menerima traffic.
+
+623
+00:32:57,400 --> 00:32:59,280
+Maksudmu mata-mata?/Ya.
+
+624
+00:32:59,280 --> 00:33:01,150
+Sepertinya kita menganggap remeh...
+
+625
+00:33:01,150 --> 00:33:02,850
+...skala operasinya.
+
+626
+00:33:02,850 --> 00:33:06,700
+Ada lebih dari setengah karyawan tingkat senior...
+
+627
+00:33:06,710 --> 00:33:08,210
+...di setiap departemen.
+
+628
+00:33:08,210 --> 00:33:11,330
+Semua pengalihan traffic ini
+sepertinya datang...
+
+629
+00:33:11,330 --> 00:33:13,830
+...dari sejumlah jaringan
+tiada henti...
+
+630
+00:33:13,830 --> 00:33:18,050
+...milik pemerintah.
+
+631
+00:33:18,050 --> 00:33:20,000
+Militer, institusi perbankan.
+
+632
+00:33:20,000 --> 00:33:24,010
+Ini adalah klien Rylatech.
+Tapi bagaimana...
+
+633
+00:33:25,540 --> 00:33:27,180
+Penghala dan penghubung kita.
+
+634
+00:33:27,180 --> 00:33:29,980
+Mereka telah dimanfaatkan.
+Mereka punya pintu belakang.
+
+635
+00:33:29,980 --> 00:33:31,880
+Mata-mata tidak memata-matai Rylatech.
+
+636
+00:33:31,880 --> 00:33:33,480
+Mereka menggunakan teknologi Rylatech...
+
+637
+00:33:33,480 --> 00:33:36,320
+...untuk memata-matai seluruh negara./
+Ya Tuhan.
+
+638
+00:33:36,320 --> 00:33:38,020
+Siapa orang-orang ini?
+
+639
+00:33:38,020 --> 00:33:41,360
+Tn. Reese, kurasa kegiatan mata-mata
+kita sudah dideteksi.
+
+640
+00:33:41,360 --> 00:33:43,720
+Kau dan Nn. Jacobs harus keluar
+dari sana sekarang.
+
+641
+00:33:46,730 --> 00:33:49,250
+Aku tidak bisa menerima ini, Finch.
+
+642
+00:34:12,770 --> 00:34:14,220
+Tn. Reese, kalian baik-baik saja?
+
+643
+00:34:14,220 --> 00:34:15,890
+Kami baik-baik saja.
+
+644
+00:34:15,890 --> 00:34:18,780
+Tapi mereka punya agen di dalam gedung.
+
+645
+00:34:18,780 --> 00:34:21,760
+Mereka berkomunikasi dengan
+jaringan SMS internal,...
+
+646
+00:34:21,760 --> 00:34:23,600
+...menerima pesan dari satu lokasi,...
+
+647
+00:34:23,600 --> 00:34:26,320
+...kantor milik Ross Haskell.
+
+648
+00:34:26,320 --> 00:34:28,370
+Dimana kantor Haskell?
+
+649
+00:34:28,370 --> 00:34:30,570
+Sebelah sini.
+
+650
+00:34:30,570 --> 00:34:33,610
+Tn. Reese, ada yang perlu kau ketahui
+tentang Haskell.
+
+651
+00:34:33,610 --> 00:34:34,910
+Namanya tidak ada didaftar.
+
+652
+00:34:34,910 --> 00:34:37,750
+Haskell bukan salah satu dari mata-mata.
+
+653
+00:34:40,750 --> 00:34:43,080
+Buang senjatamu, sekarang!
+
+654
+00:34:43,950 --> 00:34:46,620
+Martin?
+
+655
+00:35:00,860 --> 00:35:03,400
+Martin! Kau?
+
+656
+00:35:03,400 --> 00:35:06,370
+Aku tahu bagaimana ini kelihatannya, Monica.
+
+657
+00:35:06,370 --> 00:35:08,400
+Bagaimana kelihatannya?
+
+658
+00:35:08,410 --> 00:35:11,360
+Kau pembunuh dan mata-mata China.
+
+659
+00:35:11,360 --> 00:35:14,910
+Tidak! Aku cuma melindungi 
+hasil kerjaku selama hidupku.
+
+660
+00:35:14,910 --> 00:35:16,700
+Tega sekali kau melakukan ini?
+
+661
+00:35:16,700 --> 00:35:19,630
+Ekonomi sederhana.
+Saat dot-com muncul,...
+
+662
+00:35:19,630 --> 00:35:20,750
+...kita bangkrut.
+
+663
+00:35:20,750 --> 00:35:22,970
+Yang utama mengambilalih target.
+
+664
+00:35:22,970 --> 00:35:24,700
+Kemudian kesempatan datang dengan sendirinya.
+
+665
+00:35:24,710 --> 00:35:28,510
+Untuk menyelamatkan perusahaanmu
+kau menjual negaramu.
+
+666
+00:35:28,510 --> 00:35:30,010
+Siapa kau?
+
+667
+00:35:30,010 --> 00:35:32,340
+Itu tidak penting. Dia benar.
+
+668
+00:35:32,350 --> 00:35:34,430
+Dia bodoh.
+
+669
+00:35:34,430 --> 00:35:36,930
+Dunia berubah, Monica.
+
+670
+00:35:36,930 --> 00:35:38,270
+Tak ada tempat berharga lagi...
+
+671
+00:35:38,270 --> 00:35:42,020
+...di negara usang buat patriotisme.
+
+672
+00:35:42,020 --> 00:35:44,320
+Dan perusahaan seperti perusahaan kita,...
+
+673
+00:35:44,330 --> 00:35:46,910
+...kita harus bisa menatap ke masa depan,...
+
+674
+00:35:46,910 --> 00:35:49,860
+...agar kita bisa siap dengan
+apa yang akan datang selanjutnya.
+
+675
+00:35:49,860 --> 00:35:51,410
+Dan apa itu?
+
+676
+00:35:51,420 --> 00:35:53,570
+Menjual informasi ketimbang melinduginya?
+
+677
+00:35:53,570 --> 00:35:56,400
+Mengendalikannya.
+
+678
+00:35:56,400 --> 00:35:59,250
+Karena siapapun yang mengendalikan informasi...
+
+679
+00:35:59,260 --> 00:36:00,910
+...akan mengendalikan masa depan.
+
+680
+00:36:00,910 --> 00:36:04,180
+Dan bagaimana dengan tujuan
+perusahaan ini didirikan?
+
+681
+00:36:04,180 --> 00:36:06,750
+Cerita kesuksesan warga
+Amerika yang hebat.
+
+682
+00:36:06,750 --> 00:36:08,010
+Orang suka cerita.
+
+683
+00:36:08,020 --> 00:36:09,260
+Aku percaya.
+
+684
+00:36:09,270 --> 00:36:10,970
+Tentu saja.
+
+685
+00:36:10,970 --> 00:36:12,800
+Itu sebabnya kau begitu handal dengan pekerjaanmu...
+
+686
+00:36:12,800 --> 00:36:16,720
+...dan kau jangan pernah percaya
+dengan kebenaran.
+
+687
+00:36:16,720 --> 00:36:18,590
+Sama seperti Ross,...
+
+688
+00:36:18,590 --> 00:36:20,930
+...satu dari beberapa korban...
+
+689
+00:36:20,930 --> 00:36:23,610
+...dari bekas karyawan yang buruk,...
+
+690
+00:36:23,610 --> 00:36:27,070
+...yang datang dan menembaknya,...
+
+691
+00:36:27,070 --> 00:36:29,530
+...kemudian mengarahkan pistol ke dirinya sendiri.
+
+692
+00:36:29,540 --> 00:36:31,120
+Tn. Reese, aku menghubungi aparat,...
+
+693
+00:36:31,120 --> 00:36:33,040
+...dan mengirimkan bukti ke FBI.
+
+694
+00:36:33,040 --> 00:36:35,290
+Rencanamu tidak akan berhasil.
+
+695
+00:36:35,290 --> 00:36:38,740
+Federal sedang dalam perjalanan.
+
+696
+00:36:41,080 --> 00:36:43,920
+Ya?/Tn. Baxter.
+
+697
+00:36:43,920 --> 00:36:45,970
+Kau ingat pembahasan kita...
+
+698
+00:36:45,970 --> 00:36:47,950
+...dihari kita menyetujui kesepakatan?
+
+699
+00:36:47,960 --> 00:36:50,170
+Ya.
+
+700
+00:36:50,170 --> 00:36:52,290
+Harinya telah tiba.
+
+701
+00:36:52,290 --> 00:36:55,510
+Keluargamu akan mendapatkan tunjangan.
+
+702
+00:36:57,930 --> 00:37:00,020
+Aku mengerti.
+
+703
+00:37:11,650 --> 00:37:14,680
+Tn. Reese?
+
+704
+00:37:14,680 --> 00:37:16,550
+Kami baik-baik saja, Finch.
+
+705
+00:37:21,240 --> 00:37:23,910
+Mereka semua sudah pergi.
+
+706
+00:37:38,040 --> 00:37:41,140
+Kita tidak bisa melakukan apapun itu di meja kita?
+
+707
+00:37:41,140 --> 00:37:43,370
+Ini? Tidak.
+
+708
+00:37:44,850 --> 00:37:46,540
+Apa kau memberikan uang ke Szymanski?
+
+709
+00:37:46,550 --> 00:37:49,210
+Tentu kami memberinya, tapi dia
+melemparnya ke wajah kami.
+
+710
+00:37:49,220 --> 00:37:50,380
+Dia bersih,...
+
+711
+00:37:50,380 --> 00:37:54,390
+...dan kau sudah dimanfaatkan oleh HR.
+
+712
+00:37:54,390 --> 00:37:58,410
+Beecher mencoba mencari tahu
+siapa yang menjebak Szymanski.
+
+713
+00:37:58,410 --> 00:38:00,580
+Yang artinya dia tidak terlibat Carter.
+
+714
+00:38:00,580 --> 00:38:04,080
+Dan seseroang dari HR memanfaatkannya.
+
+715
+00:38:04,080 --> 00:38:05,950
+Kita harus menyerahkan ini ke IAB agar mereka bisa...
+
+716
+00:38:05,950 --> 00:38:07,400
+Tunggu... IAB?
+
+717
+00:38:07,400 --> 00:38:09,950
+Ini bukan rekaman yang bisa
+diterima oleh pengadilan.
+
+718
+00:38:09,950 --> 00:38:12,370
+Kau ingin tahu tentang
+Beecher, sekarang kau tahu.
+
+719
+00:38:12,370 --> 00:38:14,760
+Aku akan mengabaikannya./Mengabaikannya?
+
+720
+00:38:14,760 --> 00:38:19,010
+Fusco, kau tahu siapa yang memberi
+tahu informasi itu pada Beecher?
+
+721
+00:38:19,010 --> 00:38:20,550
+Kau harus menanyakan padanya.
+
+722
+00:38:20,550 --> 00:38:22,810
+Carter, Beecher mungkin sedang
+berjalan di jalan penuh bahaya.
+
+723
+00:38:22,820 --> 00:38:25,020
+Aku akanberhati-hati sebelum
+berniat mengikutinya.
+
+724
+00:38:32,260 --> 00:38:33,440
+Dia menjual, tapi dia tidak 
+akan memperlihatkannya...
+
+725
+00:38:33,440 --> 00:38:35,390
+...kecuali aku terlihat pantas untuk membeli.
+
+726
+00:38:35,400 --> 00:38:39,030
+Baiklah, saat penjualan selesai,
+ aku akan melakukan penyergapan.
+
+727
+00:38:39,030 --> 00:38:41,700
+Jika berjalan lancar, kau mendapat setengahnya lagi.
+
+728
+00:38:48,290 --> 00:38:51,380
+Beecher./Hei, kau sibuk?
+
+729
+00:38:51,380 --> 00:38:53,300
+Sedang bertugas.
+
+730
+00:38:53,300 --> 00:38:56,080
+Kalau sudah selesai, mau kutraktir minum?
+
+731
+00:38:56,080 --> 00:38:57,500
+Kita perlu bicara.
+
+732
+00:38:57,500 --> 00:38:59,830
+Yeah, baiklah.
+
+733
+00:38:59,840 --> 00:39:01,090
+Aku di Washington Heights...
+
+734
+00:39:01,090 --> 00:39:03,220
+...tapi aku akan menemuimu kembali di Eighth.
+
+735
+00:39:03,220 --> 00:39:05,420
+Aku akan menunggumu.
+
+736
+00:39:10,980 --> 00:39:12,980
+Hei, hei!
+
+737
+00:39:28,000 --> 00:39:30,530
+Donnie, apa yang kau lakukan?
+
+738
+00:39:32,700 --> 00:39:35,500
+Yo, biarkan aku aman terlebih dulu./
+Aman dari apa?
+
+739
+00:39:37,290 --> 00:39:39,870
+10-13, terjadi tembakan!
+
+740
+00:39:42,310 --> 00:39:44,550
+Carter./Detektif,...
+
+741
+00:39:44,550 --> 00:39:45,710
+...ada hal penting mengenai...
+
+742
+00:39:45,720 --> 00:39:47,270
+...Detektif Beecher.
+Apa dia bersama denganmu?
+
+743
+00:39:47,270 --> 00:39:48,880
+Tidak. Kenapa?
+
+744
+00:39:48,890 --> 00:39:50,600
+Apa kau dengar?
+Petugas diserang...
+
+745
+00:39:50,600 --> 00:39:52,550
+...di Washington Heights.
+
+746
+00:39:52,560 --> 00:39:55,470
+Washington Heights? Cal!
+
+747
+00:40:24,970 --> 00:40:27,210
+Cal.
+
+748
+00:40:36,020 --> 00:40:38,650
+Ayo, Carter. Ayo.
+
+749
+00:40:51,400 --> 00:40:53,560
+Berita mengejutkan datang dari Rylatech hari ini.
+
+750
+00:40:53,570 --> 00:40:56,080
+Polisi menemukan jasad
+ CEO Martin Baxter...
+
+751
+00:40:56,090 --> 00:40:58,870
+...dan wakil direktur Ross Haskell dalam aksi
+pembunuhan dan bunuh diri...
+
+752
+00:40:58,960 --> 00:41:01,210
+Saham Rylatech jatuh akibat rumor mata-mata...
+
+753
+00:41:01,210 --> 00:41:02,760
+...tersembunyi di balik kegiatan perusahaan.
+
+754
+00:41:02,760 --> 00:41:04,380
+Penyidik Federal menutup operasi...
+
+755
+00:41:04,380 --> 00:41:06,010
+...dan meminta semua produk Rylatech...
+
+756
+00:41:06,010 --> 00:41:07,460
+...di situs pemerintahan segera diganti.
+
+757
+00:41:07,460 --> 00:41:09,710
+Peryataan lebih lanjut masih ditunda.
+
+758
+00:41:11,120 --> 00:41:14,150
+Saat kita melawan spionase internasional,...
+
+759
+00:41:14,150 --> 00:41:17,290
+...keadaan malah memburuk
+lingkungan kita sendiri.
+
+760
+00:41:17,290 --> 00:41:18,810
+Permainan apapun yang Elias rencanakan,...
+
+761
+00:41:18,810 --> 00:41:21,460
+...semakin berbahaya setiap harinya.
+
+762
+00:41:21,460 --> 00:41:24,130
+Tn. Jacobs, bagaimana kabarmu?
+
+763
+00:41:24,130 --> 00:41:25,680
+Oh, lumayan, mengingat...
+
+764
+00:41:25,680 --> 00:41:28,730
+...perusahaan tempatku bekerja
+selama sepuluh tahun terakhir...
+
+765
+00:41:28,740 --> 00:41:30,150
+...sedang dalam penyelidikan federal.
+
+766
+00:41:30,150 --> 00:41:32,770
+Dan kita menerobos firewall bersama-sama.
+
+767
+00:41:32,770 --> 00:41:33,970
+Panggil aku Monica.
+
+768
+00:41:33,970 --> 00:41:35,860
+Jadi kemana kau selanjutnya?
+
+769
+00:41:35,860 --> 00:41:37,640
+Ah, ada tawaran kerja yang datang.
+
+770
+00:41:37,640 --> 00:41:38,980
+Dan yang paling menarik perhatianku...
+
+771
+00:41:38,980 --> 00:41:40,830
+...adalah berasal dari perusahaan bernama IFT.
+
+772
+00:41:40,830 --> 00:41:43,200
+Kurasa aku pernah mendengarnya.
+
+773
+00:41:43,200 --> 00:41:46,420
+Mereka memproduksi sesuatu yang
+menarik perihal arsitektur CPU.
+
+774
+00:41:46,420 --> 00:41:49,250
+Seperitinya cocok. Aku mengharapkan
+ yang terbaik untukmu.
+
+775
+00:41:49,260 --> 00:41:51,510
+Jaga diri, Monica.
+
+776
+00:41:51,510 --> 00:41:53,710
+Kau juga, Harold.
+
+777
+00:41:56,260 --> 00:42:00,100
+Kau akan merindukannya, Finch?
+
+778
+00:42:00,100 --> 00:42:03,170
+Mungkin saja.
+
+779
+00:42:03,170 --> 00:42:07,810
+Namun, ada hal yang harus kita bicarakan.
+
+780
+00:42:07,810 --> 00:42:10,490
+Di malam kita masuk ke Rylatech,...
+
+781
+00:42:10,490 --> 00:42:13,400
+...aku mengenali beberapa kode enkripsi...
+
+782
+00:42:13,400 --> 00:42:14,780
+...di jaringan mata-mata.
+
+783
+00:42:14,780 --> 00:42:17,120
+Kode itu memiliki tanda...
+
+784
+00:42:17,120 --> 00:42:20,400
+...yang sama seperti virus
+yang diunggah Stanton.
+
+785
+00:42:20,400 --> 00:42:25,410
+Aku bisa memecah kode virus itu
+dan menemukan dua hal.
+
+786
+00:42:25,410 --> 00:42:27,380
+Aku mendengarkan, Finch.
+
+787
+00:42:27,380 --> 00:42:29,710
+Pertama, hanya sebagian data yang dicuri...
+
+788
+00:42:29,710 --> 00:42:31,250
+...yang sampai ke pemerintah China.
+
+789
+00:42:31,250 --> 00:42:34,530
+Sebagian lagi ke organsasi lain.
+
+790
+00:42:34,530 --> 00:42:38,300
+Aku yakin mereka yang melakukan
+hubungan terakhir dengan Baxter.
+
+791
+00:42:38,310 --> 00:42:41,470
+Aku menggali lebih jauh, tapi yang
+bisa kutemukan adalah sebuah nama...
+
+792
+00:42:41,480 --> 00:42:44,060
+Decima Technologies.
+
+793
+00:42:44,060 --> 00:42:46,210
+Dan hal kedua?
+
+794
+00:42:46,210 --> 00:42:49,730
+Siapapun Decima,
+aku yakin mereka menciptakan virus...
+
+795
+00:42:49,730 --> 00:42:52,400
+...untuk menemukan dan menginfeksi
+satu target...
+
+796
+00:42:54,890 --> 00:42:57,990
+Mesin.
+
+797
+00:43:04,280 --> 00:43:09,070
+Sayangnya, kita tidak bekerja sama lagi dengan Rylatech.
+
+798
+00:43:09,070 --> 00:43:12,240
+Tapi, seperti yang diperkirakan, Amerika
+memfokuskan perhatiannya...
+
+799
+00:43:12,240 --> 00:43:14,760
+...pada keterlibatan China, bukan kita.
+
+800
+00:43:14,760 --> 00:43:19,030
+Oh, satu masalah kecil. 
+Pelaku penerobos...
+
+801
+00:43:19,030 --> 00:43:21,580
+...enkripsi jaringan kita sepertinya...
+
+802
+00:43:21,580 --> 00:43:23,520
+...ulah kerja satu individu.
+
+803
+00:43:23,520 --> 00:43:25,920
+Aku akan berusaha keras...
+
+804
+00:43:25,920 --> 00:43:30,310
+...untuk mengetahui identitasnya
+dan membuatnya jadi tak relevan.
+
+805
+00:43:30,310 --> 00:43:32,590
+Operasi kita yang lebih besar...
+
+806
+00:43:32,590 --> 00:43:36,560
+...tentu saja masih dalam jadwal.
+
+807
+00:43:42,000 --> 00:43:46,460
+Sync and corrections by n17t01 - www.addic7ed.com
+Diterjemahkan oleh - IDFL.us
+
