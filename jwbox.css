@@ -15,12 +15,10 @@
 }
 #jwboxContactClose{
         background: url() no-repeat -190px -115px;
-        font-family:verdana,arial,serif;
-        font-size:11px;
+        position: absolute;
         top:0px;
-        text-align: center;
         right:0px;
-        width:100%;
+        width:22px;
         height:10px;
 }
 .jwbox_hidden {
