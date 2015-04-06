@@ -15,9 +15,9 @@
 }
 #jwboxContactClose{
         background: url() no-repeat -190px -115px;
-        position:absolute;
-        top:1px;
-        right:-7px;
+        position:bottom;
+        top:0px;
+        right:0px;
         width:28px;
         height:22px;
 }
