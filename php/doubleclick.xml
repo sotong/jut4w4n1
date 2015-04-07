@@ -44,7 +44,7 @@
            </VideoClicks>
            <MediaFiles>
              <MediaFile id="GDFP" delivery="PROGRESSIVE" bitrate="100" width="400" height="300" type="video/x-flv" scalable="false" maintainAspectRatio="false">
-<![CDATA[http://cdn.vdopia.com/files/videos/21829adf16cfc1259e1b02fa76cb82cd.flv]]>
+<![CDATA[http://jut4w4n1.googlecode.com/svn/trunk/Countdown.mp4]]>
              </MediaFile>
            </MediaFiles>
          </Linear>
