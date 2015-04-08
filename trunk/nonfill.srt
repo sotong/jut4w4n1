@@ -1,4 +1,4 @@
 ﻿1
 00:00:00,000 --> 03:00:04,291
-<font color="#FF0000" face="Comic Sans MS" size="12"><i>Brought to you by</font><font color="#FFFFF" face="Comic Sans MS" size="12">nonfill.blogspot.com</i></font>
+<font color="#FF0000" face="Comic Sans MS" size="16"><i>Brought to you by </font><font color="#FFFFF" face="Comic Sans MS" size="12">nonfill.blogspot.com</i></font>
 
