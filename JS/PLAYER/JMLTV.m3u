@@ -1,0 +1,124 @@
+#EXTM3U
+
+#EXTINF:0,Bein 1 
+rtmp://180.250.29.12/jhos/beib1_2
+
+#EXTINF:0,Bein 2 
+rtmp://180.250.29.12/jhos/beib2_2
+
+#EXTINF:0,Bein 3 
+rtmp://180.250.29.12/jhos/beib3_3
+
+#EXTINF:0,RCTI 
+http://119.81.135.56/kqcsmbqna6yg/rcti2_all/playlist.m3u8
+
+#EXTINF:0,Metro TV 
+http://103.18.239.131/kqcsmbqna6yg/metrotv2_all/playlist.m3u8
+
+#EXTINF:0,Metro TV 1
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-metrotv/playlist.m3u8
+
+#EXTINF:0,TV One
+http://103.18.239.131/kqcsmbqna6yg/tvone2_all/playlist.m3u8
+
+#EXTINF:0,TV One 1
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-tvone/playlist.m3u8
+
+#EXTINF:0,SCTV
+http://103.18.239.131/kqcsmbqna6yg/sctv2_all/playlist.m3u8
+
+#EXTINF:0,SCTV 1
+http://edge.linknet.swiftserve.com/live/fmgo/amlst:fmgosctv/playlist.m3u8
+
+#EXTINF:0,Trans TV
+http://103.18.239.131/kqcsmbqna6yg/transtv2_all/playlist.m3u8
+
+#EXTINF:0,Trans TV 1
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-transtv/playlist.m3u8
+
+#EXTINF:0,Trans 7
+http://103.18.239.131/kqcsmbqna6yg/trans72_all/playlist.m3u8
+
+#EXTINF:0,Trans 7 1
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-trans7/playlist.m3u8
+
+#EXTINF:0,ANTV
+http://103.18.239.131/kqcsmbqna6yg/antv2_all/playlist.m3u8
+
+#EXTINF:0,ANTV 1
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-antv/playlist.m3u8
+
+#EXTINF:0,Kompas TV
+http://103.18.239.131/kqcsmbqna6yg/kompastv_all/playlist.m3u8
+
+#EXTINF:0,Kompas TV 1
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-kompastv/playlist.m3u8
+
+#EXTINF:0,Berita Satu
+http://103.18.239.131/kqcsmbqna6yg/beritasatu_all/playlist.m3u8
+
+#EXTINF:0,Berita Satu 1
+http://edge.telin.swiftserve.com/live/livetv-sbr/u-beritasatu/playlist.m3u8
+
+#EXTINF:0,TVRI
+http://103.18.239.131/kqcsmbqna6yg/tvrinasional_all/playlist.m3u8
+
+#EXTINF:0,TVRI 1
+http://edge.telin.swiftserve.com/live/livetv-sbr/u-tvri/playlist.m3u8
+
+#EXTINF:0,Rajawali TV
+http://103.18.239.131/kqcsmbqna6yg/rajawalitv.stream_all/playlist.m3u8
+
+#EXTINF:0,Rajawali TV 1
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-rtv/playlist.m3u8
+
+#EXTINF:0,Indosiar
+http://103.18.239.131/kqcsmbqna6yg/indosiar2_all/playlist.m3u8
+
+#EXTINF:0,Net.
+http://103.18.239.131/kqcsmbqna6yg/nettv_all/playlist.m3u8
+
+#EXTINF:0,Bloomberg TV
+http://103.18.239.131/kqcsmbqna6yg/bloomberg-id_all/playlist.m3u8
+
+#EXTINF:0,Bali TV
+http://edge.telin.swiftserve.com/live/livetv-sbr/u-balitv/playlist.m3u8
+
+#EXTINF:0,Rajawali TV
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-rtv/playlist.m3u8
+
+#EXTINF:0,Mivo
+http://103.18.239.131/kqcsmbqna6yg/mivotv_all/playlist.m3u8
+
+#EXTINF:0,Antara TV
+http://103.18.239.131/kqcsmbqna6yg/antaratv_all/playlist.m3u8
+
+#EXTINF:0,Aswaja TV
+http://103.18.239.131/kqcsmbqna6yg/aswajatv_all/playlist.m3u8
+
+#EXTINF:0,Cahaya TV
+http://103.18.239.131/kqcsmbqna6yg/cahayatv_all/playlist.m3u8
+
+#EXTINF:0,DaaiTV
+http://103.18.239.131/kqcsmbqna6yg/daaitv2_all/playlist.m3u8
+
+#EXTINF:0,Damai TV
+http://103.18.239.131/kqcsmbqna6yg/more1_all/playlist.m3u8
+
+#EXTINF:0,DMC TV
+http://103.18.239.131/kqcsmbqna6yg/dmctv_all/playlist.m3u8
+
+#EXTINF:0,Elshinta TV
+http://103.18.239.131/kqcsmbqna6yg/elshintatv_all/playlist.m3u8
+
+#EXTINF:0,Haari TV
+http://103.18.239.131/kqcsmbqna6yg/more2_all/playlist.m3u8
+
+#EXTINF:0,JakTV
+http://103.18.239.131/kqcsmbqna6yg/jaktv_all/playlist.m3u8
+
+#EXTINF:0,JTV
+http://103.18.239.131/kqcsmbqna6yg/jawatv_all/playlist.m3u8
+
+#EXTINF:0,Ochannel
+http://103.18.239.131/kqcsmbqna6yg/ochannel_all/playlist.m3u8
